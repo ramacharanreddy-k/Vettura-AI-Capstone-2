@@ -29,7 +29,7 @@ The project consists of several key components:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/ramacharanreddy-k/Vettura-AI-Capstone-2.git
 cd renesas-rag
 ```
 
