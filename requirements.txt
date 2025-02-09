@@ -1,1 +1,35 @@
-bs4
+# Web Scraping Dependencies
+selenium
+undetected-chromedriver
+beautifulsoup4
+webdriver-manager
+requests
+
+# Data Processing & Storage
+chromadb
+langchain
+langchain-chroma
+langchain-community
+langchain-openai
+python-dotenv
+
+# Machine Learning & AI
+torch
+transformers
+Pillow
+
+# UI & Visualization
+streamlit
+
+# Utility Libraries
+python-json-logger
+pathlib
+
+# File Handling & Format Support
+aiofiles
+PyYAML
+
+# Optional Development Tools
+black
+pylint
+pytest
