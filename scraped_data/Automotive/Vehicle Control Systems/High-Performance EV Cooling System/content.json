@@ -1,0 +1,209 @@
+{
+  "overview": {
+    "description": {
+      "main_text": [
+        "As the global automotive industry shifts towards electrification, efficient thermal management of electric vehicle (EV) battery packs is crucial for optimal performance, longevity, and safety. Unlike traditional internal combustion engines that dissipate heat into the air, EV batteries require sophisticated cooling systems to maintain ideal operating temperatures.",
+        "This advanced EV battery cooling system features a high-performance automotive MCU integrated with key power devices, including MOSFETs and drivers. It supports BLDC motor control with field-oriented control (FOC) algorithms, offering flexibility and efficiency in cooling system design."
+      ],
+      "benefits": [
+        "The AEC-Q100 automotive-qualified MCU supports BLDC motor control with FOC algorithms, ensuring high performance and reliability for EV cooling systems.",
+        "The wide input buck regulator supports 12V/24V battery systems, making it versatile for various EV applications.",
+        "The 60V N-channel MOSFET and 55V/1A H-Bridge FET driver are suitable for car body applications."
+      ]
+    },
+    "applications": [
+      "Automotive Motor Control",
+      "Electric Vehicle (EV)"
+    ],
+    "images": [],
+    "comparison": null
+  },
+  "block_diagram": {
+    "svg": "<svg class=\"st26\" color-interpolation-filters=\"sRGB\" height=\"7.33729in\" viewbox=\"0 0 674.51 528.285\" width=\"9.36819in\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:ev=\"http://www.w3.org/2001/xml-events\" xmlns:v=\"http://schemas.microsoft.com/visio/2003/SVGExtensions/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<style type=\"text/css\">\n\t\n\t\t.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}\n\t\t.st2 {fill:#000000;font-family:Arial;font-size:0.833336em}\n\t\t.st3 {fill:#0071b9;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}\n\t\t.st4 {fill:#ffffff;font-family:Arial;font-size:0.916672em}\n\t\t.st5 {font-size:1em}\n\t\t.st6 {marker-end:url(#mrkr4-23);stroke:#000000;stroke-width:1}\n\t\t.st7 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}\n\t\t.st8 {stroke:#000000;stroke-width:1}\n\t\t.st9 {marker-end:url(#mrkr4-23);marker-start:url(#mrkr4-43);stroke:#000000;stroke-width:1}\n\t\t.st10 {baseline-shift:-32.4947%;font-size:0.649894em}\n\t\t.st11 {marker-end:url(#mrkr4-23);stroke:#000000;stroke-dasharray:7,5;stroke-width:1}\n\t\t.st12 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}\n\t\t.st13 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}\n\t\t.st14 {fill:#000000;font-family:Arial;font-size:1.00001em}\n\t\t.st15 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.48476}\n\t\t.st16 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:0.48476}\n\t\t.st17 {fill:#000000;stroke:#000000;stroke-linecap:butt;stroke-width:1}\n\t\t.st18 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st19 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st20 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st21 {fill:#0071b9;stroke:#000000;stroke-dasharray:7,5;stroke-width:1}\n\t\t.st22 {fill:#4ba3d3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}\n\t\t.st23 {fill:#ffffff;font-family:Arial;font-size:0.833336em}\n\t\t.st24 {baseline-shift:32.4947%;font-size:0.649894em}\n\t\t.st25 {fill:#4ba3d3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st26 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}\n\t\n\t</style>\n<defs id=\"Markers\">\n<g id=\"lend4\">\n<path d=\"M 2 1 L 0 0 L 2 -1 L 2 1 \" style=\"stroke:none\"></path>\n</g>\n<marker class=\"st7\" id=\"mrkr4-23\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"-7.04\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"7.04\">\n<use transform=\"scale(-3.52,-3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n<marker class=\"st7\" id=\"mrkr4-43\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"6.68\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"6.68\">\n<use transform=\"scale(3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n</defs>\n<g v:groupcontext=\"foregroundPage\" v:index=\"1\" v:mid=\"19\">\n<title>CN364</title>\n<g id=\"shape107-1\" transform=\"translate(607.85,-18.36)\" v:groupcontext=\"shape\" v:mid=\"107\">\n<title>CN364</title>\n<desc>CN364</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"48.2996\" x=\"0\" y=\"508.281\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"8.59\" y=\"521.28\">CN364</text> </g>\n<a data-link-id=\"#ldo\" xlink:href=\"#ldo\">\n<g id=\"shape110-4\" transform=\"translate(125.36,-353.047)\" v:groupcontext=\"shape\" v:mid=\"110\">\n<title>LDO</title>\n<desc>LDO</desc>\n<rect class=\"st3\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"494.535\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"39.32\" y=\"514.71\">LDO</text> </g>\n</a>\n<a data-link-id=\"#humidity-temp-sensor\" xlink:href=\"#humidity-temp-sensor\">\n<g id=\"shape111-7\" transform=\"translate(125.36,-281.485)\" v:groupcontext=\"shape\" v:mid=\"111\">\n<title>Humidity/Temp Sensor</title>\n<desc>Humidity/Temp Sensor</desc>\n<rect class=\"st3\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"494.535\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"13.64\" y=\"508.11\">Humidity/Temp <tspan class=\"st5\" dy=\"1.2em\" x=\"33.2\">Sensor</tspan></text> </g>\n</a>\n<a data-link-id=\"#h-bridge\" xlink:href=\"#h-bridge\">\n<g id=\"shape118-11\" transform=\"translate(511.424,-235.934)\" v:groupcontext=\"shape\" v:mid=\"118\">\n<title>H-Bridge x2</title>\n<desc>H-Bridge x2</desc>\n<rect class=\"st3\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"494.535\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"21.59\" y=\"514.71\">H-Bridge x2</text> </g>\n</a>\n<g id=\"shape127-14\" transform=\"translate(56,-425.996)\" v:groupcontext=\"shape\" v:mid=\"127\">\n<title> 12V Battery    </title>\n<desc>12V/24V Battery</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"508.281\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"16.82\" y=\"515.28\">12V/24V <tspan class=\"st5\" dy=\"1.2em\" x=\"20.16\">Battery</tspan></text> </g>\n<g id=\"shape128-18\" transform=\"translate(63.7009,-443.611)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"128\">\n<title>Connector Arrow</title>\n<path class=\"st6\" d=\"M0 515.78 L54.62 515.78\"></path>\n</g>\n<g id=\"shape129-24\" transform=\"translate(163.485,-439.236)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"129\">\n<title>Connector Arrow.129</title>\n<path class=\"st6\" d=\"M12.5 528.28 L12.5 573.68\"></path>\n</g>\n<g id=\"shape131-29\" transform=\"translate(175.985,-398.985)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"131\">\n<title>Connector Arrow.131</title>\n<path class=\"st6\" d=\"M0 515.78 L112.96 515.78\"></path>\n</g>\n<g id=\"shape132-34\" transform=\"translate(92,-456.111)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"132\">\n<title>Connector Line</title>\n<path class=\"st8\" d=\"M0 528.28 L0 482.91 L470.49 482.91\"></path>\n</g>\n<g id=\"shape133-37\" transform=\"translate(472.725,-398.985)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"133\">\n<title>Connector double arrow</title>\n<path class=\"st9\" d=\"M6.68 515.78 L7.04 515.78 L63.41 515.78\"></path>\n</g>\n<g id=\"shape134-45\" transform=\"translate(163.485,-353.047)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"134\">\n<title>Connector Arrow.134</title>\n<path class=\"st6\" d=\"M12.5 528.28 L12.5 559.06\"></path>\n</g>\n<g id=\"shape135-50\" transform=\"translate(257.337,-356.985)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"135\">\n<title>Connector Arrow.135</title>\n<path class=\"st6\" d=\"M0 515.78 L31.61 515.78\"></path>\n</g>\n<g id=\"shape136-55\" transform=\"translate(244.837,-298.735)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"136\">\n<title>Connector Line.136</title>\n<path class=\"st8\" d=\"M12.5 528.28 L12.5 457.53\"></path>\n</g>\n<g id=\"shape137-58\" transform=\"translate(257.331,-285.86)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"137\">\n<title>Connector Arrow.137</title>\n<path class=\"st6\" d=\"M0 515.78 L-23.68 515.78\"></path>\n</g>\n<g id=\"shape138-63\" transform=\"translate(177.485,-315.246)\" v:groupcontext=\"shape\" v:mid=\"138\">\n<title>3.3V/150mAmax</title>\n<desc>3.3V/150mAmax</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"78.0947\" x=\"0\" y=\"508.281\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"5.39\" y=\"521.28\">3.3V/150mA<tspan class=\"st10\" dy=\"-0.287em\" v:basefontsize=\"10\">max</tspan></text> </g>\n<g id=\"shape139-67\" transform=\"translate(177,-411.483)\" v:groupcontext=\"shape\" v:mid=\"139\">\n<title>5V/150mA</title>\n<desc>5V/150mA</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"508.281\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"12.65\" y=\"521.28\">5V/150mA</text> </g>\n<g id=\"shape141-70\" transform=\"translate(267.707,-240.309)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"141\">\n<title>Connector Arrow.141</title>\n<path class=\"st6\" d=\"M0 515.78 L21.25 515.78\"></path>\n</g>\n<g id=\"shape142-75\" transform=\"translate(267.485,-297.756)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"142\">\n<title>Connector dotted arrow</title>\n<path class=\"st11\" d=\"M0 515.78 L21.46 515.78\"></path>\n</g>\n<g id=\"shape143-80\" transform=\"translate(254.985,-82.4849)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"143\">\n<title>Connector Line.143</title>\n<path class=\"st8\" d=\"M12.5 528.28 L12.5 300.51\"></path>\n</g>\n<g id=\"shape144-83\" transform=\"translate(267.793,-68.985)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"144\">\n<title>Connector Line.144</title>\n<path class=\"st8\" d=\"M0 515.78 L243.19 515.78\"></path>\n</g>\n<g id=\"shape145-86\" transform=\"translate(574.549,-501.485)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"145\">\n<title>Connector Line.145</title>\n<path class=\"st6\" d=\"M-12.06 528.28 L-12.91 753.05\"></path>\n</g>\n<g id=\"shape146-91\" transform=\"translate(549.549,-235.246)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"146\">\n<title>Connector Arrow.146</title>\n<path class=\"st6\" d=\"M12.5 528.28 L12.5 598.07\"></path>\n</g>\n<g id=\"shape147-96\" transform=\"translate(549.549,-125.36)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"147\">\n<title>Connector Arrow.147</title>\n<path class=\"st6\" d=\"M12.5 528.28 L12.5 548.24\"></path>\n</g>\n<g id=\"group148-101\" transform=\"translate(408.746,-128.572)\" v:groupcontext=\"group\" v:mid=\"148\">\n<title>Motor</title>\n<g id=\"shape149-102\" v:groupcontext=\"shape\" v:mid=\"149\">\n<title>Motor</title>\n<ellipse class=\"st12\" cx=\"13.8801\" cy=\"514.622\" rx=\"13.8801\" ry=\"13.6633\"></ellipse>\n</g>\n<g id=\"shape150-104\" v:groupcontext=\"shape\" v:mid=\"150\">\n<title>Motor.150</title>\n<desc>M</desc>\n<rect class=\"st13\" height=\"27.3265\" width=\"27.7603\" x=\"0\" y=\"500.958\"></rect>\n<text class=\"st14\" v:langid=\"1033\" x=\"8.88\" y=\"518.22\">M</text> </g>\n</g>\n<g id=\"shape151-107\" transform=\"translate(511.424,-129.735)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"151\">\n<title>Connector Arrow.151</title>\n<path class=\"st6\" d=\"M0 515.78 L-67.4 515.78\"></path>\n</g>\n<g id=\"group163-112\" transform=\"translate(-146.285,403.039) rotate(-90)\" v:groupcontext=\"group\" v:mid=\"163\">\n<title>Radiator</title>\n<g id=\"shape164-113\" transform=\"translate(0,-18.5604)\" v:groupcontext=\"shape\" v:mid=\"164\">\n<title>Fan/Pump.164</title>\n<rect class=\"st15\" height=\"12.285\" width=\"37.2585\" x=\"0\" y=\"516\"></rect>\n</g>\n<g id=\"shape165-115\" transform=\"translate(18.6292,-18.5604)\" v:groupcontext=\"shape\" v:mid=\"165\">\n<title>Fan/Pump</title>\n<rect class=\"st15\" height=\"12.285\" width=\"18.6292\" x=\"0\" y=\"516\"></rect>\n</g>\n<g id=\"shape166-117\" transform=\"translate(2.24036,-20.3719)\" v:groupcontext=\"shape\" v:mid=\"166\">\n<title>Fan/Pump.166</title>\n<rect class=\"st16\" height=\"2.49238\" width=\"32.7778\" x=\"0\" y=\"525.793\"></rect>\n</g>\n<g id=\"shape167-119\" transform=\"translate(2.24036,-26.7912)\" v:groupcontext=\"shape\" v:mid=\"167\">\n<title>Fan/Pump.167</title>\n<rect class=\"st16\" height=\"2.49238\" width=\"5.81478\" x=\"0\" y=\"525.793\"></rect>\n</g>\n<g id=\"group168-121\" transform=\"translate(7.12173,0)\" v:groupcontext=\"group\" v:mid=\"168\">\n<title>   Fan/Pump </title>\n<g id=\"shape169-122\" transform=\"translate(0.402422,-5.33812)\" v:groupcontext=\"shape\" v:mid=\"169\">\n<title>Sheet.169</title>\n<path class=\"st17\" d=\"M1.28 517.58 C1.28 517.58 0 519.14 0.7 521.32 C1.51 523.85 2.76 524.34 1.66 528.28 L4.46 528.28 C4.46          528.28 5.72 526.25 4.57 523.74 C3.44 521.27 3.17 518.72 3.85 517.58 L1.28 517.58 Z\"></path>\n</g>\n<g id=\"shape170-124\" v:groupcontext=\"shape\" v:mid=\"170\">\n<title>Sheet.170</title>\n<path class=\"st18\" d=\"M0 522.62 L6.57 522.63 L3.27 528.28 L0 522.62 Z\"></path>\n</g>\n</g>\n<g id=\"group171-126\" transform=\"translate(16.0087,0)\" v:groupcontext=\"group\" v:mid=\"171\">\n<title>  Fan/Pump</title>\n<g id=\"shape172-127\" transform=\"translate(0.402422,-5.33812)\" v:groupcontext=\"shape\" v:mid=\"172\">\n<title>Sheet.172</title>\n<path class=\"st17\" d=\"M1.28 517.58 C1.28 517.58 0 519.14 0.7 521.32 C1.51 523.85 2.76 524.34 1.66 528.28 L4.46 528.28 C4.46          528.28 5.72 526.25 4.57 523.74 C3.44 521.27 3.17 518.72 3.85 517.58 L1.28 517.58 Z\"></path>\n</g>\n<g id=\"shape173-129\" v:groupcontext=\"shape\" v:mid=\"173\">\n<title>Sheet.173</title>\n<path class=\"st18\" d=\"M0 522.62 L6.57 522.63 L3.27 528.28 L0 522.62 Z\"></path>\n</g>\n</g>\n<g id=\"group174-131\" transform=\"translate(24.8957,0)\" v:groupcontext=\"group\" v:mid=\"174\">\n<title> Fan/Pump</title>\n<g id=\"shape175-132\" transform=\"translate(0.402422,-5.33812)\" v:groupcontext=\"shape\" v:mid=\"175\">\n<title>Sheet.175</title>\n<path class=\"st17\" d=\"M1.28 517.58 C1.28 517.58 0 519.14 0.7 521.32 C1.51 523.85 2.76 524.34 1.66 528.28 L4.46 528.28 C4.46          528.28 5.72 526.25 4.57 523.74 C3.44 521.27 3.17 518.72 3.85 517.58 L1.28 517.58 Z\"></path>\n</g>\n<g id=\"shape176-134\" v:groupcontext=\"shape\" v:mid=\"176\">\n<title>Sheet.176</title>\n<path class=\"st18\" d=\"M0 522.62 L6.57 522.63 L3.27 528.28 L0 522.62 Z\"></path>\n</g>\n</g>\n</g>\n<g id=\"shape189-136\" transform=\"translate(387,-107.996)\" v:groupcontext=\"shape\" v:mid=\"189\">\n<title>Fan/Pump</title>\n<desc>Fan/Pump</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"508.281\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"12.93\" y=\"521.28\">Fan/Pump</text> </g>\n<g id=\"shape207-139\" transform=\"translate(472.282,-411.483)\" v:groupcontext=\"shape\" v:mid=\"207\">\n<title>To ECU</title>\n<desc>To ECU</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"508.281\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"18.22\" y=\"521.28\">To ECU</text> </g>\n<g id=\"group211-142\" transform=\"translate(552.125,-105.243)\" v:groupcontext=\"group\" v:mid=\"211\">\n<title>2</title>\n<g id=\"shape212-143\" transform=\"translate(250.756,990.048) rotate(153.435)\" v:groupcontext=\"shape\" v:mid=\"212\">\n<title>Communication Lines B.795</title>\n<path class=\"st19\" d=\"M0 528.28 L10.06 528.28\"></path>\n</g>\n<g id=\"shape213-146\" transform=\"translate(-0.124633,0)\" v:groupcontext=\"shape\" v:mid=\"213\">\n<title>2</title>\n<desc>2</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"43.7507\" x=\"0\" y=\"508.281\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"19.09\" y=\"521.28\">2</text> </g>\n</g>\n<g id=\"group214-149\" transform=\"translate(552.125,-186.833)\" v:groupcontext=\"group\" v:mid=\"214\">\n<title>6</title>\n<g id=\"shape215-150\" transform=\"translate(250.88,990.048) rotate(153.435)\" v:groupcontext=\"shape\" v:mid=\"215\">\n<title>Communication Lines B.795</title>\n<path class=\"st19\" d=\"M0 528.28 L10.06 528.28\"></path>\n</g>\n<g id=\"shape216-153\" v:groupcontext=\"shape\" v:mid=\"216\">\n<title>6</title>\n<desc>6</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"43.7507\" x=\"0\" y=\"508.281\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"19.09\" y=\"521.28\">6</text> </g>\n</g>\n<g id=\"shape217-156\" transform=\"translate(89.2273,-453.338)\" v:groupcontext=\"shape\" v:mid=\"217\">\n<title>Connector 1</title>\n<ellipse class=\"st20\" cx=\"2.77275\" cy=\"525.512\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape218-158\" transform=\"translate(173.212,-409.227)\" v:groupcontext=\"shape\" v:mid=\"218\">\n<title>Connector 1.218</title>\n<ellipse class=\"st20\" cx=\"2.77275\" cy=\"525.512\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape219-160\" transform=\"translate(526.049,-41)\" v:groupcontext=\"shape\" v:mid=\"219\">\n<title>Option</title>\n<desc>Option</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"508.281\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"21.27\" y=\"521.28\">Option</text> </g>\n<a data-link-id=\"#buck\" xlink:href=\"#buck\">\n<g id=\"shape109-163\" transform=\"translate(125.36,-439.236)\" v:groupcontext=\"shape\" v:mid=\"109\">\n<title>Buck</title>\n<desc>Buck</desc>\n<rect class=\"st3\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"494.535\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"38.4\" y=\"514.71\">Buck</text> </g>\n</a>\n<g id=\"shape221-166\" transform=\"translate(409.822,-129.899)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"221\">\n<title>Connector Arrow.221</title>\n<path class=\"st6\" d=\"M-1.11 515.78 L-16.85 515.78\"></path>\n</g>\n<a data-link-id=\"#thermal-mosfet\" xlink:href=\"#thermal-mosfet\">\n<g id=\"shape119-171\" transform=\"translate(511.424,-125.36)\" v:groupcontext=\"shape\" v:mid=\"119\">\n<title>Thermal MOSFET x6</title>\n<desc>Thermal MOSFET x6</desc>\n<rect class=\"st3\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"494.535\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"30.45\" y=\"508.11\">Thermal<tspan class=\"st5\" dy=\"1.2em\" x=\"20.37\">MOSFET x6</tspan></text> </g>\n</a>\n<a data-link-id=\"#op-amp\" xlink:href=\"#op-amp\">\n<g id=\"shape120-175\" transform=\"translate(511.424,-64.61)\" v:groupcontext=\"shape\" v:mid=\"120\">\n<title>OP AMP</title>\n<desc>Op Amp</desc>\n<path class=\"st21\" d=\"M0 528.28 L101.25 528.28 L101.25 494.53 L0 494.53 L0 528.28 Z\"></path>\n<text class=\"st4\" v:langid=\"1033\" x=\"30.45\" y=\"514.71\">Op Amp</text> </g>\n</a>\n<a data-link-id=\"#mcu\" xlink:href=\"#mcu\">\n<g id=\"group222-178\" transform=\"translate(295.987,-197.485)\" v:groupcontext=\"group\" v:mid=\"222\">\n<title>MCU</title>\n<g id=\"shape112-179\" v:groupcontext=\"shape\" v:mid=\"112\">\n<title>MCU</title>\n<desc>MCU</desc>\n<rect class=\"st3\" height=\"249.5\" width=\"176.737\" x=\"0\" y=\"278.785\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"75.84\" y=\"296.68\">MCU</text> </g>\n<g id=\"shape113-182\" transform=\"translate(5.00003,-161.352)\" v:groupcontext=\"shape\" v:mid=\"113\">\n<title>12C</title>\n<desc>I2C</desc>\n<rect class=\"st22\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"505.637\"></rect>\n<text class=\"st23\" v:langid=\"1033\" x=\"23.79\" y=\"519.96\">I<tspan class=\"st24\" dy=\"-0.235em\" v:basefontsize=\"10\">2</tspan><tspan class=\"st5\" dy=\"0.153em\">C</tspan></text> </g>\n<g id=\"shape114-187\" transform=\"translate(59.5829,922.57) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"114\">\n<title>10bit ADC</title>\n<desc>10bit ADC</desc>\n<path class=\"st25\" d=\"M0 485.83 L34.76 485.83 L54.58 507.01 L34.76 528.07 L0 528.28 L0 485.83 Z\"></path>\n<text class=\"st23\" transform=\"rotate(180)\" v:langid=\"1033\" x=\"-33.63\" y=\"-510.06\">10bit<tspan class=\"st5\" dy=\"1.2em\" x=\"-33.35\">ADC</tspan></text> </g>\n<g id=\"shape115-191\" transform=\"translate(5.00003,-44)\" v:groupcontext=\"shape\" v:mid=\"115\">\n<title>CMP</title>\n<desc>CMP</desc>\n<rect class=\"st22\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"505.637\"></rect>\n<text class=\"st23\" v:langid=\"1033\" x=\"19.49\" y=\"519.96\">CMP</text> </g>\n<g id=\"shape116-194\" transform=\"translate(110,-202.676)\" v:groupcontext=\"shape\" v:mid=\"116\">\n<title>Can</title>\n<desc>CAN</desc>\n<rect class=\"st22\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"505.637\"></rect>\n<text class=\"st23\" v:langid=\"1033\" x=\"20.05\" y=\"519.96\">CAN</text> </g>\n<g id=\"shape117-197\" transform=\"translate(110.294,-44)\" v:groupcontext=\"shape\" v:mid=\"117\">\n<title>PWM</title>\n<desc>PWM</desc>\n<rect class=\"st22\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"505.637\"></rect>\n<text class=\"st23\" v:langid=\"1033\" x=\"18.38\" y=\"519.96\">PWM</text> </g>\n</g>\n</a>\n</g>\n</svg>",
+    "svg_path": "scraped_data/Automotive/Vehicle Control Systems/High-Performance EV Cooling System/block_diagram.svg",
+    "blocks": {
+      "buck": {
+        "label": "Buck",
+        "categories": [
+          {
+            "title": "Buck Regulators (Integrated FETs)",
+            "products": [
+              {
+                "title": "ISL78206 - 40V 2.5A Buck Controller with Integrated High-Side MOSFET",
+                "product_id": "ISL78206",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL78206 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl78206-datasheet?r=25418016",
+                    "doc_id": "616036",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/dcdc-converters/step-down-buck/buck-regulators-integrated-fets/isl78206-40v-25a-buck-controller-integrated-high-side-mosfet#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "ldo": {
+        "label": "LDO",
+        "categories": [
+          {
+            "title": "Linear Regulators (LDO)",
+            "products": [
+              {
+                "title": "ISL78310 - High Performance 1A LDO",
+                "product_id": "ISL78310",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL78310 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl78310-datasheet?r=25418016",
+                    "doc_id": "616141",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/linear-regulators-ldo/isl78310-high-performance-1a-ldo#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "humidity-temp-sensor": {
+        "label": "Humidity & Temperature Sensor",
+        "categories": [
+          {
+            "title": "Humidity & Temperature Sensors",
+            "products": [
+              {
+                "title": "HS4003 - Relative Humidity and Temperature Sensor, Digital Output, ±2.5% RH",
+                "product_id": "HS4003",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "HS40xx Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/hs40xx-datasheet?r=25418016",
+                    "doc_id": "25441001",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/sensor-products/environmental-sensors/humidity-temperature-sensors/hs4003-relative-humidity-and-temperature-sensor-digital-output-25-rh#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "mcu": {
+        "label": "MCU",
+        "categories": [
+          {
+            "title": "RL78 Low-Power 8 & 16-Bit MCUs",
+            "products": [
+              {
+                "title": "RL78/F14 - Microcontrollers with Low Consumption Current for Automotive Applications",
+                "product_id": "RL78/F14",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RL78/F13, F14 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/rl78f13-f14-datasheet?r=25418016",
+                    "doc_id": "25569349",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/microcontrollers-microprocessors/rl78-low-power-8-16-bit-mcus/rl78f14-microcontrollers-low-consumption-current-automotive-applications#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "h-bridge": {
+        "label": "H-Bridge",
+        "categories": [
+          {
+            "title": "Full-Bridge FET Drivers",
+            "products": [
+              {
+                "title": "ISL83202 - 55V, 1A Peak Current H-Bridge FET Driver",
+                "product_id": "ISL83202",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL83202 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl83202-datasheet?r=25418016",
+                    "doc_id": "616341",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/fet-drivers/full-bridge-fet-drivers/isl83202-55v-1a-peak-current-h-bridge-fet-driver#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "thermal-mosfet": {
+        "label": "Thermal MOSFET",
+        "categories": [
+          {
+            "title": "Power MOSFETs",
+            "products": [
+              {
+                "title": "RJF0613JSP - Nch Thermal FET 60V 10A 30mohm SOP-8 / SOIC-8",
+                "product_id": "RJF0613JSP",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RJF0613JSP Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/rjf0613jsp-datasheet?r=25418016",
+                    "doc_id": "945936",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-discretes/power-mosfets/rjf0613jsp-nch-thermal-fet-60v-10a-30mohm-sop-8-soic-8#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "op-amp": {
+        "label": "Op Amp",
+        "categories": [
+          {
+            "title": "General-purpose Op Amps",
+            "products": [
+              {
+                "title": "READ2354J - High Drivability & High Slew Rate, Input Output Full Range, CMOS Dual Operational Amplifier",
+                "product_id": "READ2354J",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "READ2354J Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/read2354j-datasheet?r=25418016",
+                    "doc_id": "1609186",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/analog-products/amplifiers/operational-amplifiers/general-purpose-op-amps/read2354j-high-drivability-high-slew-rate-input-output-full-range-cmos-dual-operational-amplifier#parametric_options"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

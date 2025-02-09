@@ -1,0 +1,16 @@
+{
+  "overview": {
+    "description": {
+      "main_text": [],
+      "benefits": []
+    },
+    "applications": [],
+    "images": [],
+    "comparison": null
+  },
+  "block_diagram": {
+    "svg": null,
+    "svg_path": null,
+    "blocks": {}
+  }
+}

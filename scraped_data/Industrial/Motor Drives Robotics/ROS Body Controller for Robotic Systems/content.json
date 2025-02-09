@@ -1,0 +1,213 @@
+{
+  "overview": {
+    "description": {
+      "main_text": [
+        "The adoption of robots across various industries and applications is rapidly increasing as demands for greater efficiency and precision in processes and tasks grow. Robotic systems are becoming more complex, performing multiple tasks and processes involving various subsystems, which necessitates a centralized body controller to manage the overall coordination and integration of the entire robotic system.",
+        "This centralized Robot Operating System (ROS) body controller enables the control of multiple servos based on ROS, an open-source set of software libraries and tools, to provide centralized control, communication, and reliable power delivery."
+      ],
+      "benefits": [
+        "ROS offers a standardized way to control robots, making this design ideal for coordinating complex robotic behaviors and ensuring seamless communication between different components.",
+        "Seamless DDS and ROS integration, powered by the high-performance 32-bit MCU, ensures efficient operation in resource-constrained environments.",
+        "Multiple servo control via 1-wire UART and RS-485 reduces system complexity and cost.",
+        "Supports Pub/Sub communication via Ethernet, USB, and Wi-Fi modules.",
+        "Wide supply voltage range from 4.5V to 40V provides compatibility with various devices."
+      ]
+    },
+    "applications": [
+      "Service robots for logistics and warehouse",
+      "Defense and security",
+      "Agriculture",
+      "Healthcare"
+    ],
+    "images": [],
+    "comparison": null
+  },
+  "block_diagram": {
+    "svg": "<svg class=\"st25\" color-interpolation-filters=\"sRGB\" height=\"8.33333in\" viewbox=\"0 0 900 600\" width=\"12.5in\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:ev=\"http://www.w3.org/2001/xml-events\" xmlns:v=\"http://schemas.microsoft.com/visio/2003/SVGExtensions/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<style type=\"text/css\">\n\t\n\t\t.st1 {fill:#ffffff;stroke:#000000;stroke-dasharray:7,5;stroke-width:1}\n\t\t.st2 {fill:#000000;font-family:Arial;font-size:0.833336em}\n\t\t.st3 {fill:#dbeef3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st4 {fill:none;stroke:none;stroke-width:0.72}\n\t\t.st5 {fill:#0071b9;stroke:none;stroke-width:1}\n\t\t.st6 {fill:#ffffff;font-family:Arial;font-size:0.916672em}\n\t\t.st7 {font-size:1em}\n\t\t.st8 {fill:#ffffff;stroke:#000000;stroke-width:1}\n\t\t.st9 {fill:#000000;font-family:Arial;font-size:0.916672em}\n\t\t.st10 {fill:none;stroke:#000000;stroke-dasharray:7,5;stroke-width:1}\n\t\t.st11 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st12 {baseline-shift:-32.4947%;font-size:0.649894em}\n\t\t.st13 {marker-end:url(#mrkr4-67);stroke:#000000;stroke-width:1}\n\t\t.st14 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}\n\t\t.st15 {stroke:#000000;stroke-width:1}\n\t\t.st16 {marker-start:url(#mrkr4-81);stroke:#000000;stroke-width:1}\n\t\t.st17 {marker-end:url(#mrkr4-67);marker-start:url(#mrkr4-81);stroke:#000000;stroke-width:1}\n\t\t.st18 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}\n\t\t.st19 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}\n\t\t.st20 {fill:#000000;font-family:Arial;font-size:1.00001em}\n\t\t.st21 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st22 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}\n\t\t.st23 {fill:#4ba3d3;stroke:none;stroke-width:1}\n\t\t.st24 {fill:#ffffff;font-family:Arial;font-size:0.833336em}\n\t\t.st25 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}\n\t\n\t</style>\n<defs id=\"Markers\">\n<g id=\"lend4\">\n<path d=\"M 2 1 L 0 0 L 2 -1 L 2 1 \" style=\"stroke:none\"></path>\n</g>\n<marker class=\"st14\" id=\"mrkr4-67\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"-7.04\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"7.04\">\n<use transform=\"scale(-3.52,-3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n<marker class=\"st14\" id=\"mrkr4-81\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"6.68\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"6.68\">\n<use transform=\"scale(3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n</defs>\n<g v:groupcontext=\"foregroundPage\" v:index=\"1\" v:mid=\"8\">\n<title>4:3 ratio</title>\n<g id=\"shape24-1\" transform=\"translate(28.0547,-40)\" v:groupcontext=\"shape\" v:mid=\"24\">\n<title>Serial Servos</title>\n<desc>Serial Servos</desc>\n<path class=\"st1\" d=\"M0 600 L131.95 600 L131.95 370 L0 370 L0 600 Z\"></path>\n<text class=\"st2\" v:langid=\"1033\" x=\"36.24\" y=\"592.7\">Serial Servos</text> </g>\n<g display=\"none\" id=\"shape1-4\" transform=\"translate(2.55795E-13,2.68221E-05)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"1\">\n<title>Sheet.1</title>\n<rect class=\"st3\" height=\"675\" width=\"9\" x=\"0\" y=\"-75\"></rect>\n</g>\n<g display=\"none\" id=\"shape2-6\" transform=\"translate(891,2.68221E-05)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"2\">\n<title>Sheet.2</title>\n<rect class=\"st3\" height=\"675\" width=\"9\" x=\"0\" y=\"-75\"></rect>\n</g>\n<g display=\"none\" id=\"shape3-8\" transform=\"translate(300,-66) rotate(-90)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"3\">\n<title>Sheet.3</title>\n<rect class=\"st3\" height=\"900\" width=\"9\" x=\"0\" y=\"-300\"></rect>\n</g>\n<g display=\"none\" id=\"shape4-10\" transform=\"translate(300,600) rotate(-90)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"4\">\n<title>Sheet.4</title>\n<rect class=\"st3\" height=\"900\" width=\"9\" x=\"0\" y=\"-300\"></rect>\n</g>\n<g id=\"shape5-12\" transform=\"translate(833.7,-9.99998)\" v:groupcontext=\"shape\" v:mid=\"5\">\n<title>JP177</title>\n<desc>JP177</desc>\n<rect class=\"st4\" height=\"20.0036\" width=\"48.2996\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"15.94\" y=\"593\">JP177</text> </g>\n<a data-link-id=\"#buck-boost\" xlink:href=\"#buck-boost\">\n<g id=\"shape7-15\" transform=\"translate(238.75,-516.25)\" v:groupcontext=\"shape\" v:mid=\"7\">\n<title>Buck-Boost</title>\n<desc>Buck-Boost</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"566.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"22.5\" y=\"586.43\">Buck-Boost</text> </g>\n</a>\n<a data-link-id=\"#switching-regulator\" xlink:href=\"#switching-regulator\">\n<g id=\"shape8-18\" transform=\"translate(268.75,-436.25)\" v:groupcontext=\"shape\" v:mid=\"8\">\n<title>Switching Regulator</title>\n<desc>Switching Regulator</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"566.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"27.09\" y=\"579.82\">Switching <tspan class=\"st7\" dy=\"1.2em\" x=\"26.78\">Regulator</tspan></text> </g>\n</a>\n<a data-link-id=\"#ldo\" xlink:href=\"#ldo\">\n<g id=\"shape9-22\" transform=\"translate(460,-436.25)\" v:groupcontext=\"shape\" v:mid=\"9\">\n<title>LDO</title>\n<desc>LDO</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"566.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"39.32\" y=\"586.43\">LDO</text> </g>\n</a>\n<a data-link-id=\"#voltage-supervisor\" xlink:href=\"#voltage-supervisor\">\n<g id=\"shape10-25\" transform=\"translate(258.75,-296.25)\" v:groupcontext=\"shape\" v:mid=\"10\">\n<title>Voltage Supervisor</title>\n<desc>Voltage Supervisor</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"566.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"4.15\" y=\"586.43\">Voltage Supervisor</text> </g>\n</a>\n<a data-link-id=\"#rs485\" xlink:href=\"#rs485\">\n<g id=\"shape11-28\" transform=\"translate(218.75,-203.125)\" v:groupcontext=\"shape\" v:mid=\"11\">\n<title>RS485</title>\n<desc>RS-485</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"566.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"31.98\" y=\"586.43\">RS-485</text> </g>\n</a>\n<g id=\"shape12-31\" transform=\"translate(218.75,-140)\" v:groupcontext=\"shape\" v:mid=\"12\">\n<title>3 State Buffer</title>\n<desc>3 State Buffer</desc>\n<rect class=\"st8\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"566.25\"></rect>\n<text class=\"st9\" v:langid=\"1033\" x=\"16.99\" y=\"586.43\">3 State Buffer</text> </g>\n<g id=\"shape13-34\" transform=\"translate(219.375,-61.25)\" v:groupcontext=\"shape\" v:mid=\"13\">\n<title>IMU*</title>\n<desc>IMU*</desc>\n<rect class=\"st8\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"566.25\"></rect>\n<text class=\"st9\" v:langid=\"1033\" x=\"38.4\" y=\"586.43\">IMU*</text> </g>\n<g id=\"shape23-37\" transform=\"translate(588.75,-140)\" v:groupcontext=\"shape\" v:mid=\"23\">\n<title>* MII-PHY</title>\n<desc>MII-PHY*</desc>\n<rect class=\"st8\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"566.25\"></rect>\n<text class=\"st9\" v:langid=\"1033\" x=\"27.71\" y=\"586.43\">MII-PHY*</text> </g>\n<g id=\"shape25-40\" transform=\"translate(780.75,-40)\" v:groupcontext=\"shape\" v:mid=\"25\">\n<title>MPU Board</title>\n<desc>MPU Board (Robot Brain)</desc>\n<path class=\"st1\" d=\"M0 600 L101.25 600 L101.25 60 L0 60 L0 600 Z\"></path>\n<text class=\"st9\" v:langid=\"1033\" x=\"22.2\" y=\"326.7\">MPU Board<tspan class=\"st7\" dy=\"1.2em\" x=\"17.92\">(Robot Brain)</tspan></text> </g>\n<g id=\"shape26-44\" transform=\"translate(174.634,-40)\" v:groupcontext=\"shape\" v:mid=\"26\">\n<title> </title>\n<path class=\"st10\" d=\"M0 600 L585.37 600 L585.37 60 L0 60 L0 600 Z\"></path>\n</g>\n<g id=\"shape27-46\" transform=\"translate(94.4454,-530.52)\" v:groupcontext=\"shape\" v:mid=\"27\">\n<title>Input</title>\n<ellipse class=\"st11\" cx=\"2.77732\" cy=\"597.223\" rx=\"2.77732\" ry=\"2.77732\"></ellipse>\n</g>\n<g id=\"shape28-48\" transform=\"translate(98,-534.996)\" v:groupcontext=\"shape\" v:mid=\"28\">\n<title>4.5V-40V</title>\n<desc>4.5V-40V</desc>\n<rect class=\"st4\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"4\" y=\"593\">4.5V-40V</text> </g>\n<g id=\"shape29-51\" transform=\"translate(23,-523.295)\" v:groupcontext=\"shape\" v:mid=\"29\">\n<title>Battery</title>\n<desc>Battery</desc>\n<rect class=\"st4\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"36.32\" y=\"593\">Battery</text> </g>\n<g id=\"shape30-54\" transform=\"translate(340,-534.996)\" v:groupcontext=\"shape\" v:mid=\"30\">\n<title>12Vmax 2.7A</title>\n<desc>12V/2.7Amax</desc>\n<rect class=\"st4\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"9.29\" y=\"593\">12V/2.7A<tspan class=\"st12\" dy=\"-0.287em\" v:basefontsize=\"10\">max</tspan></text> </g>\n<g id=\"shape31-58\" transform=\"translate(395,-454.996)\" v:groupcontext=\"shape\" v:mid=\"31\">\n<title>5V max 4.2A</title>\n<desc>5V/4.2Amax</desc>\n<rect class=\"st4\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"12.07\" y=\"593\">5V/4.2A<tspan class=\"st12\" dy=\"-0.287em\" v:basefontsize=\"10\">max</tspan></text> </g>\n<g id=\"shape32-62\" transform=\"translate(101.468,-533.468) rotate(0.14225)\" v:groupcontext=\"shape\" v:mid=\"32\">\n<title>Sheet.32</title>\n<path class=\"st13\" d=\"M0 600 L131.73 600\"></path>\n</g>\n<g id=\"shape33-68\" transform=\"translate(340,-533.125)\" v:groupcontext=\"shape\" v:mid=\"33\">\n<title>Sheet.33</title>\n<path class=\"st13\" d=\"M0 600 L433.71 600\"></path>\n</g>\n<g id=\"shape34-73\" transform=\"translate(810.012,66.8037) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"34\">\n<title>Sheet.34</title>\n<path class=\"st15\" d=\"M0 600 L273.2 600\"></path>\n</g>\n<g id=\"shape35-76\" transform=\"translate(160,-260)\" v:groupcontext=\"shape\" v:mid=\"35\">\n<title>Sheet.35</title>\n<path class=\"st16\" d=\"M6.68 600 L7.04 600 L50.01 600\"></path>\n</g>\n<g id=\"shape36-82\" transform=\"translate(160,-220)\" v:groupcontext=\"shape\" v:mid=\"36\">\n<title>Sheet.36</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L51.71 600\"></path>\n</g>\n<g id=\"shape37-89\" transform=\"translate(218.75,1043.13) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"37\">\n<title>Sheet.37</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L50.8 600\"></path>\n</g>\n<g id=\"shape38-96\" transform=\"translate(320,-156.875)\" v:groupcontext=\"shape\" v:mid=\"38\">\n<title>Sheet.38</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L62.96 600\"></path>\n</g>\n<g id=\"shape39-103\" transform=\"translate(320,-220)\" v:groupcontext=\"shape\" v:mid=\"39\">\n<title>Sheet.39</title>\n<path class=\"st16\" d=\"M6.68 600 L7.04 600 L40 600\"></path>\n</g>\n<g id=\"shape40-108\" transform=\"translate(-240,443.125) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"40\">\n<title>Sheet.40</title>\n<path class=\"st15\" d=\"M0 600 L63.13 600\"></path>\n</g>\n<g id=\"shape41-111\" transform=\"translate(360,-313.125)\" v:groupcontext=\"shape\" v:mid=\"41\">\n<title>Sheet.41</title>\n<path class=\"st13\" d=\"M0 600 L22.96 600\"></path>\n</g>\n<g id=\"shape42-116\" transform=\"translate(1090.07,163.75) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"42\">\n<title>Sheet.42</title>\n<path class=\"st13\" d=\"M0 600 L88.89 600\"></path>\n</g>\n<g id=\"shape43-121\" transform=\"translate(490,810) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"43\">\n<title>Sheet.43</title>\n<path class=\"st15\" d=\"M0 600 L260 600\"></path>\n</g>\n<g id=\"shape44-124\" transform=\"translate(-370,363.125) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"44\">\n<title>Sheet.44</title>\n<path class=\"st16\" d=\"M6.68 600 L7.04 600 L153.12 600\"></path>\n</g>\n<g id=\"shape45-129\" transform=\"translate(370,-453.125)\" v:groupcontext=\"shape\" v:mid=\"45\">\n<title>Sheet.45</title>\n<path class=\"st13\" d=\"M0 600 L82.96 600\"></path>\n</g>\n<g id=\"shape46-134\" transform=\"translate(-201,146.875) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"46\">\n<title>Sheet.46</title>\n<path class=\"st15\" d=\"M0 600 L41.87 600\"></path>\n</g>\n<g id=\"shape47-137\" transform=\"translate(780.75,705) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"47\">\n<title>Sheet.47</title>\n<path class=\"st16\" d=\"M6.68 600 L7.04 600 L381.75 600\"></path>\n</g>\n<g id=\"shape48-142\" transform=\"translate(90.625,244.125) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"48\">\n<title>Sheet.48</title>\n<path class=\"st16\" d=\"M6.68 600 L7.04 600 L18.73 600\"></path>\n</g>\n<g id=\"shape49-147\" transform=\"translate(490,-374.606)\" v:groupcontext=\"shape\" v:mid=\"49\">\n<title>Sheet.49</title>\n<path class=\"st15\" d=\"M0 600 L200.63 600\"></path>\n</g>\n<g id=\"shape50-150\" transform=\"translate(640,886.875) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"50\">\n<title>Sheet.50</title>\n<path class=\"st13\" d=\"M0 600 L66.22 600\"></path>\n</g>\n<g id=\"shape51-155\" transform=\"translate(1210,225.875) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"51\">\n<title>Sheet.51</title>\n<path class=\"st13\" d=\"M0 600 L193.33 600\"></path>\n</g>\n<g id=\"shape52-160\" transform=\"translate(640,925) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"52\">\n<title>Sheet.52</title>\n<path class=\"st15\" d=\"M0 600 L10 600\"></path>\n</g>\n<g id=\"shape53-163\" transform=\"translate(30,426.25) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"53\">\n<title>Sheet.53</title>\n<path class=\"st16\" d=\"M6.68 600 L7.04 600 L101.25 600\"></path>\n</g>\n<g id=\"shape54-168\" transform=\"translate(588.75,1043.13) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"54\">\n<title>Sheet.54</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L14.97 600\"></path>\n</g>\n<g id=\"shape55-175\" transform=\"translate(690,-156.875)\" v:groupcontext=\"shape\" v:mid=\"55\">\n<title>Sheet.55</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L83.71 600\"></path>\n</g>\n<g id=\"shape56-182\" transform=\"translate(566.737,-78.125)\" v:groupcontext=\"shape\" v:mid=\"56\">\n<title>Sheet.56</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L206.97 600\"></path>\n</g>\n<g id=\"shape57-189\" transform=\"translate(390,1121.88) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"57\">\n<title>Sheet.57</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L62.34 600\"></path>\n</g>\n<g id=\"group58-196\" transform=\"translate(95,-218.837)\" v:groupcontext=\"group\" v:mid=\"58\">\n<title>Motor</title>\n<g id=\"shape59-197\" v:groupcontext=\"shape\" v:mid=\"59\">\n<title>Sheet.59</title>\n<ellipse class=\"st18\" cx=\"13.8801\" cy=\"586.337\" rx=\"13.8801\" ry=\"13.6633\"></ellipse>\n</g>\n<g id=\"shape60-199\" v:groupcontext=\"shape\" v:mid=\"60\">\n<title>Sheet.60</title>\n<desc>M</desc>\n<rect class=\"st19\" height=\"27.3265\" width=\"27.7603\" x=\"0\" y=\"572.673\"></rect>\n<text class=\"st20\" v:langid=\"1033\" x=\"8.88\" y=\"589.94\">M</text> </g>\n</g>\n<g id=\"group61-202\" transform=\"translate(41.1199,-167.17)\" v:groupcontext=\"group\" v:mid=\"61\">\n<title>Motor.61</title>\n<g id=\"shape62-203\" v:groupcontext=\"shape\" v:mid=\"62\">\n<title>Sheet.62</title>\n<ellipse class=\"st18\" cx=\"13.8801\" cy=\"586.337\" rx=\"13.8801\" ry=\"13.6633\"></ellipse>\n</g>\n<g id=\"shape63-205\" v:groupcontext=\"shape\" v:mid=\"63\">\n<title>Sheet.63</title>\n<desc>M</desc>\n<rect class=\"st19\" height=\"27.3265\" width=\"27.7603\" x=\"0\" y=\"572.673\"></rect>\n<text class=\"st20\" v:langid=\"1033\" x=\"8.88\" y=\"589.94\">M</text> </g>\n</g>\n<g id=\"group64-208\" transform=\"translate(95,-115.503)\" v:groupcontext=\"group\" v:mid=\"64\">\n<title>Motor.64</title>\n<g id=\"shape65-209\" v:groupcontext=\"shape\" v:mid=\"65\">\n<title>Sheet.65</title>\n<ellipse class=\"st18\" cx=\"13.8801\" cy=\"586.337\" rx=\"13.8801\" ry=\"13.6633\"></ellipse>\n</g>\n<g id=\"shape66-211\" v:groupcontext=\"shape\" v:mid=\"66\">\n<title>Sheet.66</title>\n<desc>M</desc>\n<rect class=\"st19\" height=\"27.3265\" width=\"27.7603\" x=\"0\" y=\"572.673\"></rect>\n<text class=\"st20\" v:langid=\"1033\" x=\"8.88\" y=\"589.94\">M</text> </g>\n</g>\n<g id=\"group67-214\" transform=\"translate(41.1199,-63.8367)\" v:groupcontext=\"group\" v:mid=\"67\">\n<title>Motor.67</title>\n<g id=\"shape68-215\" v:groupcontext=\"shape\" v:mid=\"68\">\n<title>Sheet.68</title>\n<ellipse class=\"st18\" cx=\"13.8801\" cy=\"586.337\" rx=\"13.8801\" ry=\"13.6633\"></ellipse>\n</g>\n<g id=\"shape69-217\" v:groupcontext=\"shape\" v:mid=\"69\">\n<title>Sheet.69</title>\n<desc>M</desc>\n<rect class=\"st19\" height=\"27.3265\" width=\"27.7603\" x=\"0\" y=\"572.673\"></rect>\n<text class=\"st20\" v:langid=\"1033\" x=\"8.88\" y=\"589.94\">M</text> </g>\n</g>\n<g id=\"shape70-220\" transform=\"translate(122.765,-232.664)\" v:groupcontext=\"shape\" v:mid=\"70\">\n<title>Sheet.70</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L20.19 600\"></path>\n</g>\n<g id=\"shape71-227\" transform=\"translate(68.8853,-180.997)\" v:groupcontext=\"shape\" v:mid=\"71\">\n<title>Sheet.71</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L74.07 600\"></path>\n</g>\n<g id=\"shape72-234\" transform=\"translate(122.765,-129.331)\" v:groupcontext=\"shape\" v:mid=\"72\">\n<title>Sheet.72</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L20.19 600\"></path>\n</g>\n<g id=\"shape73-241\" transform=\"translate(68.8853,-77.6641)\" v:groupcontext=\"shape\" v:mid=\"73\">\n<title>Sheet.73</title>\n<path class=\"st17\" d=\"M6.68 600 L7.04 600 L74.07 600\"></path>\n</g>\n<g id=\"shape74-248\" transform=\"translate(750,360) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"74\">\n<title>Sheet.74</title>\n<path class=\"st15\" d=\"M0 600 L170 600\"></path>\n</g>\n<g id=\"shape75-251\" transform=\"translate(-245,130) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"75\">\n<title>Sheet.75</title>\n<path class=\"st16\" d=\"M6.68 600 L7.04 600 L63.13 600\"></path>\n</g>\n<g id=\"shape76-256\" transform=\"translate(207.463,-530.525)\" v:groupcontext=\"shape\" v:mid=\"76\">\n<title>Connector 1.168</title>\n<ellipse class=\"st21\" cx=\"2.77275\" cy=\"597.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape77-258\" transform=\"translate(352.227,-530.352)\" v:groupcontext=\"shape\" v:mid=\"77\">\n<title>Connector 1.168.77</title>\n<ellipse class=\"st21\" cx=\"2.77275\" cy=\"597.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape78-260\" transform=\"translate(396.227,-450.352)\" v:groupcontext=\"shape\" v:mid=\"78\">\n<title>Connector 1.168.78</title>\n<ellipse class=\"st21\" cx=\"2.77275\" cy=\"597.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape79-262\" transform=\"translate(-290.625,270) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"79\">\n<title>Sheet.79</title>\n<path class=\"st16\" d=\"M6.68 600 L7.04 600 L60 600\"></path>\n</g>\n<g id=\"shape80-267\" transform=\"translate(306.647,-387.227)\" v:groupcontext=\"shape\" v:mid=\"80\">\n<title>Connector 1.168.80</title>\n<ellipse class=\"st21\" cx=\"2.77275\" cy=\"597.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape81-269\" transform=\"translate(229.516,-236.996)\" v:groupcontext=\"shape\" v:mid=\"81\">\n<title>3.3V/20mA</title>\n<desc>3.3V/20mA</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"11.26\" y=\"593\">3.3V/20mA</text> </g>\n<g id=\"shape82-272\" transform=\"translate(357.242,-154.102)\" v:groupcontext=\"shape\" v:mid=\"82\">\n<title>Connector 1.168.82</title>\n<ellipse class=\"st21\" cx=\"2.77275\" cy=\"597.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape83-274\" transform=\"translate(220.281,-39.9982)\" v:groupcontext=\"shape\" v:mid=\"83\">\n<title>* Inertial Measurement Unit</title>\n<desc>* Inertial Measurement Unit</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"131.945\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"5.39\" y=\"593\">* Inertial Measurement Unit</text> </g>\n<g id=\"shape84-277\" transform=\"translate(487.3,-387.227)\" v:groupcontext=\"shape\" v:mid=\"84\">\n<title>Connector 1.168.84</title>\n<ellipse class=\"st21\" cx=\"2.77275\" cy=\"597.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape85-279\" transform=\"translate(487.3,-371.834)\" v:groupcontext=\"shape\" v:mid=\"85\">\n<title>Connector 1.168.85</title>\n<ellipse class=\"st21\" cx=\"2.77275\" cy=\"597.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape86-281\" transform=\"translate(490.281,-415)\" v:groupcontext=\"shape\" v:mid=\"86\">\n<title>3.3V/250mA</title>\n<desc>3.3V/250mA</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"8.48\" y=\"593\">3.3V/250mA</text> </g>\n<g id=\"shape87-284\" transform=\"translate(607.227,-371.834)\" v:groupcontext=\"shape\" v:mid=\"87\">\n<title>Connector 1.168.87</title>\n<ellipse class=\"st21\" cx=\"2.77275\" cy=\"597.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape88-286\" transform=\"translate(620.281,-373.998)\" v:groupcontext=\"shape\" v:mid=\"88\">\n<title>3.3V/10mA</title>\n<desc>3.3V/10mA</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"11.26\" y=\"593\">3.3V/10mA</text> </g>\n<g id=\"shape89-289\" transform=\"translate(590,-120)\" v:groupcontext=\"shape\" v:mid=\"89\">\n<title>*Media-Independent Interface</title>\n<desc>*Media-Independent Interface</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"142.541\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"5.39\" y=\"593\">*Media-Independent Interface</text> </g>\n<g id=\"shape90-292\" transform=\"translate(680.282,-533.996)\" v:groupcontext=\"shape\" v:mid=\"90\">\n<title>12V/max1A</title>\n<desc>12V/1Amax</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"13.46\" y=\"593\">12V/1A<tspan class=\"st12\" dy=\"-0.287em\" v:basefontsize=\"10\">max</tspan></text> </g>\n<g id=\"shape91-296\" transform=\"translate(688,-495)\" v:groupcontext=\"shape\" v:mid=\"91\">\n<title>5V/max4A</title>\n<desc>5V/4Amax</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"16.24\" y=\"593\">5V/4A<tspan class=\"st12\" dy=\"-0.287em\" v:basefontsize=\"10\">max</tspan></text> </g>\n<g id=\"shape93-300\" transform=\"translate(421,-349.996)\" v:groupcontext=\"shape\" v:mid=\"93\">\n<title>3.3V/100mA</title>\n<desc>3.3V/100mA</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"8.48\" y=\"593\">3.3V/100mA</text> </g>\n<g id=\"shape94-303\" transform=\"translate(565.282,-315)\" v:groupcontext=\"shape\" v:mid=\"94\">\n<title>24MHz</title>\n<desc>24MHz</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"4\" y=\"593\">24MHz</text> </g>\n<g id=\"shape95-306\" transform=\"translate(630,-218.996)\" v:groupcontext=\"shape\" v:mid=\"95\">\n<title>25MHz</title>\n<desc>25MHz</desc>\n<rect class=\"st22\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"579.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"4\" y=\"593\">25MHz</text> </g>\n<g id=\"shape96-309\" transform=\"translate(570,-180)\" v:groupcontext=\"shape\" v:mid=\"96\">\n<title>3.3V/50mA</title>\n<desc>3.3V /50mA</desc>\n<rect class=\"st22\" height=\"33.0037\" width=\"40\" x=\"0\" y=\"566.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"4\" y=\"580\">3.3V<tspan class=\"st7\" dy=\"1.3em\" x=\"4\">/50mA</tspan></text> </g>\n<a data-link-id=\"#mcu\" xlink:href=\"#mcu\">\n<g id=\"group97-313\" transform=\"translate(390,-60)\" v:groupcontext=\"group\" v:mid=\"97\">\n<title>Sheet.97</title>\n<g id=\"shape22-314\" v:groupcontext=\"shape\" v:mid=\"22\">\n<title>MCU</title>\n<desc>MCU</desc>\n<rect class=\"st5\" height=\"280.324\" width=\"176.737\" x=\"0\" y=\"319.676\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"75.84\" y=\"465.14\">MCU</text> </g>\n<g id=\"shape14-317\" transform=\"translate(8.79604,-241.801)\" v:groupcontext=\"shape\" v:mid=\"14\">\n<title>Reset</title>\n<desc>Reset</desc>\n<rect class=\"st23\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"577.352\"></rect>\n<text class=\"st24\" v:langid=\"1033\" x=\"17.54\" y=\"591.68\">Reset</text> </g>\n<g id=\"shape15-320\" transform=\"translate(10,-85.551)\" v:groupcontext=\"shape\" v:mid=\"15\">\n<title>UART</title>\n<desc>UART</desc>\n<rect class=\"st23\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"577.352\"></rect>\n<text class=\"st24\" v:langid=\"1033\" x=\"16.99\" y=\"591.68\">UART</text> </g>\n<g id=\"shape16-323\" transform=\"translate(8.79604,-6.80098)\" v:groupcontext=\"shape\" v:mid=\"16\">\n<title>SPI</title>\n<desc>SPI</desc>\n<rect class=\"st23\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"577.352\"></rect>\n<text class=\"st24\" v:langid=\"1033\" x=\"22.54\" y=\"591.68\">SPI</text> </g>\n<g id=\"shape17-326\" transform=\"translate(109.421,-241.801)\" v:groupcontext=\"shape\" v:mid=\"17\">\n<title>Clock Gen.</title>\n<desc>Clock Gen.</desc>\n<rect class=\"st23\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"577.352\"></rect>\n<text class=\"st24\" v:langid=\"1033\" x=\"5.87\" y=\"591.68\">Clock Gen.</text> </g>\n<g id=\"shape18-329\" transform=\"translate(109.375,-85.551)\" v:groupcontext=\"shape\" v:mid=\"18\">\n<title>Ethernet</title>\n<desc>Ethernet</desc>\n<rect class=\"st23\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"577.352\"></rect>\n<text class=\"st24\" v:langid=\"1033\" x=\"11.7\" y=\"591.68\">Ethernet</text> </g>\n<g id=\"shape19-332\" transform=\"translate(109.375,-6.80098)\" v:groupcontext=\"shape\" v:mid=\"19\">\n<title>USB</title>\n<desc>USB</desc>\n<rect class=\"st23\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"577.352\"></rect>\n<text class=\"st24\" v:langid=\"1033\" x=\"20.32\" y=\"591.68\">USB</text> </g>\n</g>\n</a>\n<a data-link-id=\"#clock-generator\" xlink:href=\"#clock-generator\">\n<g id=\"group98-335\" transform=\"translate(640,-239.213)\" v:groupcontext=\"group\" v:mid=\"98\">\n<title>Sheet.98</title>\n<g id=\"shape20-336\" v:groupcontext=\"shape\" v:mid=\"20\">\n<title>Clock Generator</title>\n<desc>Clock Generator</desc>\n<rect class=\"st5\" height=\"116.574\" width=\"101.25\" x=\"0\" y=\"483.426\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"10.58\" y=\"501.33\">Clock Generator</text> </g>\n<g id=\"shape21-339\" transform=\"translate(35,-5.78704)\" v:groupcontext=\"shape\" v:mid=\"21\">\n<title>X’tal</title>\n<desc>X’tal</desc>\n<rect class=\"st23\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"577.352\"></rect>\n<text class=\"st24\" v:langid=\"1033\" x=\"20.88\" y=\"591.68\">X’tal</text> </g>\n</g>\n</a>\n</g>\n</svg>",
+    "svg_path": "scraped_data/Industrial/Motor Drives Robotics/ROS Body Controller for Robotic Systems/block_diagram.svg",
+    "blocks": {
+      "mcu": {
+        "label": "MCU",
+        "categories": [
+          {
+            "title": "RA Arm Cortex-M MCUs",
+            "products": [
+              {
+                "title": "RA6M5 - 200MHz Arm Cortex-M33 TrustZone, Highest Integration with Ethernet and CAN FD",
+                "product_id": "RA6M5",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RA6M5 Group Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/ra6m5-group-datasheet?r=1522001",
+                    "doc_id": "1497431",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra6m5-200mhz-arm-cortex-m33-trustzone-highest-integration-ethernet-and-can-fd#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "clock-generator": {
+        "label": "Clock Generator",
+        "categories": [
+          {
+            "title": "Programmable Clocks",
+            "products": [
+              {
+                "title": "5X35023 - VersaClock 3S Programmable Clock Generator with Integrated Crystal",
+                "product_id": "5X35023",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "5X35023 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/5x35023-datasheet?r=1522001",
+                    "doc_id": "447916",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/clocks-timing/clock-generation/programmable-clocks/5x35023-versaclock-3s-programmable-clock-generator-integrated-crystal#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "ldo": {
+        "label": "LDO",
+        "categories": [
+          {
+            "title": "Linear Regulators (LDO)",
+            "products": [
+              {
+                "title": "ISL9001A - LDO with Low ISUPPLY, High PSRR",
+                "product_id": "ISL9001A",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL9001A Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl9001a-datasheet?r=1522001",
+                    "doc_id": "616506",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/linear-regulators-ldo/isl9001a-ldo-low-isupply-high-psrr#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "buck-boost": {
+        "label": "Buck-Boost",
+        "categories": [
+          {
+            "title": "Buck-Boost Controllers (External FETs)",
+            "products": [
+              {
+                "title": "ISL81401 - 40V Bidirectional 4- Switch Synchronous Buck-Boost Controller",
+                "product_id": "ISL81401",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL81401, ISL81401A Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl81401-isl81401a-datasheet?r=1522001",
+                    "doc_id": "659081",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/dcdc-converters/step-upstep-down-buck-boost/buck-boost-controllers-external-fets/isl81401-40v-bidirectional-4-switch-synchronous-buck-boost-controller#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "switching-regulator": {
+        "label": "Switching Regulator",
+        "categories": [
+          {
+            "title": "Buck Regulators (Integrated FETs)",
+            "products": [
+              {
+                "title": "RAA211650 - 60V 5A Integrated Switching Regulator",
+                "product_id": "RAA211650",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RAA211650 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/raa211650-datasheet?r=1522001",
+                    "doc_id": "1505096",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/dcdc-converters/step-down-buck/buck-regulators-integrated-fets/raa211650-60v-5a-integrated-switching-regulator#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "voltage-supervisor": {
+        "label": "Voltage Supervisor",
+        "categories": [
+          {
+            "title": "Voltage Supervisor & Reset ICs",
+            "products": [
+              {
+                "title": "ISL88002 - Ultra-Low Power 3 Ld Voltage Supervisors in SC-70 and SOT-23 Packages",
+                "product_id": "ISL88002",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL88001, ISL88002, ISL88003 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl88001-isl88002-isl88003-datasheet?r=1522001",
+                    "doc_id": "670961",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/power-supply-support/voltage-supervisor-reset-ics/isl88002-ultra-low-power-3-ld-voltage-supervisors-sc-70-and-sot-23-packages#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "rs485": {
+        "label": "RS-485",
+        "categories": [
+          {
+            "title": "RS-485/422 with Overvoltage Protection",
+            "products": [
+              {
+                "title": "ISL32458E - ±60V Fault Protected, 3.3V to 5V, ±20V CMR, 20Mbps Half-Duplex RS-485/RS-422, ±15kV ESD",
+                "product_id": "ISL32458E",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL32450E, ISL32452E, ISL32453E, ISL32455E, ISL32457E, ISL32458E, ISL32459E Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl32450e-isl32452e-isl32453e-isl32455e-isl32457e-isl32458e-isl32459e-datasheet?r=1522001",
+                    "doc_id": "962226",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/interface/rs-485-rs-422-rs-232/rs-485-rs-422/rs-485-422-overvoltage-protection/isl32458e-60v-fault-protected-33v-5v-20v-cmr-20mbps-half-duplex-rs-485rs-422-15kv-esd#parametric_options"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

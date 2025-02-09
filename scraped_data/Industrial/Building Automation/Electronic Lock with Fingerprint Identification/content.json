@@ -1,0 +1,154 @@
+{
+  "overview": {
+    "description": {
+      "main_text": [
+        "The smart lock is a rapidly growing trend in smart home appliances. Users can control smart locks by using fingerprints, Near Field Communication (NFC), capacitive touch, or low-power Bluetooth®communication. With a low-power design, Narrowband Internet of Things (NB-IoT) is also an option. As the RX130 32-bit MCU has integrated capacitive touch capabilities, it enables smaller board design and reduced cost. For advanced systems with more sophisticated fingerprint modules, an upgrade to the RX651 is an option for the algorithm design.",
+        "This solution can support Bluetooth communication with mobile or smart home routers. Additionally, the NB-IoT modem can directly support WLAN and directly send an alarm condition to the cloud."
+      ],
+      "benefits": [
+        "Highly integrated RX130 with built-in capacitive touch",
+        "Low power design for extended battery life",
+        "Shock sensor monitoring to alert for potential tampering and break-ins"
+      ]
+    },
+    "applications": [],
+    "images": [],
+    "comparison": null
+  },
+  "block_diagram": {
+    "svg": "<svg class=\"st19\" color-interpolation-filters=\"sRGB\" height=\"5.90278in\" viewbox=\"0 0 600 425\" width=\"8.33333in\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:ev=\"http://www.w3.org/2001/xml-events\" xmlns:v=\"http://schemas.microsoft.com/visio/2003/SVGExtensions/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<style type=\"text/css\">\n\t\n\t\t.st1 {marker-end:url(#mrkr4-6);stroke:#000000;stroke-width:1}\n\t\t.st2 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}\n\t\t.st3 {fill:#ffffff;stroke:#000000;stroke-width:1}\n\t\t.st4 {fill:#000000;font-family:Arial;font-size:0.916672em}\n\t\t.st5 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}\n\t\t.st6 {fill:#000000;font-family:Arial;font-size:0.833336em}\n\t\t.st7 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st8 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}\n\t\t.st9 {marker-end:url(#mrkr4-6);marker-start:url(#mrkr4-61);stroke:#000000;stroke-width:1}\n\t\t.st10 {fill:#0071b9;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}\n\t\t.st11 {fill:#ffffff;font-family:Arial;font-size:0.916672em}\n\t\t.st12 {fill:#4ba3d3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}\n\t\t.st13 {fill:#ffffff;font-family:Arial;font-size:0.833336em}\n\t\t.st14 {fill:#4ba3d3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st15 {font-size:1em}\n\t\t.st16 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st17 {stroke:#000000;stroke-width:1}\n\t\t.st18 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.16554}\n\t\t.st19 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}\n\t\n\t</style>\n<defs id=\"Markers\">\n<g id=\"lend4\">\n<path d=\"M 2 1 L 0 0 L 2 -1 L 2 1 \" style=\"stroke:none\"></path>\n</g>\n<marker class=\"st2\" id=\"mrkr4-6\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"-7.04\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"7.04\">\n<use transform=\"scale(-3.52,-3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n<marker class=\"st2\" id=\"mrkr4-61\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"6.68\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"6.68\">\n<use transform=\"scale(3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n</defs>\n<g v:groupcontext=\"foregroundPage\" v:index=\"1\" v:mid=\"8\">\n<title>Diagram</title>\n<g id=\"shape40-1\" transform=\"translate(470.007,-249.526)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"40\">\n<title>Connector Arrow.40</title>\n<path class=\"st1\" d=\"M0 412.5 L33.46 412.5\"></path>\n</g>\n<g id=\"shape45-7\" transform=\"translate(510.611,-193.773)\" v:groupcontext=\"shape\" v:mid=\"45\">\n<title>NB-IoT</title>\n<desc>NB-IoT</desc>\n<rect class=\"st3\" height=\"24.7578\" width=\"56.0274\" x=\"0\" y=\"400.242\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"10.6\" y=\"415.92\">NB-IoT</text> </g>\n<g id=\"shape62-10\" transform=\"translate(494.639,-18.9932)\" v:groupcontext=\"shape\" v:mid=\"62\">\n<title>CN038</title>\n<desc>CN038</desc>\n<rect class=\"st5\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"36.87\" y=\"418\">CN038</text> </g>\n<g id=\"group76-13\" transform=\"translate(488.29,-310.466)\" v:groupcontext=\"group\" v:mid=\"76\">\n<title>Touch Key</title>\n<g id=\"group65-14\" transform=\"translate(18.4922,-5.68434E-14)\" v:groupcontext=\"group\" v:mid=\"65\">\n<title>Touch Key</title>\n<g id=\"shape66-15\" transform=\"translate(-1.7486E-13,-25.0591)\" v:groupcontext=\"shape\" v:mid=\"66\">\n<title>Sheet.66</title>\n<rect class=\"st7\" height=\"9.10323\" width=\"9.28529\" x=\"0\" y=\"415.897\"></rect>\n</g>\n<g id=\"shape67-17\" transform=\"translate(12.8652,-25.0591)\" v:groupcontext=\"shape\" v:mid=\"67\">\n<title>Sheet.67</title>\n<rect class=\"st7\" height=\"9.10323\" width=\"9.28529\" x=\"0\" y=\"415.897\"></rect>\n</g>\n<g id=\"shape68-19\" transform=\"translate(25.7303,-25.0591)\" v:groupcontext=\"shape\" v:mid=\"68\">\n<title>Sheet.68</title>\n<rect class=\"st7\" height=\"9.10323\" width=\"9.28529\" x=\"0\" y=\"415.897\"></rect>\n</g>\n<g id=\"shape69-21\" transform=\"translate(-1.7486E-13,-12.5295)\" v:groupcontext=\"shape\" v:mid=\"69\">\n<title>Sheet.69</title>\n<rect class=\"st7\" height=\"9.10323\" width=\"9.28529\" x=\"0\" y=\"415.897\"></rect>\n</g>\n<g id=\"shape70-23\" transform=\"translate(12.8652,-12.5295)\" v:groupcontext=\"shape\" v:mid=\"70\">\n<title>Sheet.70</title>\n<rect class=\"st7\" height=\"9.10323\" width=\"9.28529\" x=\"0\" y=\"415.897\"></rect>\n</g>\n<g id=\"shape71-25\" transform=\"translate(25.7303,-12.5295)\" v:groupcontext=\"shape\" v:mid=\"71\">\n<title>Sheet.71</title>\n<rect class=\"st7\" height=\"9.10323\" width=\"9.28529\" x=\"0\" y=\"415.897\"></rect>\n</g>\n<g id=\"shape72-27\" v:groupcontext=\"shape\" v:mid=\"72\">\n<title>Sheet.72</title>\n<rect class=\"st7\" height=\"9.10323\" width=\"9.28529\" x=\"0\" y=\"415.897\"></rect>\n</g>\n<g id=\"shape73-29\" transform=\"translate(12.8652,-1.7053E-13)\" v:groupcontext=\"shape\" v:mid=\"73\">\n<title>Sheet.73</title>\n<rect class=\"st7\" height=\"9.10323\" width=\"9.28529\" x=\"0\" y=\"415.897\"></rect>\n</g>\n<g id=\"shape74-31\" transform=\"translate(25.7303,-1.7053E-13)\" v:groupcontext=\"shape\" v:mid=\"74\">\n<title>Sheet.74</title>\n<rect class=\"st7\" height=\"9.10323\" width=\"9.28529\" x=\"0\" y=\"415.897\"></rect>\n</g>\n</g>\n<g id=\"shape75-33\" transform=\"translate(0,-37.0225)\" v:groupcontext=\"shape\" v:mid=\"75\">\n<title>Touch Key.75</title>\n<desc>Touch Key</desc>\n<rect class=\"st5\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"12.1\" y=\"418\">Touch Key</text> </g>\n</g>\n<g id=\"shape77-36\" transform=\"translate(500.29,-344.505)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"77\">\n<title>Connector Arrow</title>\n<path class=\"st1\" d=\"M0 437.5 L-23.24 437.5\"></path>\n</g>\n<g id=\"group79-41\" transform=\"translate(491.29,-248.466)\" v:groupcontext=\"group\" v:mid=\"79\">\n<title>Buzzer</title>\n<g id=\"group48-42\" transform=\"translate(24.5328,0)\" v:groupcontext=\"group\" v:layermember=\"0\" v:mid=\"48\">\n<title>Speaker</title>\n<g id=\"group49-43\" v:groupcontext=\"group\" v:layermember=\"0\" v:mid=\"49\">\n<title>speaker_8_</title>\n<g id=\"shape50-44\" transform=\"translate(0,-7.62129)\" v:groupcontext=\"shape\" v:layermember=\"0\" v:mid=\"50\">\n<title>Sheet.50</title>\n<path class=\"st8\" d=\"M4.95 424.01 C4.95 424.51 4.45 425 3.96 425 L0.99 425 C0.49 425 0 424.51 0 424.01 L0 414.11 C-0           413.62 0.49 413.12 0.99 413.12 L3.96 413.12 C4.45 413.12 4.95 413.62 4.95 414.11 L4.95 424.01           Z\"></path>\n</g>\n<g id=\"shape51-46\" transform=\"translate(6.92845,0)\" v:groupcontext=\"shape\" v:layermember=\"0\" v:mid=\"51\">\n<title>Sheet.51</title>\n<path class=\"st8\" d=\"M0.69 405.8 C0.3 406.19 0 406.99 0 407.48 L0 415.4 C0 415.89 0.3 416.69 0.69 417.08 L8.22 424.6           C8.61 425 8.91 424.9 8.91 424.31 L8.91 398.57 C8.91 398.08 8.61 397.88 8.22 398.28 L0.69 405.8           Z\"></path>\n</g>\n</g>\n<g id=\"shape52-48\" transform=\"translate(18.4099,-8.71005)\" v:groupcontext=\"shape\" v:layermember=\"0\" v:mid=\"52\">\n<title>Sheet.52</title>\n<path class=\"st8\" d=\"M0.79 415.4 L0 417.08 C0.99 417.87 1.58 419.16 1.58 420.15 C1.58 421.44 0.99 422.62 0 423.42 L0.79 425          C2.28 423.91 3.27 422.13 3.27 420.15 C3.27 418.17 2.28 416.49 0.79 415.4 Z\"></path>\n</g>\n<g id=\"shape53-50\" transform=\"translate(20.4884,-4.25605)\" v:groupcontext=\"shape\" v:layermember=\"0\" v:mid=\"53\">\n<title>Sheet.53</title>\n<path class=\"st8\" d=\"M0.89 406.49 L0 408.37 C2.47 409.96 4.16 412.73 4.16 415.7 C4.16 418.86 2.47 421.63 0 423.22 L0.89 425          C4.06 423.12 6.14 419.66 6.14 415.7 C6.14 411.74 4.06 408.37 0.89 406.49 Z\"></path>\n</g>\n</g>\n<g id=\"shape78-52\" transform=\"translate(0,-25)\" v:groupcontext=\"shape\" v:mid=\"78\">\n<title>Buzzer</title>\n<desc>Buzzer</desc>\n<rect class=\"st5\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"20.44\" y=\"418\">Buzzer</text> </g>\n</g>\n<g id=\"shape82-55\" transform=\"translate(470.007,-193.652)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"82\">\n<title>Connector double arrow</title>\n<path class=\"st9\" d=\"M6.68 412.5 L7.04 412.5 L33.56 412.5\"></path>\n</g>\n<a data-link-id=\"#op-amp\" xlink:href=\"#op-amp\">\n<g id=\"shape84-63\" transform=\"translate(131.639,-315.267)\" v:groupcontext=\"shape\" v:mid=\"84\">\n<title>Op Amp</title>\n<desc>Op Amp</desc>\n<rect class=\"st10\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st11\" v:langid=\"1033\" x=\"30.45\" y=\"411.43\">Op Amp</text> </g>\n</a>\n<a data-link-id=\"#mcu\" xlink:href=\"#mcu\">\n<g id=\"group85-66\" transform=\"translate(281.639,-128.466)\" v:groupcontext=\"group\" v:mid=\"85\">\n<title>MCU</title>\n<g id=\"shape7-67\" v:groupcontext=\"shape\" v:mid=\"7\">\n<title>MPU.7</title>\n<desc>MCU</desc>\n<rect class=\"st10\" height=\"261.534\" width=\"188.369\" x=\"0\" y=\"163.466\"></rect>\n<text class=\"st11\" v:langid=\"1033\" x=\"81.66\" y=\"181.37\">MCU</text> </g>\n<g id=\"shape9-70\" transform=\"translate(3.5824,-136.386)\" v:groupcontext=\"shape\" v:mid=\"9\">\n<title>UART</title>\n<desc>UART</desc>\n<rect class=\"st12\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"402.352\"></rect>\n<text class=\"st13\" v:langid=\"1033\" x=\"16.99\" y=\"416.68\">UART</text> </g>\n<g id=\"shape11-73\" transform=\"translate(122.98,-120.912)\" v:groupcontext=\"shape\" v:mid=\"11\">\n<title>GPIO.11</title>\n<desc>GPIO</desc>\n<rect class=\"st12\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"402.352\"></rect>\n<text class=\"st13\" v:langid=\"1033\" x=\"18.1\" y=\"416.68\">GPIO</text> </g>\n<g id=\"shape12-76\" transform=\"translate(122.98,-192.352)\" v:groupcontext=\"shape\" v:mid=\"12\">\n<title>CTSU</title>\n<desc>CTSU</desc>\n<rect class=\"st12\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"402.352\"></rect>\n<text class=\"st13\" v:langid=\"1033\" x=\"16.99\" y=\"416.68\">CTSU</text> </g>\n<g id=\"shape13-79\" transform=\"translate(122.98,-66.5338)\" v:groupcontext=\"shape\" v:mid=\"13\">\n<title>SPI.13</title>\n<desc>SPI</desc>\n<rect class=\"st12\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"402.352\"></rect>\n<text class=\"st13\" v:langid=\"1033\" x=\"22.54\" y=\"416.68\">SPI</text> </g>\n<g id=\"shape63-82\" transform=\"translate(3.5824,-67.352)\" v:groupcontext=\"shape\" v:mid=\"63\">\n<title>UART2</title>\n<desc>UART</desc>\n<rect class=\"st12\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"402.352\"></rect>\n<text class=\"st13\" v:langid=\"1033\" x=\"16.99\" y=\"416.68\">UART</text> </g>\n<g id=\"shape64-85\" transform=\"translate(3.5824,-20)\" v:groupcontext=\"shape\" v:mid=\"64\">\n<title>UART3</title>\n<desc>UART</desc>\n<rect class=\"st12\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"402.352\"></rect>\n<text class=\"st13\" v:langid=\"1033\" x=\"16.99\" y=\"416.68\">UART</text> </g>\n<g id=\"shape83-88\" transform=\"translate(58.5,635) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"83\">\n<title>ADC</title>\n<desc>ADC</desc>\n<path class=\"st14\" d=\"M0 402.35 L34.76 402.35 L54.58 413.65 L34.76 424.88 L0 425 L0 402.35 Z\"></path>\n<text class=\"st13\" transform=\"rotate(180)\" v:langid=\"1033\" x=\"-33.35\" y=\"-410.68\">ADC</text> </g>\n</g>\n</a>\n<a data-link-id=\"#fingerprint\" xlink:href=\"#fingerprint\">\n<g id=\"shape86-91\" transform=\"translate(131.639,-250.338)\" v:groupcontext=\"shape\" v:mid=\"86\">\n<title>Fingerprint Recognition Module</title>\n<desc>Fingerprint Recognition Module</desc>\n<rect class=\"st10\" height=\"45.0036\" width=\"101.25\" x=\"0\" y=\"379.996\"></rect>\n<text class=\"st11\" v:langid=\"1033\" x=\"24.34\" y=\"392.6\">Fingerprint <tspan class=\"st15\" dy=\"1.2em\" x=\"21.58\">Recognition </tspan><tspan class=\"st15\" dy=\"1.2em\" x=\"32.59\">Module</tspan></text> </g>\n</a>\n<g id=\"shape87-96\" transform=\"translate(153.625,-193.708)\" v:groupcontext=\"shape\" v:mid=\"87\">\n<title>NFC</title>\n<desc>NFC</desc>\n<rect class=\"st3\" height=\"24.7578\" width=\"56.0274\" x=\"0\" y=\"400.242\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"16.71\" y=\"415.92\">NFC</text> </g>\n<g id=\"shape88-99\" transform=\"translate(153.625,-148.466)\" v:groupcontext=\"shape\" v:mid=\"88\">\n<title>BLE</title>\n<desc>BLE</desc>\n<rect class=\"st3\" height=\"24.7578\" width=\"56.0274\" x=\"0\" y=\"400.242\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"17.62\" y=\"415.92\">BLE</text> </g>\n<g id=\"shape89-102\" transform=\"translate(209.652,-193.587)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"89\">\n<title>Connector double arrow.89</title>\n<path class=\"st9\" d=\"M6.68 412.5 L7.04 412.5 L64.95 412.5\"></path>\n</g>\n<g id=\"shape90-109\" transform=\"translate(209.652,-148.345)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"90\">\n<title>Connector double arrow.90</title>\n<path class=\"st9\" d=\"M6.68 412.5 L7.04 412.5 L64.95 412.5\"></path>\n</g>\n<g id=\"shape91-116\" transform=\"translate(232.889,-260.339)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"91\">\n<title>Connector double arrow.91</title>\n<path class=\"st9\" d=\"M6.68 412.5 L7.04 412.5 L41.71 412.5\"></path>\n</g>\n<g id=\"shape92-123\" transform=\"translate(232.889,-319.642)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"92\">\n<title>Connector Arrow.92</title>\n<path class=\"st1\" d=\"M0 412.5 L41.71 412.5\"></path>\n</g>\n<a data-link-id=\"#ldo-3a\" xlink:href=\"#ldo-3a\">\n<g id=\"shape93-128\" transform=\"translate(250.389,-51.5912)\" v:groupcontext=\"shape\" v:mid=\"93\">\n<title>Op Amp.93</title>\n<desc>3.3V/3A LDO</desc>\n<rect class=\"st10\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st11\" v:langid=\"1033\" x=\"18.22\" y=\"411.43\">3.3V/3A LDO</text> </g>\n</a>\n<g id=\"shape96-131\" transform=\"translate(131.764,-324.308)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"96\">\n<title>Connector double arrow.96</title>\n<path class=\"st9\" d=\"M-6.68 425 L-7.04 425 L-30.13 425 L-30.13 640.84 L195.84 640.84 L195.84 627.88\"></path>\n</g>\n<g id=\"shape98-138\" transform=\"translate(351.639,-68.4662)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"98\">\n<title>Connector Arrow.98</title>\n<path class=\"st1\" d=\"M0 425 L186.99 425 L186.99 306.73\"></path>\n</g>\n<g id=\"shape99-143\" transform=\"translate(89.3887,-325.966)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"99\">\n<title>Connector Arrow.99</title>\n<path class=\"st1\" d=\"M0 412.5 L35.21 412.5\"></path>\n</g>\n<g id=\"shape100-148\" transform=\"translate(33.3613,-321.591)\" v:groupcontext=\"shape\" v:mid=\"100\">\n<title>Shock Sensor</title>\n<desc>Shock Sensor</desc>\n<rect class=\"st3\" height=\"33.75\" width=\"56.0274\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"12.73\" y=\"404.82\">Shock <tspan class=\"st15\" dy=\"1.2em\" x=\"10.59\">Sensor</tspan></text> </g>\n<g id=\"shape101-152\" transform=\"translate(61.375,-321.591)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"101\">\n<title>Connector double arrow.101</title>\n<path class=\"st9\" d=\"M0 431.68 L0 432.04 L0 473.75 L63.22 473.75\"></path>\n</g>\n<g id=\"shape102-159\" transform=\"translate(99.1387,-270.067)\" v:groupcontext=\"shape\" v:mid=\"102\">\n<title>Connector 1.140</title>\n<ellipse class=\"st16\" cx=\"2.77275\" cy=\"422.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape103-161\" transform=\"translate(101.639,-174.656)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"103\">\n<title>Connector Arrow.103</title>\n<path class=\"st1\" d=\"M0 436.19 L0 438.81 L44.95 438.81\"></path>\n</g>\n<g id=\"shape104-166\" transform=\"translate(99.1387,-158.072)\" v:groupcontext=\"shape\" v:mid=\"104\">\n<title>Connector 1.140.104</title>\n<ellipse class=\"st16\" cx=\"2.77275\" cy=\"422.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape105-168\" transform=\"translate(169.451,-109.404)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"105\">\n<title>Connector Line</title>\n<path class=\"st17\" d=\"M12.19 425.94 L12.81 425.94 L12.81 449.06\"></path>\n</g>\n<a data-link-id=\"#ldo-150ma\" xlink:href=\"#ldo-150ma\">\n<g id=\"shape94-171\" transform=\"translate(131.639,-51.5912)\" v:groupcontext=\"shape\" v:mid=\"94\">\n<title>3.3V/150mA LDO</title>\n<desc>3.3V/150mA LDO</desc>\n<rect class=\"st10\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st11\" v:langid=\"1033\" x=\"7.52\" y=\"411.43\">3.3V/150mA LDO</text> </g>\n</a>\n<g id=\"shape106-174\" transform=\"translate(144.42,-84.4662)\" v:groupcontext=\"shape\" v:mid=\"106\">\n<title>3.3V</title>\n<desc>3.3V</desc>\n<rect class=\"st5\" height=\"20.0036\" width=\"37.8435\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"8.64\" y=\"418\">3.3V</text> </g>\n<g id=\"shape107-177\" transform=\"translate(101.639,-72.5287)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"107\">\n<title>Connector Arrow.107</title>\n<path class=\"st1\" d=\"M0 429.06 L0 459.44 L199.37 459.44 L199.37 452.98\"></path>\n</g>\n<g id=\"shape108-182\" transform=\"translate(89.3887,-55.9662)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"108\">\n<title>Connector Arrow.108</title>\n<path class=\"st1\" d=\"M0 412.5 L35.21 412.5\"></path>\n</g>\n<g id=\"shape109-187\" transform=\"translate(98.5932,-65.6935)\" v:groupcontext=\"shape\" v:mid=\"109\">\n<title>Connector 1.140.109</title>\n<ellipse class=\"st16\" cx=\"2.77275\" cy=\"422.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"group111-189\" transform=\"translate(64.1387,-50.9932)\" v:groupcontext=\"group\" v:mid=\"111\">\n<title>Battery.27</title>\n<g id=\"shape112-190\" transform=\"translate(3.85337,-3.94871)\" v:groupcontext=\"shape\" v:mid=\"112\">\n<title>Sheet.112</title>\n<rect class=\"st16\" height=\"23.7118\" width=\"15.0688\" x=\"0\" y=\"401.288\"></rect>\n</g>\n<g id=\"shape113-192\" v:groupcontext=\"shape\" v:mid=\"113\">\n<title>Sheet.113</title>\n<path class=\"st18\" d=\"M2.88 393.29 L19.89 393.29 C20.69 393.29 21.41 393.62 21.93 394.14 C22.45 394.66 22.78 395.38 22.78 396.17         L22.78 422.12 C22.78 422.91 22.45 423.63 21.93 424.15 C21.41 424.68 20.69 425 19.89 425 L2.88 425 C2.09         425 1.37 424.68 0.85 424.15 C0.32 423.63 0 422.91 0 422.12 L0 396.17 C0 395.38 0.32 394.66 0.85 394.14         C1.37 393.62 2.09 393.29 2.88 393.29 ZM19.89 395.88 L2.88 395.88 C2.8 395.88 2.73 395.91 2.67 395.97         C2.62 396.02 2.59 396.09 2.59 396.17 L2.59 422.12 C2.59 422.2 2.62 422.27 2.67 422.33 C2.73 422.38 2.8         422.41 2.88 422.41 L19.89 422.41 C19.97 422.41 20.05 422.38 20.1 422.33 C20.16 422.27 20.19 422.2 20.19         422.12 L20.19 396.17 C20.19 396.09 20.16 396.02 20.1 395.97 C20.05 395.91 19.97 395.88 19.89 395.88         L19.89 395.88 Z\"></path>\n</g>\n<g id=\"shape114-194\" transform=\"translate(7.01166,-32.493)\" v:groupcontext=\"shape\" v:mid=\"114\">\n<title>Sheet.114</title>\n<path class=\"st18\" d=\"M0.85 422.38 L7.9 422.38 C8.37 422.38 8.75 422.76 8.75 423.22 L8.75 425 L0 425 L0 423.22 C0 422.76 0.38         422.38 0.85 422.38 Z\"></path>\n</g>\n</g>\n<g id=\"shape115-196\" transform=\"translate(47.683,-84.9626)\" v:groupcontext=\"shape\" v:mid=\"115\">\n<title>Battery</title>\n<desc>Battery</desc>\n<rect class=\"st5\" height=\"20.0036\" width=\"55.6871\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"12\" y=\"418\">Battery</text> </g>\n<g id=\"shape116-199\" transform=\"translate(348.795,-66.4644)\" v:groupcontext=\"shape\" v:mid=\"116\">\n<title>3.3V.116</title>\n<desc>3.3V</desc>\n<rect class=\"st5\" height=\"20.0036\" width=\"37.8435\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"8.64\" y=\"418\">3.3V</text> </g>\n</g>\n</svg>",
+    "svg_path": "scraped_data/Industrial/Building Automation/Electronic Lock with Fingerprint Identification/block_diagram.svg",
+    "blocks": {
+      "mcu": {
+        "label": "MCU",
+        "categories": [
+          {
+            "title": "RX 32-Bit Performance / Efficiency MCUs",
+            "products": [
+              {
+                "title": "RX130 - Cost-optimized, High Performance 32-bit Microcontroller with Enhanced Touch Key Function and 5V Operation Support",
+                "product_id": "RX130",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RX130 Group Datasheet Rev.3.00",
+                    "url": "https://www.renesas.com/en/document/dst/rx130-group-datasheet-rev300?r=465266",
+                    "doc_id": "895136",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx130-cost-optimized-high-performance-32-bit-microcontroller-enhanced-touch-key-function-and-5v-operation#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "op-amp": {
+        "label": "Op Amp",
+        "categories": [
+          {
+            "title": "Precision Op Amps (Vos <1mV)",
+            "products": [
+              {
+                "title": "ISL28130 - Single Micropower, Low Drift, RRIO Operational Amplifier",
+                "product_id": "ISL28130",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL28130, ISL28230, ISL28430 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl28130-isl28230-isl28430-datasheet?r=465266",
+                    "doc_id": "727856",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/analog-products/amplifiers/operational-amplifiers/precision-op-amps-vos/isl28130-single-micropower-low-drift-rrio-operational-amplifier#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "fingerprint": {
+        "label": "Fingerprint Recognition Module",
+        "categories": [
+          {
+            "title": "RX 32-Bit Performance / Efficiency MCUs",
+            "products": [
+              {
+                "title": "RX651 - 32-bit Microcontrollers with RXv2 Core, Large-capacity RAM, and Enhanced Security, Connectivity and HMI Capabilities",
+                "product_id": "RX651",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RX65N Group, RX651 Group Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/rx65n-group-rx651-group-datasheet?r=465266",
+                    "doc_id": "895146",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/microcontrollers-microprocessors/rx-32-bit-performance-efficiency-mcus/rx651-32-bit-microcontrollers-rxv2-core-large-capacity-ram-and-enhanced-security-connectivity-and-hmi#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "ldo-150ma": {
+        "label": "3.3V/150mA LDO",
+        "categories": [
+          {
+            "title": "Linear Regulators (LDO)",
+            "products": [
+              {
+                "title": "ISL9008A - Low Noise LDO with Low IQ, High PSRR",
+                "product_id": "ISL9008A",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL9008A Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl9008a-datasheet?r=465266",
+                    "doc_id": "616521",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/linear-regulators-ldo/isl9008a-low-noise-ldo-low-iq-high-psrr#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "ldo-3a": {
+        "label": "3.3V/3A LDO",
+        "categories": [
+          {
+            "title": "Linear Regulators (LDO)",
+            "products": [
+              {
+                "title": "ISL80103 - High Performance 3A Linear Regulator",
+                "product_id": "ISL80103",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL80102, ISL80103 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl80102-isl80103-datasheet?r=465266",
+                    "doc_id": "635496",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/linear-regulators-ldo/isl80103-high-performance-3a-linear-regulator#parametric_options"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

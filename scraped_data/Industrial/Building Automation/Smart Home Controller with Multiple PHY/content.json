@@ -1,0 +1,242 @@
+{
+  "overview": {
+    "description": {
+      "main_text": [
+        "Smart home systems have multiple standards. This solution combines all of them in one, allowing for control and visualization of all of your smart home devices from different vendors."
+      ],
+      "benefits": [
+        "All-in-one smart home gateway",
+        "Cost-optimized microprocessor (MPU)",
+        "Visualize and control all of your smart home equipment with just one controllerMultiple vendorsMultiple standards",
+        "Multiple vendors",
+        "Multiple standards",
+        "Versatile connectivity",
+        "Single, ubiquitous USB-C power supply",
+        "Extendable for multi-purpose applications and radio PHYs",
+        "Future-proof upgradeability",
+        "Multiple vendors",
+        "Multiple standards"
+      ]
+    },
+    "applications": [
+      "Smart home automation",
+      "Smart office/building"
+    ],
+    "images": [],
+    "comparison": null
+  },
+  "block_diagram": {
+    "svg": "<svg class=\"st22\" color-interpolation-filters=\"sRGB\" height=\"9.02778in\" viewbox=\"0 0 900 650\" width=\"12.5in\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:ev=\"http://www.w3.org/2001/xml-events\" xmlns:v=\"http://schemas.microsoft.com/visio/2003/SVGExtensions/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<style type=\"text/css\">\n\t\n\t\t.st1 {fill:none;stroke:#000000;stroke-width:1}\n\t\t.st2 {fill:#dbeef3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st3 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}\n\t\t.st4 {fill:#000000;font-family:Arial;font-size:0.833336em}\n\t\t.st5 {fill:#ffffff;stroke:#000000;stroke-width:1}\n\t\t.st6 {fill:#000000;font-family:Arial;font-size:0.916672em}\n\t\t.st7 {marker-end:url(#mrkr4-22);stroke:#000000;stroke-width:1}\n\t\t.st8 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}\n\t\t.st9 {stroke:#000000;stroke-width:1}\n\t\t.st10 {marker-start:url(#mrkr4-54);stroke:#000000;stroke-width:1}\n\t\t.st11 {marker-end:url(#mrkr4-22);marker-start:url(#mrkr4-54);stroke:#000000;stroke-width:1}\n\t\t.st12 {marker-end:url(#mrkr4-22);marker-start:url(#mrkr4-54);stroke:#000000;stroke-dasharray:7,5;stroke-width:1}\n\t\t.st13 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st14 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st15 {fill:#0071b9;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}\n\t\t.st16 {fill:#ffffff;font-family:Arial;font-size:0.916672em}\n\t\t.st17 {fill:#4ba3d3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}\n\t\t.st18 {fill:#ffffff;font-family:Arial;font-size:0.833336em}\n\t\t.st19 {font-size:1em}\n\t\t.st20 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st21 {fill:#ffffff;stroke:#000000;stroke-dasharray:7,5;stroke-width:1}\n\t\t.st22 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}\n\t\n\t</style>\n<defs id=\"Markers\">\n<g id=\"lend4\">\n<path d=\"M 2 1 L 0 0 L 2 -1 L 2 1 \" style=\"stroke:none\"></path>\n</g>\n<marker class=\"st8\" id=\"mrkr4-22\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"-7.04\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"7.04\">\n<use transform=\"scale(-3.52,-3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n<marker class=\"st8\" id=\"mrkr4-54\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"6.68\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"6.68\">\n<use transform=\"scale(3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n</defs>\n<g v:groupcontext=\"foregroundPage\" v:index=\"1\" v:mid=\"8\">\n<title>4:3 ratio</title>\n<g id=\"shape145-1\" transform=\"translate(40,-35.0018)\" v:groupcontext=\"shape\" v:mid=\"145\">\n<title> </title>\n<rect class=\"st1\" height=\"600\" width=\"747\" x=\"0\" y=\"50\"></rect>\n</g>\n<g display=\"none\" id=\"shape1-3\" transform=\"translate(2.55795E-13,2.68221E-05)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"1\">\n<title>Sheet.1</title>\n<rect class=\"st2\" height=\"675\" width=\"9\" x=\"0\" y=\"-25\"></rect>\n</g>\n<g display=\"none\" id=\"shape2-5\" transform=\"translate(891,2.68221E-05)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"2\">\n<title>Sheet.2</title>\n<rect class=\"st2\" height=\"675\" width=\"9\" x=\"0\" y=\"-25\"></rect>\n</g>\n<g display=\"none\" id=\"shape3-7\" transform=\"translate(250,-16) rotate(-90)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"3\">\n<title>Sheet.3</title>\n<rect class=\"st2\" height=\"900\" width=\"9\" x=\"0\" y=\"-250\"></rect>\n</g>\n<g display=\"none\" id=\"shape4-9\" transform=\"translate(250,650) rotate(-90)\" v:groupcontext=\"shape\" v:layermember=\"3\" v:mid=\"4\">\n<title>Sheet.4</title>\n<rect class=\"st2\" height=\"900\" width=\"9\" x=\"0\" y=\"-250\"></rect>\n</g>\n<g id=\"shape5-11\" transform=\"translate(842.325,-4.9982)\" v:groupcontext=\"shape\" v:mid=\"5\">\n<title>EU203</title>\n<desc>EU203</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"48.2996\" x=\"0\" y=\"629.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"13.72\" y=\"643\">EU203</text> </g>\n<g id=\"shape24-14\" transform=\"translate(9,-141.752)\" v:groupcontext=\"shape\" v:mid=\"24\">\n<title>Ethernet PHY</title>\n<desc>Ethernet PHY</desc>\n<rect class=\"st5\" height=\"60.125\" width=\"81\" x=\"0\" y=\"589.875\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"6.87\" y=\"623.24\">Ethernet PHY</text> </g>\n<g id=\"shape59-17\" transform=\"translate(81,-585.002)\" v:groupcontext=\"shape\" v:mid=\"59\">\n<title>Sheet.59</title>\n<path class=\"st7\" d=\"M0 650 L11.34 650\"></path>\n</g>\n<g id=\"shape60-23\" transform=\"translate(175,-585.002)\" v:groupcontext=\"shape\" v:mid=\"60\">\n<title>Sheet.60</title>\n<path class=\"st7\" d=\"M0 650 L27.33 650\"></path>\n</g>\n<g id=\"shape61-28\" transform=\"translate(285,-585.002) rotate(1.96382E-05)\" v:groupcontext=\"shape\" v:mid=\"61\">\n<title>Sheet.61</title>\n<path class=\"st7\" d=\"M0 650 L27.33 650\"></path>\n</g>\n<g id=\"shape62-33\" transform=\"translate(395,-585.002)\" v:groupcontext=\"shape\" v:mid=\"62\">\n<title>Sheet.62</title>\n<path class=\"st7\" d=\"M0 650 L276.71 650\"></path>\n</g>\n<g id=\"shape63-38\" transform=\"translate(780,-585.002)\" v:groupcontext=\"shape\" v:mid=\"63\">\n<title>Sheet.63</title>\n<path class=\"st9\" d=\"M0 650 L35 650\"></path>\n</g>\n<g id=\"shape64-41\" transform=\"translate(1062.77,64.9981) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"64\">\n<title>Sheet.64</title>\n<path class=\"st9\" d=\"M0 650 L390 650\"></path>\n</g>\n<g id=\"shape65-44\" transform=\"translate(413,844.998) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"65\">\n<title>Sheet.65</title>\n<path class=\"st7\" d=\"M0 650 L35.46 650\"></path>\n</g>\n<g id=\"shape66-49\" transform=\"translate(450,859.998) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"66\">\n<title>Sheet.66</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L79.75 650\"></path>\n</g>\n<g id=\"shape67-55\" transform=\"translate(81.1111,-409.002)\" v:groupcontext=\"shape\" v:mid=\"67\">\n<title>Sheet.67</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L331.89 650\"></path>\n</g>\n<g id=\"shape69-60\" transform=\"translate(80.9259,-390.002)\" v:groupcontext=\"shape\" v:mid=\"69\">\n<title>Sheet.69</title>\n<path class=\"st11\" d=\"M6.68 650 L7.04 650 L362.13 650\"></path>\n</g>\n<g id=\"shape70-67\" transform=\"translate(413,967.498) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"70\">\n<title>Sheet.70</title>\n<path class=\"st7\" d=\"M0 650 L35.46 650\"></path>\n</g>\n<g id=\"shape71-72\" transform=\"translate(450,982.498) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"71\">\n<title>Sheet.71</title>\n<path class=\"st12\" d=\"M6.68 650 L7.04 650 L72.21 650\"></path>\n</g>\n<g id=\"shape72-79\" transform=\"translate(90,-195.002)\" v:groupcontext=\"shape\" v:mid=\"72\">\n<title>Sheet.72</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L467.27 650\"></path>\n</g>\n<g id=\"shape73-84\" transform=\"translate(90,-149.752)\" v:groupcontext=\"shape\" v:mid=\"73\">\n<title>Sheet.73</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L335 650\"></path>\n</g>\n<g id=\"shape74-89\" transform=\"translate(450,1013.67) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"74\">\n<title>Sheet.74</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L25 650\"></path>\n</g>\n<g id=\"shape75-94\" transform=\"translate(-225,500.248) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"75\">\n<title>Sheet.75</title>\n<path class=\"st9\" d=\"M0 650 L136.57 650\"></path>\n</g>\n<g id=\"shape76-97\" transform=\"translate(1113,455.248) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"76\">\n<title>Sheet.76</title>\n<path class=\"st7\" d=\"M0 650 L12.21 650\"></path>\n</g>\n<g id=\"shape77-102\" transform=\"translate(1137,434.813) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"77\">\n<title>Sheet.77</title>\n<path class=\"st11\" d=\"M6.68 650 L7.04 650 L32.52 650\"></path>\n</g>\n<g id=\"shape78-109\" transform=\"translate(1207.27,454.998) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"78\">\n<title>Sheet.78</title>\n<path class=\"st7\" d=\"M0 650 L12.46 650\"></path>\n</g>\n<g id=\"shape79-114\" transform=\"translate(1239.4,434.998) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"79\">\n<title>Sheet.79</title>\n<path class=\"st11\" d=\"M6.68 650 L7.04 650 L32.46 650\"></path>\n</g>\n<g id=\"shape80-121\" transform=\"translate(1188.37,65.2482) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"80\">\n<title>Sheet.80</title>\n<path class=\"st7\" d=\"M0 650 L8.09 650\"></path>\n</g>\n<g id=\"shape81-126\" transform=\"translate(626.738,-530.002) rotate(2.41415E-05)\" v:groupcontext=\"shape\" v:mid=\"81\">\n<title>Sheet.81</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L23.26 650\"></path>\n</g>\n<g id=\"shape82-131\" transform=\"translate(678.75,724.998) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"82\">\n<title>Sheet.82</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L28.75 650\"></path>\n</g>\n<g id=\"shape83-136\" transform=\"translate(2.55795E-13,119.998) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"83\">\n<title>Sheet.83</title>\n<path class=\"st9\" d=\"M0 650 L45 650\"></path>\n</g>\n<g id=\"shape84-139\" transform=\"translate(1315,64.9981) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"84\">\n<title>Sheet.84</title>\n<path class=\"st9\" d=\"M0 650 L511.11 650\"></path>\n</g>\n<g id=\"shape85-142\" transform=\"translate(678.75,814.998) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"85\">\n<title>Sheet.85</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L13.75 650\"></path>\n</g>\n<g id=\"shape86-147\" transform=\"translate(626.737,-469.678)\" v:groupcontext=\"shape\" v:mid=\"86\">\n<title>Sheet.86</title>\n<path class=\"st11\" d=\"M6.68 650 L7.04 650 L44.97 650\"></path>\n</g>\n<g id=\"shape87-154\" transform=\"translate(678.75,859.998) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"87\">\n<title>Sheet.87</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L13.75 650\"></path>\n</g>\n<g id=\"shape88-159\" transform=\"translate(626.737,-423.678)\" v:groupcontext=\"shape\" v:mid=\"88\">\n<title>Sheet.88</title>\n<path class=\"st11\" d=\"M6.68 650 L7.04 650 L44.97 650\"></path>\n</g>\n<g id=\"shape89-166\" transform=\"translate(678.75,904.998) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"89\">\n<title>Sheet.89</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L13.75 650\"></path>\n</g>\n<g id=\"shape90-171\" transform=\"translate(678.75,919.998) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"90\">\n<title>Sheet.90</title>\n<path class=\"st11\" d=\"M6.68 650 L7.04 650 L44.97 650\"></path>\n</g>\n<g id=\"shape91-178\" transform=\"translate(626.75,-340.002)\" v:groupcontext=\"shape\" v:mid=\"91\">\n<title>Sheet.91</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L28.25 650\"></path>\n</g>\n<g id=\"shape92-183\" transform=\"translate(678.75,1090) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"92\">\n<title>Sheet.92</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L23.75 650\"></path>\n</g>\n<g id=\"shape93-188\" transform=\"translate(1305,310.554) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"93\">\n<title>Sheet.93</title>\n<path class=\"st9\" d=\"M0 650 L129.44 650\"></path>\n</g>\n<g id=\"shape94-191\" transform=\"translate(626.75,-301.877)\" v:groupcontext=\"shape\" v:mid=\"94\">\n<title>Sheet.94</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L20.25 650\"></path>\n</g>\n<g id=\"shape95-196\" transform=\"translate(678.75,1160) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"95\">\n<title>Sheet.95</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L31.75 650\"></path>\n</g>\n<g id=\"shape96-201\" transform=\"translate(1297.5,351.092) rotate(90.178)\" v:groupcontext=\"shape\" v:mid=\"96\">\n<title>Sheet.96</title>\n<path class=\"st9\" d=\"M0 650 L160.93 650\"></path>\n</g>\n<g id=\"shape97-204\" transform=\"translate(626.75,-261.178)\" v:groupcontext=\"shape\" v:mid=\"97\">\n<title>Sheet.97</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L13.25 650\"></path>\n</g>\n<g id=\"shape98-209\" transform=\"translate(675.644,1244.99) rotate(-179.726)\" v:groupcontext=\"shape\" v:mid=\"98\">\n<title>Sheet.98</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L38.75 650\"></path>\n</g>\n<g id=\"shape99-214\" transform=\"translate(1290,389.813) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"99\">\n<title>Sheet.99</title>\n<path class=\"st9\" d=\"M0 650 L205 650\"></path>\n</g>\n<g id=\"shape100-217\" transform=\"translate(665,-73.8907)\" v:groupcontext=\"shape\" v:mid=\"100\">\n<title>Sheet.100</title>\n<path class=\"st7\" d=\"M0 650 L6.71 650\"></path>\n</g>\n<g id=\"shape101-222\" transform=\"translate(780,-65.0018)\" v:groupcontext=\"shape\" v:mid=\"101\">\n<title>Sheet.101</title>\n<path class=\"st9\" d=\"M0 650 L35 650\"></path>\n</g>\n<g id=\"shape102-225\" transform=\"translate(780,-148.127)\" v:groupcontext=\"shape\" v:mid=\"102\">\n<title>Sheet.102</title>\n<path class=\"st9\" d=\"M0 650 L35 650\"></path>\n</g>\n<g id=\"shape103-228\" transform=\"translate(678.75,1075) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"103\">\n<title>Sheet.103</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L13.75 650\"></path>\n</g>\n<g id=\"shape104-233\" transform=\"translate(792,1038.82) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"104\">\n<title>Sheet.104</title>\n<path class=\"st9\" d=\"M0 650 L11.63 650\"></path>\n</g>\n<g id=\"shape105-236\" transform=\"translate(792,999.214) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"105\">\n<title>Sheet.105</title>\n<path class=\"st9\" d=\"M0 650 L11.63 650\"></path>\n</g>\n<g id=\"shape106-239\" transform=\"translate(792,959.606) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"106\">\n<title>Sheet.106</title>\n<path class=\"st9\" d=\"M0 650 L11.63 650\"></path>\n</g>\n<g id=\"shape107-242\" transform=\"translate(792,919.998) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"107\">\n<title>Sheet.107</title>\n<path class=\"st9\" d=\"M0 650 L11.63 650\"></path>\n</g>\n<g id=\"shape108-245\" transform=\"translate(815,868.123) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"108\">\n<title>Sheet.108</title>\n<path class=\"st9\" d=\"M0 650 L35.45 650\"></path>\n</g>\n<g id=\"shape111-248\" transform=\"translate(175.625,-585)\" v:groupcontext=\"shape\" v:mid=\"111\">\n<title>21V</title>\n<desc>21V</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"34.375\" x=\"0\" y=\"629.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"8.29\" y=\"643\">21V</text> </g>\n<g id=\"shape112-251\" transform=\"translate(285.625,-585)\" v:groupcontext=\"shape\" v:mid=\"112\">\n<title>5V</title>\n<desc>5V</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"34.375\" x=\"0\" y=\"629.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"11.07\" y=\"643\">5V</text> </g>\n<g id=\"shape113-254\" transform=\"translate(421.875,-585)\" v:groupcontext=\"shape\" v:mid=\"113\">\n<title>6+3 Rails</title>\n<desc>6+3 Rails</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"629.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"15.02\" y=\"643\">6+3 Rails</text> </g>\n<g id=\"shape114-257\" transform=\"translate(410,-582.229)\" v:groupcontext=\"shape\" v:mid=\"114\">\n<title>Connector 1.166</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape115-259\" transform=\"translate(410,-452.229)\" v:groupcontext=\"shape\" v:mid=\"115\">\n<title>Connector 1.166.115</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape116-261\" transform=\"translate(410,-406.229)\" v:groupcontext=\"shape\" v:mid=\"116\">\n<title>Connector 1.166.116</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape117-263\" transform=\"translate(410,-329.729)\" v:groupcontext=\"shape\" v:mid=\"117\">\n<title>Connector 1.166.117</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"group118-265\" transform=\"translate(395.625,-581.623)\" v:groupcontext=\"group\" v:mid=\"118\">\n<title>Vertical Wire Bundle</title>\n<g id=\"shape119-266\" transform=\"translate(0,-3.375)\" v:groupcontext=\"shape\" v:mid=\"119\">\n<title>Label Text 10pt.1046</title>\n<rect class=\"st3\" height=\"20.0036\" width=\"68.3156\" x=\"0\" y=\"629.996\"></rect>\n</g>\n<g id=\"shape120-268\" transform=\"translate(529.208,1065.14) rotate(130.601)\" v:groupcontext=\"shape\" v:mid=\"120\">\n<title>Sheet.120</title>\n<path class=\"st14\" d=\"M0 650 L10.37 650\"></path>\n</g>\n</g>\n<g id=\"shape121-271\" transform=\"translate(410,-192.229)\" v:groupcontext=\"shape\" v:mid=\"121\">\n<title>Connector 1.166.121</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape122-273\" transform=\"translate(460.348,-192.229)\" v:groupcontext=\"shape\" v:mid=\"122\">\n<title>Connector 1.166.122</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape124-275\" transform=\"translate(535.583,-582.229)\" v:groupcontext=\"shape\" v:mid=\"124\">\n<title>Connector 1.166.124</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape130-277\" transform=\"translate(662.227,-482.229)\" v:groupcontext=\"shape\" v:mid=\"130\">\n<title>Connector 1.166.130</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape131-279\" transform=\"translate(662.227,-437.229)\" v:groupcontext=\"shape\" v:mid=\"131\">\n<title>Connector 1.166.131</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape132-281\" transform=\"translate(662.227,-392.229)\" v:groupcontext=\"shape\" v:mid=\"132\">\n<title>Connector 1.166.132</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape133-283\" transform=\"translate(678.75,1142.78) rotate(180)\" v:groupcontext=\"shape\" v:mid=\"133\">\n<title>Sheet.133</title>\n<path class=\"st10\" d=\"M6.68 650 L7.04 650 L13.75 650\"></path>\n</g>\n<g id=\"shape134-288\" transform=\"translate(662.227,-222.229)\" v:groupcontext=\"shape\" v:mid=\"134\">\n<title>Connector 1.166.134</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape135-290\" transform=\"translate(662.227,-154.451)\" v:groupcontext=\"shape\" v:mid=\"135\">\n<title>Connector 1.166.135</title>\n<ellipse class=\"st13\" cx=\"2.77275\" cy=\"647.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"group142-292\" transform=\"translate(395.625,-435.188)\" v:groupcontext=\"group\" v:mid=\"142\">\n<title>N</title>\n<g id=\"shape143-293\" transform=\"translate(0,-3.375)\" v:groupcontext=\"shape\" v:mid=\"143\">\n<title> N</title>\n<desc>N</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"68.3156\" x=\"0\" y=\"629.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"30.55\" y=\"643\">N</text> </g>\n<g id=\"shape144-296\" transform=\"translate(529.208,1065.14) rotate(130.601)\" v:groupcontext=\"shape\" v:mid=\"144\">\n<title>Sheet.144</title>\n<path class=\"st14\" d=\"M0 650 L10.37 650\"></path>\n</g>\n</g>\n<a data-link-id=\"#single-cortex-a55\" xlink:href=\"#single-cortex-a55\">\n<g id=\"group146-299\" transform=\"translate(450,-215.002)\" v:groupcontext=\"group\" v:mid=\"146\">\n<title>Sheet.146</title>\n<g id=\"shape56-300\" v:groupcontext=\"shape\" v:mid=\"56\">\n<title>Single Cortex A55</title>\n<desc>Single Cortex-A55</desc>\n<rect class=\"st15\" height=\"354.625\" width=\"176.737\" x=\"0\" y=\"295.375\"></rect>\n<text class=\"st16\" v:langid=\"1033\" x=\"43.73\" y=\"313.28\">Single Cortex-A55</text> </g>\n<g id=\"shape26-303\" transform=\"translate(5.59704,-213.676)\" v:groupcontext=\"shape\" v:mid=\"26\">\n<title>Clk</title>\n<desc>Clk</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"23.38\" y=\"641.68\">Clk</text> </g>\n<g id=\"shape27-306\" transform=\"translate(5.59704,-163.676)\" v:groupcontext=\"shape\" v:mid=\"27\">\n<title>SD</title>\n<desc>SD</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"23.66\" y=\"641.68\">SD</text> </g>\n<g id=\"shape28-309\" transform=\"translate(108.796,-303.676)\" v:groupcontext=\"shape\" v:mid=\"28\">\n<title>SPI</title>\n<desc>SPI</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"22.54\" y=\"641.68\">SPI</text> </g>\n<g id=\"shape29-312\" transform=\"translate(108.796,-243.352)\" v:groupcontext=\"shape\" v:mid=\"29\">\n<title>QSPI</title>\n<desc>QSPI</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"18.65\" y=\"641.68\">QSPI</text> </g>\n<g id=\"shape30-315\" transform=\"translate(108.796,-197.352)\" v:groupcontext=\"shape\" v:mid=\"30\">\n<title>SPI   </title>\n<desc>SPI</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"22.54\" y=\"641.68\">SPI</text> </g>\n<g id=\"shape31-318\" transform=\"translate(108.796,-153.676)\" v:groupcontext=\"shape\" v:mid=\"31\">\n<title>UART</title>\n<desc>UART</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"16.99\" y=\"641.68\">UART</text> </g>\n<g id=\"shape32-321\" transform=\"translate(108.796,-113.676)\" v:groupcontext=\"shape\" v:mid=\"32\">\n<title> UART</title>\n<desc>UART</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"16.99\" y=\"641.68\">UART</text> </g>\n<g id=\"shape33-324\" transform=\"translate(108.796,-75.551)\" v:groupcontext=\"shape\" v:mid=\"33\">\n<title>  UART </title>\n<desc>UART</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"16.99\" y=\"641.68\">UART</text> </g>\n<g id=\"shape34-327\" transform=\"translate(108.796,-34.852)\" v:groupcontext=\"shape\" v:mid=\"34\">\n<title>    UART </title>\n<desc>UART</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"16.99\" y=\"641.68\">UART</text> </g>\n<g id=\"shape35-330\" transform=\"translate(5.59704,-91)\" v:groupcontext=\"shape\" v:mid=\"35\">\n<title>Display I/F  </title>\n<desc>Display I/F</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"6.99\" y=\"641.68\">Display I/F</text> </g>\n<g id=\"shape36-333\" transform=\"translate(5.59704,-60)\" v:groupcontext=\"shape\" v:mid=\"36\">\n<title>Ethernet</title>\n<desc>Ethernet</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"11.7\" y=\"641.68\">Ethernet</text> </g>\n<g id=\"shape37-336\" transform=\"translate(5.59704,-7.35198)\" v:groupcontext=\"shape\" v:mid=\"37\">\n<title>eMMC</title>\n<desc>eMMC</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"15.88\" y=\"641.68\">eMMC</text> </g>\n<g id=\"shape123-339\" transform=\"translate(108.796,-7.67599)\" v:groupcontext=\"shape\" v:mid=\"123\">\n<title>DDR</title>\n<desc>DDR</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"61.204\" x=\"0\" y=\"627.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"19.77\" y=\"641.68\">DDR</text> </g>\n</g>\n</a>\n<g id=\"shape18-342\" transform=\"translate(10.7561,-568.127)\" v:groupcontext=\"shape\" v:mid=\"18\">\n<title>USB-C Connector</title>\n<desc>USB-C Connector</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"70.2439\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"18.01\" y=\"629.82\">USB-C <tspan class=\"st19\" dy=\"1.2em\" x=\"9.75\">Connector</tspan></text> </g>\n<g id=\"shape22-346\" transform=\"translate(10.7561,-383.127)\" v:groupcontext=\"shape\" v:mid=\"22\">\n<title>SD-Card I/F</title>\n<desc>SD-Card I/F</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"70.2439\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"5.78\" y=\"636.43\">SD-Card I/F</text> </g>\n<a data-link-id=\"#pmic\" xlink:href=\"#pmic\">\n<g id=\"shape58-349\" transform=\"translate(319.375,-561.564)\" v:groupcontext=\"shape\" v:mid=\"58\">\n<title>PMIC Bucks x6 LDO x3</title>\n<desc>PMIC Bucks x6 LDO x3</desc>\n<rect class=\"st15\" height=\"46.875\" width=\"75.625\" x=\"0\" y=\"603.125\"></rect>\n<text class=\"st16\" v:langid=\"1033\" x=\"24.06\" y=\"616.66\">PMIC <tspan class=\"st19\" dy=\"1.2em\" x=\"15.5\">Bucks x6 </tspan><tspan class=\"st19\" dy=\"1.2em\" x=\"19.17\">LDO x3</tspan></text> </g>\n</a>\n<a data-link-id=\"#buck-dc-dc\" xlink:href=\"#buck-dc-dc\">\n<g id=\"shape109-354\" transform=\"translate(209.375,-568.127)\" v:groupcontext=\"shape\" v:mid=\"109\">\n<title>Buck DC/DC</title>\n<desc>Buck DC/DC</desc>\n<rect class=\"st15\" height=\"33.75\" width=\"75.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st16\" v:langid=\"1033\" x=\"6.64\" y=\"636.43\">Buck DC/DC</text> </g>\n</a>\n<a data-link-id=\"#usb-c-pd-controller\" xlink:href=\"#usb-c-pd-controller\">\n<g id=\"shape110-357\" transform=\"translate(99.375,-568.127)\" v:groupcontext=\"shape\" v:mid=\"110\">\n<title>USB-C PD Controller</title>\n<desc>USB-C PD Controller</desc>\n<rect class=\"st15\" height=\"33.75\" width=\"75.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st16\" v:langid=\"1033\" x=\"11.53\" y=\"629.82\">USB-C PD <tspan class=\"st19\" dy=\"1.2em\" x=\"13.97\">Controller</tspan></text> </g>\n</a>\n<g id=\"shape42-361\" transform=\"translate(815,-568.127)\" v:groupcontext=\"shape\" v:mid=\"42\">\n<title>Antenna</title>\n<desc>Antenna</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"75.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"17.32\" y=\"636.43\">Antenna</text> </g>\n<g id=\"shape45-364\" transform=\"translate(815,-415.002)\" v:groupcontext=\"shape\" v:mid=\"45\">\n<title>  Antenna</title>\n<desc>Antenna</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"75.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"17.32\" y=\"636.43\">Antenna</text> </g>\n<g id=\"shape53-367\" transform=\"translate(815,-131.252)\" v:groupcontext=\"shape\" v:mid=\"53\">\n<title>    Antenna  </title>\n<desc>Antenna</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"75.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"17.32\" y=\"636.43\">Antenna</text> </g>\n<g id=\"shape55-370\" transform=\"translate(815,-48.1268)\" v:groupcontext=\"shape\" v:mid=\"55\">\n<title>     Antenna </title>\n<desc>Antenna</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"75.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"17.32\" y=\"636.43\">Antenna</text> </g>\n<g id=\"shape47-373\" transform=\"translate(792,-363.127)\" v:groupcontext=\"shape\" v:mid=\"47\">\n<title>USB-Stick “ZigBee”</title>\n<desc>USB-Stick “ZigBee”</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"98.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"24.25\" y=\"629.82\">USB-Stick <tspan class=\"st19\" dy=\"1.2em\" x=\"28.22\">“</tspan>ZigBee”</text> </g>\n<g id=\"shape48-377\" transform=\"translate(792,-323.519)\" v:groupcontext=\"shape\" v:mid=\"48\">\n<title>USB-Stick “HomeMatic”</title>\n<desc>USB-Stick “HomeMatic”</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"98.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"24.25\" y=\"629.82\">USB-Stick <tspan class=\"st19\" dy=\"1.2em\" x=\"17.84\">“</tspan>HomeMatic”</text> </g>\n<g id=\"shape49-381\" transform=\"translate(792,-283.911)\" v:groupcontext=\"shape\" v:mid=\"49\">\n<title>USB-Stick “eNet”</title>\n<desc>USB-Stick “eNet”</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"98.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"7.44\" y=\"636.43\">USB-Stick “eNet”</text> </g>\n<g id=\"shape50-384\" transform=\"translate(792,-244.303)\" v:groupcontext=\"shape\" v:mid=\"50\">\n<title>USB-Stick...</title>\n<desc>USB-Stick...</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"98.625\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"19.67\" y=\"636.43\">USB-Stick...</text> </g>\n<g id=\"shape46-387\" transform=\"translate(678.75,-255.002)\" v:groupcontext=\"shape\" v:mid=\"46\">\n<title>USB Hub x4 USB 2.0</title>\n<desc>USB Hub x4 USB 2.0</desc>\n<rect class=\"st5\" height=\"152.574\" width=\"101.25\" x=\"0\" y=\"497.426\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"20.36\" y=\"570.41\">USB Hub x4 <tspan class=\"st19\" dy=\"1.2em\" x=\"30.14\">USB 2.0</tspan></text> </g>\n<a data-link-id=\"#wi-fi-bluetooth-module\" xlink:href=\"#wi-fi-bluetooth-module\">\n<g id=\"shape41-391\" transform=\"translate(678.75,-568.127)\" v:groupcontext=\"shape\" v:mid=\"41\">\n<title>Wi-Fi Bluetooth Module</title>\n<desc>Wi-Fi Bluetooth Module</desc>\n<rect class=\"st15\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st16\" v:langid=\"1033\" x=\"13.03\" y=\"629.82\">Wi-Fi Bluetooth <tspan class=\"st19\" dy=\"1.2em\" x=\"32.59\">Module</tspan></text> </g>\n</a>\n<a data-link-id=\"#qspi-flash\" xlink:href=\"#qspi-flash\">\n<g id=\"shape43-395\" transform=\"translate(678.75,-460.553)\" v:groupcontext=\"shape\" v:mid=\"43\">\n<title>QSPI Flash </title>\n<desc>QSPI Flash</desc>\n<rect class=\"st15\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st16\" v:langid=\"1033\" x=\"22.5\" y=\"636.43\">QSPI Flash</text> </g>\n</a>\n<g id=\"shape44-398\" transform=\"translate(678.75,-415.002)\" v:groupcontext=\"shape\" v:mid=\"44\">\n<title>LTE-M Module GM01Q</title>\n<desc>LTE-M Module GM01Q</desc>\n<rect class=\"st20\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"14.56\" y=\"629.82\">LTE-M Module <tspan class=\"st19\" dy=\"1.2em\" x=\"31.37\">GM01Q</tspan></text> </g>\n<g id=\"shape51-402\" transform=\"translate(678.75,-201.252)\" v:groupcontext=\"shape\" v:mid=\"51\">\n<title>KNX TP</title>\n<desc>KNX TP</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"30.76\" y=\"636.43\">KNX TP</text> </g>\n<g id=\"shape52-405\" transform=\"translate(678.75,-131.252)\" v:groupcontext=\"shape\" v:mid=\"52\">\n<title>KNX RF</title>\n<desc>KNX RF</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"30.46\" y=\"636.43\">KNX RF</text> </g>\n<a data-link-id=\"#dect-data\" xlink:href=\"#dect-data\">\n<g id=\"shape54-408\" transform=\"translate(678.75,-48.1268)\" v:groupcontext=\"shape\" v:mid=\"54\">\n<title>DECT Data </title>\n<desc>DECT Data</desc>\n<rect class=\"st15\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st16\" v:langid=\"1033\" x=\"22.51\" y=\"636.43\">DECT Data</text> </g>\n</a>\n<g id=\"shape39-411\" transform=\"translate(455,-141.752)\" v:groupcontext=\"shape\" v:mid=\"39\">\n<title> eMMC</title>\n<desc>eMMC</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"86.25\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"26.93\" y=\"636.43\">eMMC</text> </g>\n<g id=\"shape40-414\" transform=\"translate(548.75,-141.752)\" v:groupcontext=\"shape\" v:mid=\"40\">\n<title> DDR4 RM</title>\n<desc>DDR4 RM</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"77.9874\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"13.94\" y=\"636.43\">DDR4 RM</text> </g>\n<g id=\"shape23-417\" transform=\"translate(269.375,-308.127)\" v:groupcontext=\"shape\" v:mid=\"23\">\n<title>Display I/F</title>\n<desc>Display I/F</desc>\n<path class=\"st21\" d=\"M0 650 L101.25 650 L101.25 616.25 L0 616.25 L0 650 Z\"></path>\n<text class=\"st6\" v:langid=\"1033\" x=\"24.65\" y=\"636.43\">Display I/F</text> </g>\n<a data-link-id=\"#versaclock\" xlink:href=\"#versaclock\">\n<g id=\"shape25-420\" transform=\"translate(269.375,-430.002)\" v:groupcontext=\"shape\" v:mid=\"25\">\n<title>VersaClock</title>\n<desc>VersaClock</desc>\n<rect class=\"st15\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"616.25\"></rect>\n<text class=\"st16\" v:langid=\"1033\" x=\"22.5\" y=\"636.43\">VersaClock</text> </g>\n</a>\n</g>\n</svg>",
+    "svg_path": "scraped_data/Industrial/Building Automation/Smart Home Controller with Multiple PHY/block_diagram.svg",
+    "blocks": {
+      "single-cortex-a55": {
+        "label": "Single Cortex-A55",
+        "categories": [
+          {
+            "title": "RZ 32 & 64-Bit MPUs",
+            "products": [
+              {
+                "title": "RZ/G2UL - General-Purpose Microprocessors with Single-Core Arm Cortex-A55 (1.0GHz) CPU and Single-Core Arm Cortex-M33 (200MHz) CPU with 2ch Gigabit Ethernet",
+                "product_id": "RZ/G2UL",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RZ/G2UL Group Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/rzg2ul-group-datasheet?r=1539311",
+                    "doc_id": "25569341",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/microcontrollers-microprocessors/rz-mpus/rzg2ul-general-purpose-microprocessors-single-core-arm-cortex-a55-10ghz-cpu-and-single-core-arm-cortex-m33#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "wi-fi-bluetooth-module": {
+        "label": "Wi-Fi Bluetooth Module",
+        "categories": [
+          {
+            "title": "Low Power Wi-Fi",
+            "products": [
+              {
+                "title": "DA16600MOD - Ultra-Low Power Wi-Fi + Bluetooth Low Energy Combo Modules for Battery Powered IoT Devices ",
+                "product_id": "DA16600MOD",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "DA16600MOD Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/da16600mod-datasheet?r=1539311",
+                    "doc_id": "1606641",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/wireless-connectivity/wi-fi/low-power-wi-fi/da16600mod-ultra-low-power-wi-fi-bluetooth-low-energy-combo-modules-battery-powered-iot-devices#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "qspi-flash": {
+        "label": "QSPI Flash",
+        "categories": [
+          {
+            "title": "SPI NOR Flash",
+            "products": [
+              {
+                "title": "AT25QF128A - 128Mbit, 3V SPI Serial Flash Memory with Dual I/O and Quad I/O Support",
+                "product_id": "AT25QF128A",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "AT25QF128A Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/at25qf128a-datasheet?r=1539311",
+                    "doc_id": "1610771",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/memory-logic/non-volatile-memory/spi-nor-flash/at25qf128a-128mbit-3v-spi-serial-flash-memory-dual-io-and-quad-io-support#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "dect-data": {
+        "label": "DECT Data",
+        "categories": [
+          {
+            "title": "DECT",
+            "products": [
+              {
+                "title": "SC14CVMDECT - Cordless Voice Module",
+                "product_id": "SC14CVMDECT",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "SC14CVMDECT Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/sc14cvmdect-datasheet?r=1539311",
+                    "doc_id": "1550201",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/wireless-connectivity/dect/sc14cvmdect-cordless-voice-module#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "versaclock": {
+        "label": "VersaClock",
+        "categories": [
+          {
+            "title": "PCI Express Clocks",
+            "products": [
+              {
+                "title": "9FGV0241 - 2-Output 1.8V PCIe Gen 1-4 Clock Generator with Zo=100 ohms",
+                "product_id": "9FGV0241",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "9FGV0241 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/9fgv0241-datasheet?r=1539311",
+                    "doc_id": "85829",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/clocks-timing/application-specific-clocks/pci-express-clocks/9fgv0241-2-output-18v-pcie-gen-1-4-clock-generator-zo100-ohms#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "pmic": {
+        "label": "PMIC",
+        "categories": [
+          {
+            "title": "Multi-Channel Power Management ICs (PMICs)",
+            "products": [
+              {
+                "title": "RAA215300 - High-Performance 9-Channel PMIC Supporting DDR Memory, with Built-In Charger and RTC",
+                "product_id": "RAA215300",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RAA215300 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/raa215300-datasheet?r=1539311",
+                    "doc_id": "1814241",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/multi-channel-power-management-ics-pmics/raa215300-high-performance-9-channel-pmic-supporting-ddr-memory-built-charger-and-rtc#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "buck-dc-dc": {
+        "label": "Buck DC/DC",
+        "categories": [
+          {
+            "title": "Buck Regulators (Integrated FETs)",
+            "products": [
+              {
+                "title": "RAA211650 - 60V 5A Integrated Switching Regulator",
+                "product_id": "RAA211650",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RAA211650 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/raa211650-datasheet?r=1539311",
+                    "doc_id": "1505096",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/dcdc-converters/step-down-buck/buck-regulators-integrated-fets/raa211650-60v-5a-integrated-switching-regulator#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "usb-c-pd-controller": {
+        "label": "USB-C PD Controller",
+        "categories": [
+          {
+            "title": "USB-C & Power Delivery",
+            "products": [
+              {
+                "title": "R9A02G011 - USB PD Controller",
+                "product_id": "R9A02G011",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "R9A02G011 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/r9a02g011-datasheet?r=1539311",
+                    "doc_id": "828636",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/usb-c-power/usb-c-power-delivery/r9a02g011-usb-pd-controller#parametric_options"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "overview": {
+    "description": {
+      "main_text": [
+        "As gaming evolves, customization becomes paramount in the industry. Renesas addresses this demand with its DDR5 system, featuring serial presence detect (SPD) hubs, power management integrated circuits (PMICs), temperature sensors, and a control MCU. This system enables extensive addressable RGB (ARGB) lighting customization with millions of colors, ensuring enhanced user experience and performance optimization."
+      ],
+      "benefits": [
+        "48MHz Arm®Cortex®-M23 MCU provides an I3C interface up to 4.6Mbps.",
+        "High precision, low power, and small footprint optimized for efficient operation in DDR5 RDIMMs, LRDIMMs, and high-end gaming DIMMs.",
+        "SPD hub allows the DDR5 system control bus to scale significantly beyond previous generations and enables a new class of data center equipment.",
+        "PMIC maximizes DDR5 memory performance, density, and reliability while reducing overall system power consumption."
+      ]
+    },
+    "applications": [
+      "DDR5 UDIMM"
+    ],
+    "images": [],
+    "comparison": null
+  },
+  "block_diagram": {
+    "svg": "<svg class=\"st21\" color-interpolation-filters=\"sRGB\" height=\"5in\" viewbox=\"0 0 1008 360\" width=\"14in\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:ev=\"http://www.w3.org/2001/xml-events\" xmlns:v=\"http://schemas.microsoft.com/visio/2003/SVGExtensions/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<style type=\"text/css\">\n\t\n\t\t.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}\n\t\t.st2 {fill:#000000;font-family:Arial;font-size:0.833336em}\n\t\t.st3 {fill:#ffffff;stroke:#000000;stroke-width:1}\n\t\t.st4 {fill:#000000;font-family:Arial;font-size:0.916672em}\n\t\t.st5 {font-size:1em}\n\t\t.st6 {fill:#0071b9;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}\n\t\t.st7 {fill:#ffffff;font-family:Arial;font-size:0.916672em}\n\t\t.st8 {marker-end:url(#mrkr4-20);stroke:#000000;stroke-width:1}\n\t\t.st9 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}\n\t\t.st10 {marker-end:url(#mrkr4-20);marker-start:url(#mrkr4-27);stroke:#000000;stroke-width:1}\n\t\t.st11 {stroke:#000000;stroke-width:1}\n\t\t.st12 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st13 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}\n\t\t.st14 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}\n\t\t.st15 {baseline-shift:-32.4947%;font-size:0.649894em}\n\t\t.st16 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st17 {fill:#4ba3d3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}\n\t\t.st18 {fill:#ffffff;font-family:Arial;font-size:0.833336em}\n\t\t.st19 {fill:#0071b9;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st20 {fill:#4ba3d3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st21 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}\n\t\n\t</style>\n<defs id=\"Markers\">\n<g id=\"lend4\">\n<path d=\"M 2 1 L 0 0 L 2 -1 L 2 1 \" style=\"stroke:none\"></path>\n</g>\n<marker class=\"st9\" id=\"mrkr4-20\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"-7.04\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"7.04\">\n<use transform=\"scale(-3.52,-3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n<marker class=\"st9\" id=\"mrkr4-27\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"6.68\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"6.68\">\n<use transform=\"scale(3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n</defs>\n<g v:groupcontext=\"foregroundPage\" v:index=\"1\" v:mid=\"0\">\n<title>16:9</title>\n<g id=\"shape1-1\" transform=\"translate(916.559,-27)\" v:groupcontext=\"shape\" v:mid=\"1\">\n<title>TW008</title>\n<desc>TW008</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"48.2996\" x=\"0\" y=\"339.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"8.03\" y=\"353\">TW008</text> </g>\n<g id=\"shape3-4\" transform=\"translate(40.4386,-56.0036)\" v:groupcontext=\"shape\" v:mid=\"3\">\n<title>DDR5 UDIMM</title>\n<desc>DDR5 UDIMM</desc>\n<rect class=\"st3\" height=\"243\" width=\"76.5363\" x=\"0\" y=\"117\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"23.29\" y=\"235.2\">DDR5 <tspan class=\"st5\" dy=\"1.2em\" x=\"19.63\">UDIMM</tspan></text> </g>\n<a data-link-id=\"#temperature-sensor\" xlink:href=\"#temperature-sensor\">\n<g id=\"shape7-8\" transform=\"translate(382.709,-78.5036)\" v:groupcontext=\"shape\" v:mid=\"7\">\n<title>Temperature Sensor</title>\n<desc>Temperature Sensor</desc>\n<rect class=\"st6\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"326.25\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"19.14\" y=\"339.82\">Temperature <tspan class=\"st5\" dy=\"1.2em\" x=\"33.2\">Sensor</tspan></text> </g>\n</a>\n<g id=\"shape8-12\" transform=\"translate(530.084,-134.754)\" v:groupcontext=\"shape\" v:mid=\"8\">\n<title>Level Shift</title>\n<desc>Level Shift</desc>\n<rect class=\"st3\" height=\"45\" width=\"101.25\" x=\"0\" y=\"315\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"24.94\" y=\"340.8\">Level Shift</text> </g>\n<g id=\"shape10-15\" transform=\"translate(116.975,-220.254)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"10\">\n<title>Connector Arrow</title>\n<path class=\"st8\" d=\"M0 351 L46.94 351\"></path>\n</g>\n<g id=\"shape11-21\" transform=\"translate(895.709,-141.222)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"11\">\n<title>Connector Arrow.11</title>\n<path class=\"st10\" d=\"M-6.68 360 L-7.04 360 L-36 360 L-36 202.22 L-751.5 202.22 L-751.5 405.84 L-731.79 405.84\"></path>\n</g>\n<g id=\"shape12-29\" transform=\"translate(895.709,-115.629)\" v:groupcontext=\"shape\" v:mid=\"12\">\n<title>Non-Renesas Component.12</title>\n<rect class=\"st3\" height=\"33.75\" width=\"65.1294\" x=\"0\" y=\"326.25\"></rect>\n</g>\n<g id=\"shape13-31\" transform=\"translate(833.055,-114.504)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"13\">\n<title>Connector Arrow.13</title>\n<path class=\"st8\" d=\"M0 351 L55.61 351\"></path>\n</g>\n<g id=\"shape14-36\" transform=\"translate(661.709,-101.004)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"14\">\n<title>Connector Arrow.14</title>\n<path class=\"st8\" d=\"M0 351 L40.21 351\"></path>\n</g>\n<g id=\"shape15-41\" transform=\"translate(677.765,-172.303)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"15\">\n<title>Connector Arrow.15</title>\n<path class=\"st8\" d=\"M0 360 L0 395.3 L24.15 395.3\"></path>\n</g>\n<g id=\"shape17-46\" transform=\"translate(661.709,-154.629)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"17\">\n<title>Connector Arrow.17</title>\n<path class=\"st8\" d=\"M0 368.62 L-23.34 369.2\"></path>\n</g>\n<g id=\"shape18-51\" transform=\"translate(631.878,-163.303)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"18\">\n<title>Connector Line</title>\n<path class=\"st11\" d=\"M0 351 L45.3 351\"></path>\n</g>\n<g id=\"shape19-54\" transform=\"translate(652.709,-145.754)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"19\">\n<title>Connector Line.19</title>\n<path class=\"st11\" d=\"M9 360 L9 444.5\"></path>\n</g>\n<g id=\"shape20-57\" transform=\"translate(272.207,-95.3786)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"20\">\n<title>Connector Line.20</title>\n<path class=\"st11\" d=\"M0 360 L20.5 360 L20.5 394.88 L389.5 394.88\"></path>\n</g>\n<g id=\"shape32-60\" transform=\"translate(272.709,-225.681)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"32\">\n<title>Connector Arrow.32</title>\n<path class=\"st8\" d=\"M0 351 L55.71 351\"></path>\n</g>\n<g id=\"shape33-65\" transform=\"translate(272.207,-243.962)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"33\">\n<title>Connector Line.33</title>\n<path class=\"st11\" d=\"M0 351 L18.25 351\"></path>\n</g>\n<g id=\"shape34-68\" transform=\"translate(272.647,-207.4)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"34\">\n<title>Connector Arrow.34</title>\n<path class=\"st8\" d=\"M0 351 L55.37 351\"></path>\n</g>\n<g id=\"shape35-73\" transform=\"translate(272.207,-188.754)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"35\">\n<title>Connector Arrow.35</title>\n<path class=\"st8\" d=\"M0 351 L103.46 351\"></path>\n</g>\n<g id=\"shape36-78\" transform=\"translate(272.207,-170.837)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"36\">\n<title>Connector Arrow.36</title>\n<path class=\"st8\" d=\"M0 351 L103.46 351\"></path>\n</g>\n<g id=\"shape37-83\" transform=\"translate(351.284,-86.3786)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"37\">\n<title>Connector Arrow.37</title>\n<path class=\"st8\" d=\"M0 351 L24.39 351\"></path>\n</g>\n<g id=\"shape38-88\" transform=\"translate(342.209,-76.2536)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"38\">\n<title>Connector Arrow.38</title>\n<path class=\"st8\" d=\"M0 351 L33.46 351\"></path>\n</g>\n<g id=\"shape39-93\" transform=\"translate(364.709,-96.5036)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"39\">\n<title>Connector Arrow.39</title>\n<path class=\"st8\" d=\"M0 351 L10.96 351\"></path>\n</g>\n<g id=\"shape40-98\" transform=\"translate(141.678,-226.481)\" v:groupcontext=\"shape\" v:mid=\"40\">\n<title>Connector 1</title>\n<ellipse class=\"st12\" cx=\"2.77275\" cy=\"357.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape41-100\" transform=\"translate(281.459,-253.077)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"41\">\n<title>Connector Line.41</title>\n<path class=\"st11\" d=\"M9 360.11 L9 377.89\"></path>\n</g>\n<g id=\"shape42-103\" transform=\"translate(287.686,-231.917)\" v:groupcontext=\"shape\" v:mid=\"42\">\n<title>Connector 1.42</title>\n<ellipse class=\"st12\" cx=\"2.77275\" cy=\"357.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape43-105\" transform=\"translate(330.959,-178.754)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"43\">\n<title>Connector Line.43</title>\n<path class=\"st11\" d=\"M6.75 360 L6.75 453.5 L11.25 453.5\"></path>\n</g>\n<g id=\"shape46-108\" transform=\"translate(116.975,-139.776)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"46\">\n<title>Connector Arrow.46</title>\n<path class=\"st10\" d=\"M6.68 351 L7.04 351 L259.07 351\"></path>\n</g>\n<g id=\"shape47-115\" transform=\"translate(334.936,-177.064)\" v:groupcontext=\"shape\" v:mid=\"47\">\n<title>Connector 1.47</title>\n<ellipse class=\"st12\" cx=\"2.77275\" cy=\"357.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape48-117\" transform=\"translate(508.709,-245.004)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"48\">\n<title>Connector Line.48</title>\n<path class=\"st11\" d=\"M0 360 L-157.5 360 L-157.5 509.62\"></path>\n</g>\n<g id=\"shape49-120\" transform=\"translate(355.709,-148.629)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"49\">\n<title>Connector Line.49</title>\n<path class=\"st11\" d=\"M9 360 L9 402.97\"></path>\n</g>\n<g id=\"shape50-123\" transform=\"translate(348.436,-194.981)\" v:groupcontext=\"shape\" v:mid=\"50\">\n<title>Connector 1.50</title>\n<ellipse class=\"st12\" cx=\"2.77275\" cy=\"357.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape51-125\" transform=\"translate(361.936,-146.004)\" v:groupcontext=\"shape\" v:mid=\"51\">\n<title>Connector 1.51</title>\n<ellipse class=\"st12\" cx=\"2.77275\" cy=\"357.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape52-127\" transform=\"translate(499.709,-245.004)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"52\">\n<title>Connector Line.52</title>\n<path class=\"st11\" d=\"M9 360 L9 434.25\"></path>\n</g>\n<g id=\"shape53-130\" transform=\"translate(483.959,-139.254)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"53\">\n<title>Connector double arrow</title>\n<path class=\"st10\" d=\"M6.68 351 L7.04 351 L39.09 351\"></path>\n</g>\n<g id=\"shape54-137\" transform=\"translate(509.084,-161.754)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"54\">\n<title>Connector Line.54</title>\n<path class=\"st8\" d=\"M0 351 L13.96 351\"></path>\n</g>\n<a data-link-id=\"#ldo\" xlink:href=\"#ldo\">\n<g id=\"shape5-142\" transform=\"translate(170.957,-78.5036)\" v:groupcontext=\"shape\" v:mid=\"5\">\n<title>LDO</title>\n<desc>LDO</desc>\n<rect class=\"st6\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"326.25\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"39.32\" y=\"346.43\">LDO</text> </g>\n</a>\n<g id=\"group112-145\" transform=\"translate(913.769,-122.605)\" v:groupcontext=\"group\" v:mid=\"112\">\n<title>Sheet.112</title>\n<g id=\"shape99-146\" transform=\"translate(377.173,359.372) rotate(89.9) scale(-1,1)\" v:groupcontext=\"shape\" v:mid=\"99\">\n<title>Sheet.99</title>\n<path class=\"st11\" d=\"M0 360 L12.41 360\"></path>\n</g>\n<g id=\"shape100-149\" transform=\"translate(0.628318,713.42) rotate(-0.1) scale(1,-1)\" v:groupcontext=\"shape\" v:mid=\"100\">\n<title>Sheet.100</title>\n<path class=\"st11\" d=\"M0 360 L29.01 360\"></path>\n</g>\n<g id=\"shape101-152\" transform=\"translate(8.53685,-3.44161) rotate(-0.1)\" v:groupcontext=\"shape\" v:layermember=\"2\" v:mid=\"101\">\n<title>Darlington.131</title>\n<path class=\"st13\" d=\"M7.52 356.82 L0 360 L0 353.64 L7.52 356.82 Z\"></path>\n</g>\n<g id=\"group102-154\" transform=\"translate(14.2979,-15.8652) rotate(-0.1) scale(-1,1)\" v:groupcontext=\"group\" v:mid=\"102\">\n<title>Sheet.102</title>\n<g id=\"shape103-155\" transform=\"translate(-227.78,81.224) rotate(-39.2513)\" v:groupcontext=\"shape\" v:mid=\"103\">\n<title>Sheet.103</title>\n<path class=\"st14\" d=\"M0 360 L5.03 360\"></path>\n</g>\n<g id=\"shape104-158\" transform=\"translate(228.329,636.445) rotate(-39.1) scale(1,-1)\" v:groupcontext=\"shape\" v:layermember=\"2\" v:mid=\"104\">\n<title>Darlington.254</title>\n<path class=\"st13\" d=\"M3.33 358.59 L0 360 L0 357.18 L3.33 358.59 Z\"></path>\n</g>\n</g>\n<g id=\"group105-160\" transform=\"translate(14.0252,-11.1808) rotate(-0.1) scale(-1,1)\" v:groupcontext=\"group\" v:mid=\"105\">\n<title>Sheet.105</title>\n<g id=\"shape106-161\" transform=\"translate(-227.78,81.224) rotate(-39.2513)\" v:groupcontext=\"shape\" v:mid=\"106\">\n<title>Sheet.106</title>\n<path class=\"st14\" d=\"M0 360 L5.03 360\"></path>\n</g>\n<g id=\"shape107-164\" transform=\"translate(228.329,636.445) rotate(-39.1) scale(1,-1)\" v:groupcontext=\"shape\" v:layermember=\"2\" v:mid=\"107\">\n<title>Darlington.254</title>\n<path class=\"st13\" d=\"M3.33 358.59 L0 360 L0 357.18 L3.33 358.59 Z\"></path>\n</g>\n</g>\n</g>\n<g id=\"shape113-166\" transform=\"translate(117.537,-229.254)\" v:groupcontext=\"shape\" v:mid=\"113\">\n<title>5V</title>\n<desc>5V</desc>\n<rect class=\"st1\" height=\"14.4581\" width=\"26.6717\" x=\"0\" y=\"345.542\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"7.22\" y=\"355.77\">5V</text> </g>\n<g id=\"shape115-169\" transform=\"translate(290.459,-234.879)\" v:groupcontext=\"shape\" v:mid=\"115\">\n<title>VDD</title>\n<desc>VDD</desc>\n<rect class=\"st1\" height=\"12.375\" width=\"38.25\" x=\"0\" y=\"347.625\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"4\" y=\"356.81\">VDD</text> </g>\n<g id=\"shape116-172\" transform=\"translate(290.459,-216.316)\" v:groupcontext=\"shape\" v:mid=\"116\">\n<title>VPP</title>\n<desc>VPP</desc>\n<rect class=\"st1\" height=\"12.375\" width=\"37.125\" x=\"0\" y=\"347.625\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"4\" y=\"356.81\">VPP</text> </g>\n<g id=\"shape117-175\" transform=\"translate(272.459,-197.754)\" v:groupcontext=\"shape\" v:mid=\"117\">\n<title>1.8V/25mA</title>\n<desc>1.8V/25mA</desc>\n<rect class=\"st1\" height=\"12.375\" width=\"60.75\" x=\"0\" y=\"347.625\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"4\" y=\"356.81\">1.8V/25mA</text> </g>\n<g id=\"shape118-178\" transform=\"translate(272.459,-179.754)\" v:groupcontext=\"shape\" v:mid=\"118\">\n<title>1.0V/20mA</title>\n<desc>1.0V/20mA</desc>\n<rect class=\"st1\" height=\"12.375\" width=\"60.75\" x=\"0\" y=\"347.625\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"4\" y=\"356.81\">1.0V/20mA</text> </g>\n<g id=\"shape120-181\" transform=\"translate(293.212,-60.5036)\" v:groupcontext=\"shape\" v:mid=\"120\">\n<title>3.3V/150mAmax</title>\n<desc>3.3V/150mAmax</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"77.1219\" x=\"0\" y=\"339.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"4.9\" y=\"353\">3.3V/150mA<tspan class=\"st15\" dy=\"-0.287em\" v:basefontsize=\"10\">max</tspan></text> </g>\n<g id=\"shape122-185\" transform=\"translate(888.414,-92.0036)\" v:groupcontext=\"shape\" v:mid=\"122\">\n<title>ARGB LED *16</title>\n<desc>ARGB LED *16</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"79.1469\" x=\"0\" y=\"339.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"5.39\" y=\"353\">ARGB LED *16</text> </g>\n<g id=\"shape134-188\" transform=\"translate(619.367,-171.879)\" v:groupcontext=\"shape\" v:mid=\"134\">\n<title>2   </title>\n<desc>2</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"68.3156\" x=\"0\" y=\"339.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"31.38\" y=\"353\">2</text> </g>\n<g id=\"shape135-191\" transform=\"translate(930.232,417.906) rotate(130.601)\" v:groupcontext=\"shape\" v:mid=\"135\">\n<title>Sheet.135</title>\n<path class=\"st16\" d=\"M0 360 L10.37 360\"></path>\n</g>\n<g id=\"shape137-194\" transform=\"translate(487.107,-148.816)\" v:groupcontext=\"shape\" v:mid=\"137\">\n<title>I3C </title>\n<desc>I3C</desc>\n<rect class=\"st1\" height=\"12.375\" width=\"39.602\" x=\"0\" y=\"347.625\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"12.02\" y=\"356.81\">I3C</text> </g>\n<g id=\"shape138-197\" transform=\"translate(201.781,-128.496)\" v:groupcontext=\"shape\" v:mid=\"138\">\n<title>I3C</title>\n<desc>I3C</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"39.602\" x=\"0\" y=\"339.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"12.02\" y=\"353\">I3C</text> </g>\n<g id=\"shape139-200\" transform=\"translate(292.301,-148.5)\" v:groupcontext=\"shape\" v:mid=\"139\">\n<title>2</title>\n<desc>2</desc>\n<rect class=\"st1\" height=\"20.0036\" width=\"68.3156\" x=\"0\" y=\"339.996\"></rect>\n<text class=\"st2\" v:langid=\"1033\" x=\"31.38\" y=\"353\">2</text> </g>\n<g id=\"shape140-203\" transform=\"translate(601.324,441.285) rotate(130.601)\" v:groupcontext=\"shape\" v:mid=\"140\">\n<title>Sheet.140</title>\n<path class=\"st16\" d=\"M0 360 L10.37 360\"></path>\n</g>\n<a data-link-id=\"#control-mcu\" xlink:href=\"#control-mcu\">\n<g id=\"group148-206\" transform=\"translate(708.959,-85.2536)\" v:groupcontext=\"group\" v:mid=\"148\">\n<title>Control MCU</title>\n<a data-link-id=\"#control-mcu\" xlink:href=\"#control-mcu\">\n<g id=\"shape9-207\" v:groupcontext=\"shape\" v:mid=\"9\">\n<title>Control MCU</title>\n<desc>Control MCU</desc>\n<rect class=\"st6\" height=\"94.5\" width=\"123.75\" x=\"0\" y=\"265.5\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"30.09\" y=\"283.4\">Control MCU</text> </g>\n</a>\n<g id=\"shape55-210\" transform=\"translate(3.148,-40.352)\" v:groupcontext=\"shape\" v:mid=\"55\">\n<title>I3C   </title>\n<desc>I3C</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"39.602\" x=\"0\" y=\"337.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"12.02\" y=\"351.68\">I3C</text> </g>\n<g id=\"shape56-213\" transform=\"translate(81,-26.926)\" v:groupcontext=\"shape\" v:mid=\"56\">\n<title>PWM</title>\n<desc>PWM</desc>\n<rect class=\"st17\" height=\"22.648\" width=\"39.602\" x=\"0\" y=\"337.352\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"7.58\" y=\"351.68\">PWM</text> </g>\n</g>\n</a>\n<a data-link-id=\"#spd-hub\" xlink:href=\"#spd-hub\">\n<g id=\"group150-216\" transform=\"translate(382.709,-132.504)\" v:groupcontext=\"group\" v:mid=\"150\">\n<title>Sheet.150</title>\n<a data-link-id=\"#spd-hub\" xlink:href=\"#spd-hub\">\n<g id=\"shape6-217\" v:groupcontext=\"shape\" v:mid=\"6\">\n<title>SPD Hub</title>\n<desc>SPD Hub</desc>\n<rect class=\"st6\" height=\"94.5\" width=\"101.25\" x=\"0\" y=\"265.5\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"27.7\" y=\"283.4\">SPD Hub</text> </g>\n</a>\n<g id=\"shape146-220\" transform=\"translate(3.14802,-3.91193)\" v:groupcontext=\"shape\" v:mid=\"146\">\n<title>HSCL HSDA</title>\n<desc>HSCL HSDA</desc>\n<rect class=\"st17\" height=\"24.7216\" width=\"39.602\" x=\"0\" y=\"335.278\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"6.46\" y=\"344.64\">HSCL<tspan class=\"st5\" dy=\"1.2em\" x=\"5.91\">HSDA</tspan></text> </g>\n<g id=\"shape147-224\" transform=\"translate(58.5,-3.91193)\" v:groupcontext=\"shape\" v:mid=\"147\">\n<title>LSCL LSDA</title>\n<desc>LSCL LSDA</desc>\n<rect class=\"st17\" height=\"24.7216\" width=\"39.602\" x=\"0\" y=\"335.278\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"7.29\" y=\"344.64\">LSCL<tspan class=\"st5\" dy=\"1.2em\" x=\"6.74\">LSDA</tspan></text> </g>\n</g>\n</a>\n<a data-link-id=\"#pmic\" xlink:href=\"#pmic\">\n<g id=\"group151-228\" transform=\"translate(170.957,-168.504)\" v:groupcontext=\"group\" v:mid=\"151\">\n<title>Sheet.151</title>\n<g id=\"shape4-229\" v:groupcontext=\"shape\" v:mid=\"4\">\n<title>PMIC</title>\n<desc>PMIC</desc>\n<rect class=\"st19\" height=\"121.5\" width=\"101.25\" x=\"0\" y=\"238.5\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"36.88\" y=\"256.4\">PMIC</text> </g>\n<g id=\"shape141-232\" transform=\"translate(58.7523,-58.9481)\" v:groupcontext=\"shape\" v:mid=\"141\">\n<title>SWB</title>\n<desc>SWB</desc>\n<rect class=\"st20\" height=\"14.4581\" width=\"39.602\" x=\"0\" y=\"345.542\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"8.41\" y=\"355.77\">SWB</text> </g>\n<g id=\"shape142-235\" transform=\"translate(58.7523,-40.6669)\" v:groupcontext=\"shape\" v:mid=\"142\">\n<title>SWC</title>\n<desc>SWC</desc>\n<rect class=\"st20\" height=\"14.4581\" width=\"39.602\" x=\"0\" y=\"345.542\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"8.14\" y=\"355.77\">SWC</text> </g>\n<g id=\"shape143-238\" transform=\"translate(58.7523,-22.0209)\" v:groupcontext=\"shape\" v:mid=\"143\">\n<title>LDO 1</title>\n<desc>LDO</desc>\n<rect class=\"st20\" height=\"14.4581\" width=\"39.602\" x=\"0\" y=\"345.542\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"9.52\" y=\"355.77\">LDO</text> </g>\n<g id=\"shape144-241\" transform=\"translate(58.7523,-4.10436)\" v:groupcontext=\"shape\" v:mid=\"144\">\n<title>LDO 2</title>\n<desc>LDO</desc>\n<rect class=\"st20\" height=\"14.4581\" width=\"39.602\" x=\"0\" y=\"345.542\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"9.52\" y=\"355.77\">LDO</text> </g>\n<g id=\"shape145-244\" transform=\"translate(58.7523,-77.2294)\" v:groupcontext=\"shape\" v:mid=\"145\">\n<title>SWA</title>\n<desc>SWA</desc>\n<rect class=\"st20\" height=\"14.4581\" width=\"39.602\" x=\"0\" y=\"345.542\"></rect>\n<text class=\"st18\" v:langid=\"1033\" x=\"8.41\" y=\"355.77\">SWA</text> </g>\n</g>\n</a>\n</g>\n</svg>",
+    "svg_path": "scraped_data/Consumer Electronics/Computing/DDR5 Gaming DIMM/block_diagram.svg",
+    "blocks": {
+      "ldo": {
+        "label": "LDO",
+        "categories": [
+          {
+            "title": "Linear Regulators (LDO)",
+            "products": [
+              {
+                "title": "RAA214220 - 20V, 150mA Linear Regulator",
+                "product_id": "RAA214220",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RAA214220 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/raa214220-datasheet?r=1537506",
+                    "doc_id": "1520226",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/linear-regulators-ldo/raa214220-20v-150ma-linear-regulator#parametric_options"
+              },
+              {
+                "title": "RAA214223 - 150mA 20V Wide Input Voltage Range LDO Linear Regulator with 3.3V Fixed Output",
+                "product_id": "RAA214223",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RAA214223 Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/raa214223-datasheet?r=1537506",
+                    "doc_id": "25429426",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/linear-regulators-ldo/raa214223-150ma-20v-wide-input-voltage-range-ldo-linear-regulator-33v-fixed-output#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "spd-hub": {
+        "label": "SPD Hub",
+        "categories": [
+          {
+            "title": "DDR5 Solutions",
+            "products": [
+              {
+                "title": "SPD5118 - SPD HUB for DDR5 Memory Modules",
+                "product_id": "SPD5118",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "SPD5xxx Short-Form Datasheet",
+                    "url": "https://www.renesas.com/en/document/sds/spd5xxx-short-form-datasheet?r=1537506",
+                    "doc_id": "468811",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/memory-logic/memory-interface-products/ddr5-solutions/spd5118-spd-hub-ddr5-memory-modules#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "temperature-sensor": {
+        "label": "Temperature Sensor",
+        "categories": [
+          {
+            "title": "DDR5 Solutions",
+            "products": [
+              {
+                "title": "TS5111 - Temperature Sensor for DDR5 Memory Modules",
+                "product_id": "TS5111",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "TS5111 Short-Form Datasheet",
+                    "url": "https://www.renesas.com/en/document/sds/ts5111-short-form-datasheet?r=1537506",
+                    "doc_id": "468731",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/memory-logic/memory-interface-products/ddr5-solutions/ts5111-temperature-sensor-ddr5-memory-modules#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "control-mcu": {
+        "label": "Control MCU",
+        "categories": [
+          {
+            "title": "RA Arm Cortex-M MCUs",
+            "products": [
+              {
+                "title": "RA2E2 - 48MHz Arm Cortex-M23 Ultra-Low Power General-Purpose Microcontroller",
+                "product_id": "RA2E2",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RA2E2 Group Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/ra2e2-group-datasheet?r=1537506",
+                    "doc_id": "1538046",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra2e2-48mhz-arm-cortex-m23-ultra-low-power-general-purpose-microcontroller#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "pmic": {
+        "label": "PMIC",
+        "categories": [
+          {
+            "title": "DDR5 Solutions",
+            "products": [
+              {
+                "title": "P8911 - DDR5 Client PMIC for UDIMMs and SODIMMs",
+                "product_id": "P8911",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "P8911 Short-Form Datasheet",
+                    "url": "https://www.renesas.com/en/document/sds/p8911-short-form-datasheet?r=1537506",
+                    "doc_id": "467411",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/memory-logic/memory-interface-products/ddr5-solutions/p8911-ddr5-client-pmic-udimms-and-sodimms#parametric_options"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

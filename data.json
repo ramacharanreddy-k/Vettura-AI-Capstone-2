@@ -1,0 +1,834 @@
+{
+  "Automotive": {
+    "Vehicle Control Systems": {
+      "High-Performance EV Cooling System": {
+        "title": "High-Performance EV Cooling System",
+        "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/high-performance-ev-cooling-system",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "As the global automotive industry shifts towards electrification, efficient thermal management of electric vehicle (EV) battery packs is crucial for optimal performance, longevity, and safety. Unlike traditional internal combustion engines that dissipate heat into the air, EV batteries require sophisticated cooling systems to maintain ideal operating temperatures.",
+                "This advanced EV battery cooling system features a high-performance automotive MCU integrated with key power devices, including MOSFETs and drivers. It supports BLDC motor control with field-oriented control (FOC) algorithms, offering flexibility and efficiency in cooling system design."
+              ],
+              "benefits": [
+                "The AEC-Q100 automotive-qualified MCU supports BLDC motor control with FOC algorithms, ensuring high performance and reliability for EV cooling systems.",
+                "The wide input buck regulator supports 12V/24V battery systems, making it versatile for various EV applications.",
+                "The 60V N-channel MOSFET and 55V/1A H-Bridge FET driver are suitable for car body applications."
+              ]
+            },
+            "applications": [
+              "Automotive Motor Control",
+              "Electric Vehicle (EV)"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Automotive/Vehicle Control Systems/High-Performance EV Cooling System.png"
+        }
+      }
+    },
+    "Advanced Driver Assistance Systems ADAS": {
+      "Comprehensive ADAS Autonomous Driving Hardware-Software System": {
+        "title": "Comprehensive ADAS Autonomous Driving Hardware-Software System",
+        "link": "https://www.renesas.com/en/applications/automotive/adas/comprehensive-adas-autonomous-driving-hardware-software-system",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "The automotive industry is rapidly advancing towards autonomous driving and enhanced safety features, such as advanced driver assistance systems (ADAS) with technologies like lane departure warnings, collision avoidance, and driver monitoring systems. The global push for safer vehicles, coupled with regulatory pressures and consumer expectations, is driving the adoption of sophisticated ADAS solutions.",
+                "This complete hardware and software system is designed for ADAS and autonomous driving applications, including front camera, surround view, lane keeping assistance (LKA), lane departure warning (LDW), and light detection and ranging (LiDAR)."
+              ],
+              "benefits": [
+                "The image recognition engine optimizes the performance-to-power balance, while the Quad Arm®Cortex®-A53 and Cortex®-R7 enable advanced video processing and image recognition, enhancing system detection and responsiveness to driving conditions and obstacles.",
+                "ISO 26262 compliant pre-regulator and PMIC for the R-Car V3H system-on-chip (SoC) enable high efficiency and reduced peripheral components for analyzing a car's surroundings and cognitive computing processing.",
+                "A programmable clock generator (1MHz to 500MHz) replaces several crystal oscillators with a single device, reducing the BOM, saving space, and cutting costs.",
+                "Supports the reduced gigabit media-independent interface (RGMII) (2 channels) as the Ethernet IF and CSI2 (2 channels) as the camera IF to accommodate various inputs and outputs."
+              ]
+            },
+            "applications": [
+              "Driver monitoring systems (DMS)",
+              "Surround view monitors",
+              "Front camera applications",
+              "Lane keeping assistance (LKA)",
+              "Lane departure warning (LDW)",
+              "Light detection and ranging (LiDAR)"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Automotive/Advanced Driver Assistance Systems ADAS/Comprehensive ADAS Autonomous Driving Hardware-Software System.png"
+        }
+      },
+      "Video Output Expansion for Surround View AR-HUD": {
+        "title": "Video Output Expansion for Surround View AR-HUD",
+        "link": "https://www.renesas.com/en/applications/automotive/adas/video-output-expansion-surround-view-ar-hud",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "For surround view and augmented reality heads-up display (AR HUD) applications, the combination of R-Car V3H and TW8846/8847 enables these two applications’ video outputs and AI processing in one system at the same time, reducing the system BOM cost."
+              ],
+              "benefits": [
+                "Easily expandable from existing R-Car V3H systems",
+                "High-accuracy AI image recognition is possible by using R-Car V3H with CNN IP",
+                "R-Car V3H and PMIC support functional safety up to ISO 26262 ASIL B",
+                "Integrates many components in several Renesas R-Car systems into a tiny CMIC, allowing product differentiation at a lower cost and PCB space",
+                "Cost-effective HD camera system by using AHL’s low-cost connectors and cables",
+                "Reduced system complexity with analog video transmission with no loss of signal quality",
+                "Support for longer cable lengths suitable for video data transmission in commercial vehicles and buses"
+              ]
+            },
+            "applications": [
+              "ADAS solutions – surround view/around view monitor, automated parking, etc."
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Automotive/Advanced Driver Assistance Systems ADAS/Video Output Expansion for Surround View AR-HUD.png"
+        }
+      }
+    }
+  },
+  "Industrial": {
+    "Appliances": {
+      "Smart HMI System with Voice Display Interfaces": {
+        "title": "Smart HMI System with Voice Display Interfaces",
+        "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-hmi-system-voice-display-interfaces",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Human machine interfaces (HMIs) are essential components that connect people to machines, systems, or devices, enabling control over various functions and access to data. As technology advances, HMIs need to incorporate features like connectivity (via Wi-Fi, Bluetooth, etc.) and LCD screens to support more complex interactions and commands between humans and machines.",
+                "This high-performance smart HMI system utilizes a 32-bit MCU, supporting graphical user interface (GUI) creation with an LCD, voice input/output, and IoT connectivity through Wi-Fi, Bluetooth®Low Energy (LE), Ethernet, and more."
+              ],
+              "benefits": [
+                "TheRX72N Envision Kitincludes a variety of I/O peripherals, facilitating the development of solutions for diverse applications. The pre-installed demo and emulator circuit enable immediate development for quicker system testing and evaluation.",
+                "Rich interfaces support the expansion of system functions and accommodate various development scenarios for a flexible and versatile design.",
+                "An audio codec IC with a stereo MEMS microphone supports voice input and output.",
+                "Sample code for voice recognition, GUI, LCD, and AWS Cloud and FreeRTOS connectivity facilitates fast system development."
+              ]
+            },
+            "applications": [
+              "Industrial",
+              "Office automation",
+              "Consumer"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Appliances/Smart HMI System with Voice Display Interfaces.png"
+        }
+      }
+    },
+    "Medical Healthcare": {
+      "Infusion Level Monitor Using Capacitive Touch Sensing": {
+        "title": "Infusion Level Monitor Using Capacitive Touch Sensing",
+        "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/infusion-level-monitor-using-capacitive-touch-sensing",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Infusion level monitors track fluid levels in IV bags or bottles, alerting caregivers when the fluid is running low. These devices are essential for ensuring accurate medication delivery and enhancing patient care by notifying caregivers of issues such as occlusions, empty reservoirs, or malfunctions.",
+                "This infusion level monitor uses capacitive touch sensors to detect the liquid amount in a bag or bottle, operating with low power consumption. Users can monitor the remaining liquid remotely via Bluetooth®Low Energy (LE) or Wi-Fi, making it convenient to use from locations such as a nurse's station. This design can be applied not only to infusion systems but also to various applications involving liquid tanks."
+              ],
+              "benefits": [
+                "Capacitive touch sensing and system control offer precise, non-intrusive, and reliable measurement of liquid levels",
+                "The simple electrode configuration accurately detects the remaining liquid, reducing the BOM cost.",
+                "The low power consumption Wi-Fi and Bluetooth LE module, coupled with an MCU, ensures long-term operation, making it ideal for battery-powered applications."
+              ]
+            },
+            "applications": [
+              "Infusion level monitor",
+              "Liquid level monitor for various bottles and tanks"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Medical Healthcare/Infusion Level Monitor Using Capacitive Touch Sensing.png"
+        }
+      }
+    },
+    "Motor Drives Robotics": {
+      "AC Servo": {
+        "title": "AC Servo",
+        "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/ac-servo",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "The Renesas' AC servo system integrates motor control with EtherCAT design to support high-speed and high-precision motor control through synchronizing time-sensitive industrial Ethernet communications. The system consists of three blocks: system control, power drive, and motor encoder, which are physically isolated while maintaining a high degree of interconnectivity. Utilizing a high-performance MPU, this monolithic design outperforms traditional two-chip platforms in performance and cost."
+              ],
+              "benefits": [
+                "Easily implement motor control using the CiA 402 drive profile via EtherCAT, with guidance from the system board.",
+                "2-in-1 chip design eliminates the need for an additional FPGA, optimizing overall system cost.",
+                "Renesas supplies over 50% of the system's BOM, reducing delivery concerns associated with sourcing from multiple vendors."
+              ]
+            },
+            "applications": [
+              "AC servo",
+              "Industrial networks",
+              "Remote I/O",
+              "Robotic elbow control"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Motor Drives Robotics/AC Servo.png"
+        }
+      },
+      "ROS Body Controller for Robotic Systems": {
+        "title": "ROS Body Controller for Robotic Systems",
+        "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/ros-body-controller-robotic-systems",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "The adoption of robots across various industries and applications is rapidly increasing as demands for greater efficiency and precision in processes and tasks grow. Robotic systems are becoming more complex, performing multiple tasks and processes involving various subsystems, which necessitates a centralized body controller to manage the overall coordination and integration of the entire robotic system.",
+                "This centralized Robot Operating System (ROS) body controller enables the control of multiple servos based on ROS, an open-source set of software libraries and tools, to provide centralized control, communication, and reliable power delivery."
+              ],
+              "benefits": [
+                "ROS offers a standardized way to control robots, making this design ideal for coordinating complex robotic behaviors and ensuring seamless communication between different components.",
+                "Seamless DDS and ROS integration, powered by the high-performance 32-bit MCU, ensures efficient operation in resource-constrained environments.",
+                "Multiple servo control via 1-wire UART and RS-485 reduces system complexity and cost.",
+                "Supports Pub/Sub communication via Ethernet, USB, and Wi-Fi modules.",
+                "Wide supply voltage range from 4.5V to 40V provides compatibility with various devices."
+              ]
+            },
+            "applications": [
+              "Service robots for logistics and warehouse",
+              "Defense and security",
+              "Agriculture",
+              "Healthcare"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Motor Drives Robotics/ROS Body Controller for Robotic Systems.png"
+        }
+      },
+      "Robot Controller with Image Processing RTOS MPU": {
+        "title": "Robot Controller with Image Processing RTOS MPU",
+        "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/robot-controller-image-processing-rtos-mpu",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "This solution provides advanced technology for robotic applications, which brings artificial intelligence (AI) capabilities to robotics endpoints, such as industrial robotics and robotic communications."
+              ],
+              "benefits": [
+                "High integration MPU with an interface IC, timing, power, and audio solutions",
+                "TheRZ/A2MMPU features an Arm®Cortex®-A9 CPU and is designed for e-AI based imaging that requires high-speed image processing. It features a unique hybrid approach to image recognition and machine vision by combining proprietary DRP technology for fast pre-processing of image data and feature extraction"
+              ]
+            },
+            "applications": [],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Motor Drives Robotics/Robot Controller with Image Processing RTOS MPU.png"
+        }
+      }
+    },
+    "Building Automation": {
+      "Edge Computing for Security Systems": {
+        "title": "Edge Computing for Security Systems",
+        "link": "https://www.renesas.com/en/applications/industrial/building-automation/edge-computing-security-systems",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "With over a trillion IoT devices expected to connect to the cloud in the coming years, the challenge is that there is not enough bandwidth to process all the information within central data centers. To alleviate this pipeline limitation, there will be an increasing focus on data processing at the edge of the network to provide useful and actionable insights at the local application level. An example of this problem is intelligent security, which provides monitoring and surveillance either through audio or video processing.",
+                "This edge computing design demonstrates a full security control solution capability utilizing Renesas MPU devices for fast local processing. The RZ/A2M features high-capacity internal RAM (4MB), a DRP that delivers 10x image processing performance to enable edge computing features, and strong connectivity via MIPI/LVDS/2 port Ethernet.",
+                "This high-performance power and analog system utilizes Renesas’ DC/DC, LDO, RS-485/422 transceiver, and sensors that provide leading accuracy and excellent stability across humidity and temperature."
+              ],
+              "benefits": [
+                "High performance and suitable MPU RZ/A2M with embedded 4MB RAM, Dynamically Reconfigurable Processor (DRP) technology",
+                "Rich connection interface, including MIPI for camera, 2 Port Ethernet, RS-485, USB, CAN, Hyper-Bus",
+                "Full Renesas RS-485 transceiver, DC/DC, LDO, temperature/humidity sensor device portfolio"
+              ]
+            },
+            "applications": [],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Building Automation/Edge Computing for Security Systems.png"
+        }
+      },
+      "Smart Water Leak Sensor": {
+        "title": "Smart Water Leak Sensor",
+        "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-water-leak-sensor",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Water leaks are a leading cause of property damage in both residential and commercial buildings. Detecting leaks early can prevent costly repairs and minimize damage to structures, furniture, and electrical systems, significantly reducing insurance claims and maintenance costs before they escalate into major problems.",
+                "This smart water leak sensor alerts residents or building operators to any water leaks and can automatically trigger shut-off valves to prevent or reduce further damage. The design features a humidity sensor alongside moisture electrodes for water leak detection and includes a Wi-Fi/Bluetooth®-enabled MCU to send alerts appropriately. The system can be powered via a solar cell or USB and has a backup Li-ion battery to ensure continuous operation."
+              ],
+              "benefits": [
+                "Provides Wi-Fi alerts to users or shut-off valves, e.g., via MQTT, for real-time notifications and automated actions.",
+                "Battery backup keeps the sensor operational during power outages, ensuring reliable and uninterrupted operation.",
+                "Solar energy harvesting allows sensor use without mains power, enabling energy independence from the electrical grid and extending deployment options.",
+                "Ultra-low power DC/DC and Wi-Fi enable long operation and standby time.",
+                "Bluetooth Low Energy (LE) 5 simplifies commissioning via smartphone, allowing for easier setup and faster installation."
+              ]
+            },
+            "applications": [
+              "Smart homes",
+              "Smart buildings",
+              "Smart civil infrastructure"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Building Automation/Smart Water Leak Sensor.png"
+        }
+      },
+      "Smart Room Controller with DAB Audio System": {
+        "title": "Smart Room Controller with DAB Audio System",
+        "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-room-controller-dab-audio-system",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Smart rooms not only provide health benefits but also give people a luxurious lifestyle. This smart room controller design features sensors that monitor room temperature and humidity, while an indoor gas sensor detects total volatile organic compounds (TVOCs) and estimated carbon dioxide (eCO2) levels. Intelligent control is facilitated through voice recognition and touch keys. A highly integrated device for Digital Terrestrial Multimedia Broadcast (DTMB) ensures superior quality and acoustic enjoyment."
+              ],
+              "benefits": [
+                "200MHz Arm®Cortex®-M33 with capacitive touch sensing unit (CTSU) and voice recognition firmware.",
+                "High-performance AC/DC and low dropout voltage regulator (LDO) devices provide efficient power.",
+                "High-performance gas sensor and relative humidity and temperature sensor provide comfort and safety."
+              ]
+            },
+            "applications": [
+              "Smart homes",
+              "Healthcare"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Building Automation/Smart Room Controller with DAB Audio System.png"
+        }
+      },
+      "Electronic Lock with Fingerprint Identification": {
+        "title": "Electronic Lock with Fingerprint Identification",
+        "link": "https://www.renesas.com/en/applications/industrial/building-automation/electronic-lock-fingerprint-identification",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "The smart lock is a rapidly growing trend in smart home appliances. Users can control smart locks by using fingerprints, Near Field Communication (NFC), capacitive touch, or low-power Bluetooth®communication. With a low-power design, Narrowband Internet of Things (NB-IoT) is also an option. As the RX130 32-bit MCU has integrated capacitive touch capabilities, it enables smaller board design and reduced cost. For advanced systems with more sophisticated fingerprint modules, an upgrade to the RX651 is an option for the algorithm design.",
+                "This solution can support Bluetooth communication with mobile or smart home routers. Additionally, the NB-IoT modem can directly support WLAN and directly send an alarm condition to the cloud."
+              ],
+              "benefits": [
+                "Highly integrated RX130 with built-in capacitive touch",
+                "Low power design for extended battery life",
+                "Shock sensor monitoring to alert for potential tampering and break-ins"
+              ]
+            },
+            "applications": [],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Building Automation/Electronic Lock with Fingerprint Identification.png"
+        }
+      },
+      "Smart Home Controller with Multiple PHY": {
+        "title": "Smart Home Controller with Multiple PHY",
+        "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-home-controller-multiple-phy",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Smart home systems have multiple standards. This solution combines all of them in one, allowing for control and visualization of all of your smart home devices from different vendors."
+              ],
+              "benefits": [
+                "All-in-one smart home gateway",
+                "Cost-optimized microprocessor (MPU)",
+                "Visualize and control all of your smart home equipment with just one controllerMultiple vendorsMultiple standards",
+                "Multiple vendors",
+                "Multiple standards",
+                "Versatile connectivity",
+                "Single, ubiquitous USB-C power supply",
+                "Extendable for multi-purpose applications and radio PHYs",
+                "Future-proof upgradeability",
+                "Multiple vendors",
+                "Multiple standards"
+              ]
+            },
+            "applications": [
+              "Smart home automation",
+              "Smart office/building"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Building Automation/Smart Home Controller with Multiple PHY.png"
+        }
+      },
+      "Smart Heat Pump": {
+        "title": "Smart Heat Pump",
+        "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-heat-pump",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Heat pumps offer the most energy-efficient and green way to provide heating and cooling in many applications. They extract heat from a source (air, water, ground) to increase the temperature of water/air for domestic heating or sanitary hot water. Thanks to the energy transfer by the Carnot process (i.e. reversed fridge), heat pumps have an electric energy efficiency of up to 400%.",
+                "This solution combines the best-in-class motor control solution for heat transfer and optimized power consumption to increase efficiency even more. It also allows for the opportunity to add additional smart features for a value proposition as an end product by being used in conjunction with theSmart Heat Pump Controllersolution."
+              ],
+              "benefits": [
+                "Complete heat pump outdoor unit",
+                "Fully integrated, high-performance and cost-optimized dual motor control solution for precision compressor and fan RPM/torque control​ with optional AI/ML future enhancement (Reality AI)",
+                "Pressure sensor in heating/cooling refrigerant to optimize the process",
+                "Variety of value optional added features, such as:Air quality sensor for O3/NO2, temperature and humidityWi-Fi, Bluetooth®and optional LTE-M/NB-IoT for IoT communication",
+                "Air quality sensor for O3/NO2, temperature and humidity",
+                "Wi-Fi, Bluetooth®and optional LTE-M/NB-IoT for IoT communication",
+                "External control unit can exchange parameters with heat pump via digital I/Os, CAN bus I/F, Wi-Fi or Bluetooth",
+                "Highly integrated power factor control (PFC) with high efficiency",
+                "Air quality sensor for O3/NO2, temperature and humidity",
+                "Wi-Fi, Bluetooth®and optional LTE-M/NB-IoT for IoT communication"
+              ]
+            },
+            "applications": [
+              "Residential Heat Pumps"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Building Automation/Smart Heat Pump.png"
+        }
+      },
+      "Flammable Gas Leakage Detector": {
+        "title": "Flammable Gas Leakage Detector",
+        "link": "https://www.renesas.com/en/applications/industrial/building-automation/flammable-gas-leakage-detector",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "This is a battery-operated stand-alone system with wireless connectivity that uses low-power Wi-Fi communication to detect the leakage of flammable gas. It can be a very useful system for industrial and household applications. In this system, the information about the Liquefied Petroleum Gas (LPG)/Piped Natural Gas (PNG) gas leakage can be detected, alarmed and communicated to users through a single microcontroller (MCU) with built-in Wi-Fi communication. The Wi-Fi communicates with the nearest router and sends the updates via push notification over the user's phone through a dedicated mobile app."
+              ],
+              "benefits": [
+                "Wireless connection for an IoT system with aDA16200Wi-Fi module.",
+                "Improved algorithm for very long lifetime, ultra-low power consumption using theZMOD4410indoor air quality andHS3001relative humidity/temperature sensors for leakage detection.",
+                "Extended interfaces using PMOD for Bluetooth®Low Energy (LE) or stand-alone MCU operation.",
+                "Stand alone, wall-mounted system, very small in size and low component count.",
+                "LED indication is given for Wi-Fi connectivity indication.",
+                "Buzzer indication for safety/security risk from a gas leak."
+              ]
+            },
+            "applications": [
+              "Liquefied Petroleum Gas (LPG), Piped Natural Gas (PNG) leak detection",
+              "Industrial gas leak detection",
+              "Kitchen air quality and temperature detection",
+              "Kitchen chimney"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Building Automation/Flammable Gas Leakage Detector.png"
+        }
+      }
+    },
+    "Renewable Energy Grid": {
+      "Solar-Powered Location Tracker": {
+        "title": "Solar-Powered Location Tracker",
+        "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/solar-powered-location-tracker",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Renesas' solar-powered location tracker is a modular asset tracking system featuring wireless connectivity via an LTE Cat-M1/NB-IoT cellular modem. Optionally, Bluetooth®Low Energy (LE) and Wi-Fi connectivity can be supported with additional radios through Pmod™ interfaces. A central MCU manages the system, balancing low power requirements with interface capabilities, performance, and flexibility. The system is powered and charged by photovoltaic (PV) solar cells or a USB Type-C®connection, ensuring efficient and sustainable operation."
+              ],
+              "benefits": [
+                "Supports LTE Cat-M1 and NB-IoT 1 and 2 versions for robust cellular connectivity.",
+                "Software-assisted GNSS enhances location tracking capabilities.",
+                "Wi-Fi and Bluetooth LE support for versatile connectivity options.",
+                "Utilizes PV energy harvesting for sustainable power generation.",
+                "Unified firmware for various radio configurations.",
+                "Flexible power control to adjust to changing conditions.",
+                "Full Software Update Over-the-Air (SUOTA) support for seamless firmware updates."
+              ]
+            },
+            "applications": [
+              "Flexible asset tracking applications"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Renewable Energy Grid/Solar-Powered Location Tracker.png"
+        }
+      }
+    },
+    "Retail Automation Payment": {
+      "Currency Counter With Counterfeit Detection": {
+        "title": "Currency Counter With Counterfeit Detection",
+        "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment/currency-counter-counterfeit-detection",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Currency counters are widely used products in most retail establishments. Typically, these counters feature a basic design consisting of little more than a motor-controlled counter. However, due to the prevalent issue of counterfeit currency, there is a significant market demand for currency counters that can accurately detect the legitimacy of banknotes. Such applications extend beyond the retail point of sales to include ATMs and other cash transactions, where speed, accuracy, and verification are essential. Our design addresses this market demand by offering a comprehensive system, incorporating the TMR sensor which ensures high accuracy through multiple scans."
+              ],
+              "benefits": [
+                "An MCU with high integration, USB for power supply, IrDA for support for multiple detection methods, and LCD for counter display",
+                "Accurate counterfeit detection",
+                "NFC for user authentication"
+              ]
+            },
+            "applications": [
+              "Currency counter",
+              "Counterfeit bill detection"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Retail Automation Payment/Currency Counter With Counterfeit Detection.png"
+        }
+      },
+      "Mobile Point of Sale mPoS Terminal": {
+        "title": "Mobile Point of Sale mPoS Terminal",
+        "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment/mobile-point-sale-mpos-terminal",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Mobile Point of Sale (mPoS) systems empower businesses to process transactions efficiently anywhere in-store or at remote locations, improving service speed and customer satisfaction. With the global shift to cashless payments, mPoS systems accommodate various payment types, including cards and mobile wallets, catering to diverse preferences.",
+                "This highly integrated and secure mPoS terminal design supports both contact and contactless payments via Near Field Communication (NFC). It incorporates wireless connectivity, drives transaction receipts printing, and operates on low power to extend usage time. Additionally, enhanced security features such as anti-tamper, secure boot, and authentication ensure secure transactions, boosting business reliability."
+              ],
+              "benefits": [
+                "Seamless wireless operation with Wi-Fi and Bluetooth®Low Energy (LE) enables cordless use for flexible and convenient terminal placement.",
+                "Dual card reader supports chip and NFC cards, enhancing convenience and speeding up checkout.",
+                "Advanced security functions for anti-tamper detection, secure boot, and secure authentication provide robust protection and reliability.",
+                "Battery-operated design supports USB-C and Qi-compatible wireless charging, offering versatile power options.",
+                "Operates at 15W, with an option for 100W to meet higher power needs."
+              ]
+            },
+            "applications": [
+              "Point of Sale (PoS) Terminal"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Retail Automation Payment/Mobile Point of Sale mPoS Terminal.png"
+        }
+      }
+    },
+    "Industrial Automation": {
+      "Universal Bluetooth Low Energy Angle of Arrival Locator for Asset Tracking": {
+        "title": "Universal Bluetooth Low Energy Angle of Arrival Locator for Asset Tracking",
+        "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/universal-bluetooth-low-energy-angle-arrival-locator-asset-tracking",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Asset tracking is essential across various industries, including logistics, manufacturing, healthcare, and security. These sectors require real-time visibility to track asset movement or misplacement, enhance supply chain efficiency, and prevent theft.​",
+                "The Renesas Asset Tracking and Locationing at Scale (ATLAS) offers a best-in-class tracking system, capable of tracking 500+ tags/locator/second or thousands (1000s) of tags/locator with precision down to 10cm, even in challenging RF environments. Specific implementations, such as the Telemos Locator developed in partnership with IOSEA, combined withsmart asset tracking labelsandBluetooth®Low Energy tags, allow for easy adaptation and fast time to market."
+              ],
+              "benefits": [
+                "Real-time location and high-capacity tag tracking (1000s of tags, down to 10cm accuracy)​.",
+                "Compatible with the customer's existing Real-Time Locating System (RTLS) backend or IOSEA's best-in-class RTLS backend/microservice for scalable, efficient, and accurate real-time location tracking​.",
+                "Simultaneously support for Angle of Arrival (AoA), Angle of Departure (AoD), ATLAS, ATLASlite, Eddystone™, and iBeacon™ tags."
+              ]
+            },
+            "applications": [
+              "Real-time location tracking of assets, inventory, pets, staff, and livestock",
+              "Care facilities (hospitals and hospices)",
+              "Hotels, offices, colleges, and schools",
+              "Medical equipment tracking",
+              "Shipment and pallet tracking",
+              "Fleet and vehicle tracking",
+              "Construction site management",
+              "Manufacturing and industrial automation",
+              "Retail and inventory management",
+              "Theme parks, stadiums, and cruise ships"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Industrial Automation/Universal Bluetooth Low Energy Angle of Arrival Locator for Asset Tracking.png"
+        }
+      },
+      "Elevator Control System": {
+        "title": "Elevator Control System",
+        "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/elevator-control-system",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "This comprehensive elevator control system comprises the main control board, out/call board, and in/call board combined with the Renesas AC servo solution and door control board. The entire elevator system requires stable, reliable, and real-time communication to ensure optimal safety. Renesas delivers industrial or higher-grade power (DC/DC buck regulators, LDOs), the RA MCUs, and the analog interface ICs (RS-485 transceivers, isolated photocouplers) to facilitate the development of robust elevator systems."
+              ],
+              "benefits": [
+                "TheArduino Portenta C33module features the Renesas Arm®Cortex®-M33 MCU supporting MicroPython and other high-level programming languages. Deploying AI-powered projects becomes quick and easy.",
+                "Robust RS-485 and the highest isolation performance ensure stable and reliable communication.",
+                "High-reliability buck and LDO provide a stable power supply.",
+                "Key input and LED control flexibility are provided by the GreenPAK mixed-signal devices.",
+                "NFC reader is used for user authentication."
+              ]
+            },
+            "applications": [
+              "Elevator/lift system",
+              "Distributed paging system",
+              "Industrial remote control system"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Industrial Automation/Elevator Control System.png"
+        }
+      },
+      "IO-Link Sensors": {
+        "title": "IO-Link Sensors",
+        "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/io-link-sensors",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "IO-Link is a worldwide open standard protocol used for communication between devices in industrial settings. It facilitates bi-directional data exchange between a master device, actuators, and sensors. This system supports various IO-Link slave sensors, including those for pressure, temperature, humidity, and electrical power measurement. Rapid prototyping is possible using Pmod™ boards and sample code."
+              ],
+              "benefits": [
+                "Pmod evaluation boards and software are available for rapid prototyping.",
+                "IO-Link PHY chips integrate LDO, reducing BOM count.",
+                "Multiple PHY and MCU options scale cost and performance according to application requirements."
+              ]
+            },
+            "applications": [
+              "IO-Link devices​",
+              "Pressure sensors​",
+              "Temperature and humidity sensors​",
+              "Low voltage power measurement​",
+              "Load cells​",
+              "Inductive sensors​",
+              "Industrial sensors"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Industrial Automation/IO-Link Sensors.png"
+        }
+      },
+      "Embedded Programmable Logic Controller PLC for Industrial Use": {
+        "title": "Embedded Programmable Logic Controller PLC for Industrial Use",
+        "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/embedded-programmable-logic-controller-plc-industrial-use",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "This embedded programmable logic controller (PLC) includes customer-specific software with flexible count and type of IOs and/or standard interfaces."
+              ],
+              "benefits": [
+                "Customer-specific software based on Renesas' Flexible Software Package (FSP)",
+                "Option to add industry-approved software stacks (e.g. EtherCAT)",
+                "Flexible selection of IOs and/or standard Analog + Digital IOs",
+                "Wired interface like RS-232, RS-485, IO-Link, ASi-5, Ethernet, USB",
+                "Wireless interface like Bluetooth®, LTE-M, NB-IoT",
+                "IoT connectivity (e.g. MQTT, GUI)",
+                "Power supply from standard 24VDC(noisy 18V - 28V)"
+              ]
+            },
+            "applications": [
+              "Small embedded control for industrial use and/or home automation etc. using standard IOs or I/F",
+              "Optional central GUI via BT or IoT",
+              "Examples:Simple control for smart home refrigerator, oven... with an additional smartphone appPLC for industrial Ethernet with Sensors + Controls and smartphone for GUI/debug/commissioning",
+              "Simple control for smart home refrigerator, oven... with an additional smartphone app",
+              "PLC for industrial Ethernet with Sensors + Controls and smartphone for GUI/debug/commissioning"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Industrial/Industrial Automation/Embedded Programmable Logic Controller PLC for Industrial Use.png"
+        }
+      }
+    }
+  },
+  "Consumer Electronics": {
+    "Home Theater Entertainment": {
+      "Video IP Phone": {
+        "title": "Video IP Phone",
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/home-theater-entertainment/video-ip-phone",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "This solution is for a video IP phone with Hi-Fi audio support. The phone also has automatic noise cancellation and a voice wake-up function. The system supports large touch panel displays, eliminating the need for mechanical buttons, and provides a scalable IP communication platform."
+              ],
+              "benefits": [
+                "Multi-touch LCD screen with an on-screen virtual keyboard for easier communication",
+                "One USB Type-A and one USB Type-C for media storage",
+                "Integrated Wi-Fi/Bluetooth®",
+                "System supports multiple audio sources, handset, headset and speakerphone, and USB headset",
+                "Two Gigabit Ethernet available",
+                "OS for Linux and Android",
+                "Dual power option via 48V power supply or Power over Ethernet (PoE)",
+                "System can auto-detect the headphone plug in to simplify the design (no software needed)",
+                "System can auto-detect handset by a proximity sensor"
+              ]
+            },
+            "applications": [
+              "IP phones",
+              "Video IP phones",
+              "Visual communication systems",
+              "Intercoms"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Consumer Electronics/Home Theater Entertainment/Video IP Phone.png"
+        }
+      },
+      "Soundbar with Bluetooth Streaming": {
+        "title": "Soundbar with Bluetooth Streaming",
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/home-theater-entertainment/soundbar-bluetooth-streaming",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "A soundbar, also called a speaker bar, is a special speaker with multiple drivers and is usually put above a computer monitor or under a television or home theater screen. It can significantly improve the sound experience without the complexity of surround sound speakers, wiring, etc. The Soundbar with Bluetooth Streaming design is meant to be compact, generate premium sound, and can be cost-effective."
+              ],
+              "benefits": [
+                "Cost-effective, small-capacity ROM and low pin count 32-bit MCU",
+                "High performance power includes voltage supervisors, dual buck regulators and a wide VIN1A buck regulator"
+              ]
+            },
+            "applications": [],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Consumer Electronics/Home Theater Entertainment/Soundbar with Bluetooth Streaming.png"
+        }
+      }
+    },
+    "Computing": {
+      "DDR5 Gaming DIMM": {
+        "title": "DDR5 Gaming DIMM",
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/computing/ddr5-gaming-dimm",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "As gaming evolves, customization becomes paramount in the industry. Renesas addresses this demand with its DDR5 system, featuring serial presence detect (SPD) hubs, power management integrated circuits (PMICs), temperature sensors, and a control MCU. This system enables extensive addressable RGB (ARGB) lighting customization with millions of colors, ensuring enhanced user experience and performance optimization."
+              ],
+              "benefits": [
+                "48MHz Arm®Cortex®-M23 MCU provides an I3C interface up to 4.6Mbps.",
+                "High precision, low power, and small footprint optimized for efficient operation in DDR5 RDIMMs, LRDIMMs, and high-end gaming DIMMs.",
+                "SPD hub allows the DDR5 system control bus to scale significantly beyond previous generations and enables a new class of data center equipment.",
+                "PMIC maximizes DDR5 memory performance, density, and reliability while reducing overall system power consumption."
+              ]
+            },
+            "applications": [
+              "DDR5 UDIMM"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Consumer Electronics/Computing/DDR5 Gaming DIMM.png"
+        }
+      },
+      "Smart Pen": {
+        "title": "Smart Pen",
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/computing/smart-pen",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "This smart pen system is used to record human handwriting and store a copy in a digital format. The pen uses one IR LED to emit light onto the paper and an LED sensor to detect the reflection. The sensor will allow the movement of the pen’s pattern to be detected and record what is written."
+              ],
+              "benefits": [
+                "The LED and detector record’s the pen’s movement",
+                "The IR LED is invisible, so the user will not be distracted by any light while writing",
+                "Bluetooth®Low Energy (LE) on the pen would transfer the digital data from the pen to a computer or tablet",
+                "An EEPROM on board will store the writing in memory for transfer to a notebook",
+                "Buttons for audio recording to start and to power on/off the pen"
+              ]
+            },
+            "applications": [
+              "Smart pen"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Consumer Electronics/Computing/Smart Pen.png"
+        }
+      }
+    },
+    "Wearables": {
+      "Smart Glasses": {
+        "title": "Smart Glasses",
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/smart-glasses",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "The smart glasses serve as an extension of the IoT system, which can be implemented directly on the glasses themselves. This system offers a range of functions, including taking pictures, playing music, making phone calls, voice commands, and danger alerts. It utilizes the machine learning capabilities of Arm®Cortex®-M85 inRA8M1for efficient audio and image processing on the edge. This enables quick identification of potential dangers, triggering alarms through the speaker."
+              ],
+              "benefits": [
+                "Edge machine learning capability",
+                "Secured by Arm Trust Zone with support for Secure OTA",
+                "Active noise cancellation audio system with two microphone beamforming, ensuring clear audio in noisy environments",
+                "Low-power wireless communication",
+                "Low quiescent current power system for extended battery life",
+                "Waterproof system with no external connectors",
+                "Wireless charging",
+                "OTA supported"
+              ]
+            },
+            "applications": [
+              "Smart glasses"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Consumer Electronics/Wearables/Smart Glasses.png"
+        }
+      },
+      "Health Monitor Band": {
+        "title": "Health Monitor Band",
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/health-monitor-band",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "This healthcare monitoring band usesMurata Manufacturing's piezoelectric film sensorto detect the user's heart or respiration rates. The system is optimized for minimal component count and compact size while retaining powerful capabilities. The integrated MCU executes advanced algorithms to detect mental states, such as drowsiness, and the band can be charged wirelessly via NFC."
+              ],
+              "benefits": [
+                "GreenPAK implements a full analog front-end for the piezoelectric sensor, reducing BOM and size.",
+                "Fully certified Bluetooth®Low Energy module accelerates time to market.",
+                "Powerful MCU allows the execution of algorithms to determine mental state based on sensor input."
+              ]
+            },
+            "applications": [
+              "Healthcare ring, belt, wristband, bed​",
+              "Medical patch"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Consumer Electronics/Wearables/Health Monitor Band.png"
+        }
+      },
+      "Personal Safety Tracker with GPS NFC Air Quality Sensor": {
+        "title": "Personal Safety Tracker with GPS NFC Air Quality Sensor",
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/personal-safety-tracker-gps-nfc-air-quality-sensor",
+        "block_diagram": {
+          "overview": {
+            "description": {
+              "main_text": [
+                "Keeping track of our things and our family is vitally important. Wouldn’t it be great if we were able to embed a tracker into our clothing to do this? For example, shoes are an integral part of our daily routine, and the integration of a safety feature, would make them even more useful. Parents are very worried about their children’s safety. A tracker in a child’s shoe allows parents to stay informed about their child’s location. An embedded SOS alarm or information system can be another useful tool, to be used in case of an emergency, the location and alarm can be sent. The air quality sensor can be useful in providing safety from any allergies. Wired or wireless fast charging options are also available."
+              ],
+              "benefits": [
+                "SOS emergency indication using GSM and GPS for location tracking",
+                "Low-cost, low-power system",
+                "Wireless charging option for contactless fast charging",
+                "Air quality sensing to avoid allergies"
+              ]
+            },
+            "applications": [
+              "Shoe tracking for kids",
+              "Personal safety alarm band"
+            ],
+            "images": [],
+            "comparison": null
+          },
+          "block_diagram": "block_diagrams/Consumer Electronics/Wearables/Personal Safety Tracker with GPS NFC Air Quality Sensor.png"
+        }
+      }
+    }
+  }
+}

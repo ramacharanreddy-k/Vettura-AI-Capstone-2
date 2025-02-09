@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg class="st26" color-interpolation-filters="sRGB" height="6.5in" viewbox="0 0 1080 468" width="15in" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+	
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.833336em}
+		.st3 {fill:#ffffff;stroke:#000000;stroke-width:1}
+		.st4 {fill:#000000;font-family:Arial;font-size:0.916672em}
+		.st5 {fill:#0071b9;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {fill:#ffffff;font-family:Arial;font-size:0.916672em}
+		.st7 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st8 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st9 {fill:#000000;font-family:Arial;font-size:1.00001em}
+		.st10 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st11 {fill:#ffffff;stroke:#000000;stroke-dasharray:7,5;stroke-width:1}
+		.st12 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st13 {stroke:#000000;stroke-width:1}
+		.st14 {marker-end:url(#mrkr4-68);stroke:#000000;stroke-width:1}
+		.st15 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st16 {marker-start:url(#mrkr4-74);stroke:#000000;stroke-width:1}
+		.st17 {marker-end:url(#mrkr4-68);marker-start:url(#mrkr4-74);stroke:#000000;stroke-width:1}
+		.st18 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st19 {marker-start:url(#mrkr10-177);stroke:#000000;stroke-width:1}
+		.st20 {font-size:0.909089em}
+		.st21 {font-size:1em}
+		.st22 {fill:#4ba3d3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st23 {fill:#ffffff;font-family:Arial;font-size:0.833336em}
+		.st24 {fill:#4ba3d3;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st25 {baseline-shift:32.4947%;font-size:0.649894em}
+		.st26 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	
+	</style>
+<defs id="Markers">
+<g id="lend4">
+<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"></path>
+</g>
+<marker class="st15" id="mrkr4-68" markerunits="strokeWidth" orient="auto" overflow="visible" refx="-7.04" v:arrowsize="2" v:arrowtype="4" v:setback="7.04">
+<use transform="scale(-3.52,-3.52) " xlink:href="#lend4"></use>
+</marker>
+<marker class="st15" id="mrkr4-74" markerunits="strokeWidth" orient="auto" overflow="visible" refx="6.68" v:arrowsize="2" v:arrowtype="4" v:setback="6.68">
+<use transform="scale(3.52) " xlink:href="#lend4"></use>
+</marker>
+<g id="lend10">
+<path d="M 0 0.75 C -0.414214 0.75 -0.75 0.414214 -0.75 0 -0.75 -0.414214 -0.414214 -0.75 0 -0.75 0.414214 -0.75 0.75 -0.414214 0.75 0 0.75 0.414214 0.414214 0.75 0 0.75 Z " style="stroke:none"></path>
+</g>
+<marker class="st15" id="mrkr10-177" markerunits="strokeWidth" orient="auto" overflow="visible" refx="2.28" v:arrowsize="2" v:arrowtype="10" v:setback="2.28">
+<use transform="scale(3.52) " xlink:href="#lend10"></use>
+</marker>
+</defs>
+<g v:groupcontext="foregroundPage" v:index="1" v:mid="0">
+<title>16:9</title>
+<g id="shape1-1" transform="translate(988.062,-27.3092)" v:groupcontext="shape" v:mid="1">
+<title>CN096</title>
+<desc>CN096</desc>
+<rect class="st1" height="20.0036" width="48.2996" x="0" y="447.996"></rect>
+<text class="st2" v:langid="1033" x="8.59" y="461">CN096</text> </g>
+<g id="shape3-4" transform="translate(36,-306.962)" v:groupcontext="shape" v:mid="3">
+<title>AUX Power</title>
+<desc>AUX Power</desc>
+<rect class="st3" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st4" v:langid="1033" x="22.2" y="454.43">AUX Power</text> </g>
+<a data-link-id="#triac-2" xlink:href="#triac-2">
+<g id="shape6-7" transform="translate(295.52,-265.766)" v:groupcontext="shape" v:mid="6">
+<title>Triac 2</title>
+<desc>TRIAC</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st6" v:langid="1033" x="34.12" y="454.43">TRIAC</text> </g>
+</a>
+<a data-link-id="#photocoupler-2" xlink:href="#photocoupler-2">
+<g id="shape7-10" transform="translate(435.02,-265.684)" v:groupcontext="shape" v:mid="7">
+<title>Photocoupler 2</title>
+<desc>Photocoupler</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st6" v:langid="1033" x="18.21" y="454.43">Photocoupler</text> </g>
+</a>
+<g id="group11-13" transform="translate(233.62,-268.896)" v:groupcontext="group" v:mid="11">
+<title>Motor.11</title>
+<g id="shape12-14" v:groupcontext="shape" v:mid="12">
+<title>Sheet.12</title>
+<ellipse class="st7" cx="13.8801" cy="454.337" rx="13.8801" ry="13.6633"></ellipse>
+</g>
+<g id="shape13-16" v:groupcontext="shape" v:mid="13">
+<title>Sheet.13</title>
+<desc>M</desc>
+<rect class="st8" height="27.3265" width="27.7603" x="0" y="440.673"></rect>
+<text class="st9" v:langid="1033" x="8.88" y="457.94">M</text> </g>
+</g>
+<g id="group21-19" transform="translate(860.625,-326.524)" v:groupcontext="group" v:layermember="0" v:mid="21">
+<title>Speaker</title>
+<g id="group22-20" v:groupcontext="group" v:layermember="0" v:mid="22">
+<title>speaker_8_</title>
+<g id="shape23-21" transform="translate(0,-7.62129)" v:groupcontext="shape" v:layermember="0" v:mid="23">
+<title>Sheet.23</title>
+<path class="st10" d="M4.95 467.01 C4.95 467.51 4.45 468 3.96 468 L0.99 468 C0.49 468 0 467.51 0 467.01 L0 457.11 C-0 456.62          0.49 456.12 0.99 456.12 L3.96 456.12 C4.45 456.12 4.95 456.62 4.95 457.11 L4.95 467.01 Z"></path>
+</g>
+<g id="shape24-23" transform="translate(6.92845,0)" v:groupcontext="shape" v:layermember="0" v:mid="24">
+<title>Sheet.24</title>
+<path class="st10" d="M0.69 448.8 C0.3 449.19 0 449.99 0 450.48 L0 458.4 C0 458.89 0.3 459.69 0.69 460.08 L8.22 467.6 C8.61          468 8.91 467.9 8.91 467.31 L8.91 441.57 C8.91 441.08 8.61 440.88 8.22 441.28 L0.69 448.8 Z"></path>
+</g>
+</g>
+<g id="shape25-25" transform="translate(18.4099,-8.71005)" v:groupcontext="shape" v:layermember="0" v:mid="25">
+<title>Sheet.25</title>
+<path class="st10" d="M0.79 458.4 L0 460.08 C0.99 460.87 1.58 462.16 1.58 463.15 C1.58 464.44 0.99 465.62 0 466.42 L0.79 468 C2.28         466.91 3.27 465.13 3.27 463.15 C3.27 461.17 2.28 459.49 0.79 458.4 Z"></path>
+</g>
+<g id="shape26-27" transform="translate(20.4884,-4.25605)" v:groupcontext="shape" v:layermember="0" v:mid="26">
+<title>Sheet.26</title>
+<path class="st10" d="M0.89 449.49 L0 451.37 C2.47 452.96 4.16 455.73 4.16 458.7 C4.16 461.86 2.47 464.63 0 466.22 L0.89 468 C4.06         466.12 6.14 462.66 6.14 458.7 C6.14 454.74 4.06 451.37 0.89 449.49 Z"></path>
+</g>
+</g>
+<a data-link-id="#ldo" xlink:href="#ldo">
+<g id="shape27-29" transform="translate(137.25,-167.522)" v:groupcontext="shape" v:mid="27">
+<title>LDO</title>
+<desc>LDO</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st6" v:langid="1033" x="39.32" y="454.43">LDO</text> </g>
+</a>
+<g id="shape28-32" transform="translate(860.625,-264.66)" v:groupcontext="shape" v:mid="28">
+<title>UV Light</title>
+<desc>UV Light</desc>
+<path class="st11" d="M0 468 L101.25 468 L101.25 434.25 L0 434.25 L0 468 Z"></path>
+<text class="st4" v:langid="1033" x="29.53" y="454.43">UV Light</text> </g>
+<g id="shape29-35" transform="translate(860.625,-206.11)" v:groupcontext="shape" v:mid="29">
+<title>IR Transceiver</title>
+<desc>IR Transceiver</desc>
+<rect class="st3" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st4" v:langid="1033" x="14.87" y="454.43">IR Transceiver</text> </g>
+<g id="group30-38" transform="translate(698.89,-46.9408)" v:groupcontext="group" v:mid="30">
+<title>Touch Key</title>
+<g id="shape31-39" transform="translate(-1.7486E-13,-25.0591)" v:groupcontext="shape" v:mid="31">
+<title>Sheet.31</title>
+<rect class="st12" height="9.10323" width="9.28529" x="0" y="458.897"></rect>
+</g>
+<g id="shape32-41" transform="translate(12.8652,-25.0591)" v:groupcontext="shape" v:mid="32">
+<title>Sheet.32</title>
+<rect class="st12" height="9.10323" width="9.28529" x="0" y="458.897"></rect>
+</g>
+<g id="shape33-43" transform="translate(25.7303,-25.0591)" v:groupcontext="shape" v:mid="33">
+<title>Sheet.33</title>
+<rect class="st12" height="9.10323" width="9.28529" x="0" y="458.897"></rect>
+</g>
+<g id="shape34-45" transform="translate(-1.7486E-13,-12.5295)" v:groupcontext="shape" v:mid="34">
+<title>Sheet.34</title>
+<rect class="st12" height="9.10323" width="9.28529" x="0" y="458.897"></rect>
+</g>
+<g id="shape35-47" transform="translate(12.8652,-12.5295)" v:groupcontext="shape" v:mid="35">
+<title>Sheet.35</title>
+<rect class="st12" height="9.10323" width="9.28529" x="0" y="458.897"></rect>
+</g>
+<g id="shape36-49" transform="translate(25.7303,-12.5295)" v:groupcontext="shape" v:mid="36">
+<title>Sheet.36</title>
+<rect class="st12" height="9.10323" width="9.28529" x="0" y="458.897"></rect>
+</g>
+<g id="shape37-51" v:groupcontext="shape" v:mid="37">
+<title>Sheet.37</title>
+<rect class="st12" height="9.10323" width="9.28529" x="0" y="458.897"></rect>
+</g>
+<g id="shape38-53" transform="translate(12.8652,-1.7053E-13)" v:groupcontext="shape" v:mid="38">
+<title>Sheet.38</title>
+<rect class="st12" height="9.10323" width="9.28529" x="0" y="458.897"></rect>
+</g>
+<g id="shape39-55" transform="translate(25.7303,-1.7053E-13)" v:groupcontext="shape" v:mid="39">
+<title>Sheet.39</title>
+<rect class="st12" height="9.10323" width="9.28529" x="0" y="458.897"></rect>
+</g>
+</g>
+<a data-link-id="#nfc-reader" xlink:href="#nfc-reader">
+<g id="shape49-57" transform="translate(227.25,-62.8969)" v:groupcontext="shape" v:mid="49">
+<title>NFC Reader</title>
+<desc>NFC Reader</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st6" v:langid="1033" x="19.75" y="454.43">NFC Reader</text> </g>
+</a>
+<g id="shape52-60" transform="translate(137.25,-314.867)" v:groupcontext="shape" v:layermember="2" v:mid="52">
+<title>Connector Line</title>
+<path class="st13" d="M0 459.03 L55.48 459.03 L55.48 458.97"></path>
+</g>
+<g id="shape55-63" transform="translate(192.73,-273.58)" v:groupcontext="shape" v:layermember="2" v:mid="55">
+<title>Connector Arrow.55</title>
+<path class="st14" d="M0 459.14 L33.82 458.91"></path>
+</g>
+<g id="shape58-69" transform="translate(396.77,-291.6)" v:groupcontext="shape" v:layermember="2" v:mid="58">
+<title>Connector Arrow.58</title>
+<path class="st16" d="M6.68 476.96 L7.04 476.96 L13.5 476.96 L13.5 477.04 L38.25 477.04"></path>
+</g>
+<g id="shape63-75" transform="translate(810.125,-331.084)" v:groupcontext="shape" v:layermember="2" v:mid="63">
+<title>Connector Arrow.63</title>
+<path class="st14" d="M0 459 L43.58 459"></path>
+</g>
+<g id="shape68-80" transform="translate(810.125,-272.535)" v:groupcontext="shape" v:layermember="2" v:mid="68">
+<title>Connector Arrow.68</title>
+<path class="st14" d="M0 459 L42.99 459"></path>
+</g>
+<g id="shape69-85" transform="translate(810,-213.985)" v:groupcontext="shape" v:layermember="2" v:mid="69">
+<title>Connector Arrow.69</title>
+<path class="st17" d="M6.68 459 L7.04 459 L43.58 459"></path>
+</g>
+<g id="shape70-92" transform="translate(328.5,-78.3255)" v:groupcontext="shape" v:layermember="2" v:mid="70">
+<title>Connector Arrow.70</title>
+<path class="st17" d="M6.68 468 L7.04 468 L288 468 L288 440.97"></path>
+</g>
+<g id="shape72-99" transform="translate(725.398,-112.397)" v:groupcontext="shape" v:layermember="2" v:mid="72">
+<title>Connector Arrow.72</title>
+<path class="st16" d="M-9 474.68 L-9 475.04 L-9 496.02 L-9 496.02 L-9 499.29"></path>
+</g>
+<g id="shape77-104" transform="translate(575.645,-273.415)" v:groupcontext="shape" v:layermember="2" v:mid="77">
+<title>Connector Arrow</title>
+<path class="st14" d="M0 459.14 L-32.34 458.91"></path>
+</g>
+<g id="shape79-109" transform="translate(295.182,-273.641)" v:groupcontext="shape" v:layermember="2" v:mid="79">
+<title>Connector Arrow.79</title>
+<path class="st14" d="M0 459 L-26.49 459"></path>
+</g>
+<a data-link-id="#triac-1" xlink:href="#triac-1">
+<g id="shape81-114" transform="translate(295.313,-347.563)" v:groupcontext="shape" v:mid="81">
+<title>Triac 1</title>
+<desc>TRIAC</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st6" v:langid="1033" x="34.12" y="454.43">TRIAC</text> </g>
+</a>
+<a data-link-id="#photocoupler-1" xlink:href="#photocoupler-1">
+<g id="shape82-117" transform="translate(434.813,-347.481)" v:groupcontext="shape" v:mid="82">
+<title>Photocoupler 1</title>
+<desc>Photocoupler</desc>
+<rect class="st5" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st6" v:langid="1033" x="18.21" y="454.43">Photocoupler</text> </g>
+</a>
+<g id="group83-120" transform="translate(233.62,-350.693)" v:groupcontext="group" v:mid="83">
+<title>Motor.83</title>
+<g id="shape84-121" v:groupcontext="shape" v:mid="84">
+<title>Sheet.84</title>
+<ellipse class="st7" cx="13.8801" cy="454.337" rx="13.8801" ry="13.6633"></ellipse>
+</g>
+<g id="shape85-123" v:groupcontext="shape" v:mid="85">
+<title>Sheet.85</title>
+<desc>M</desc>
+<rect class="st8" height="27.3265" width="27.7603" x="0" y="440.673"></rect>
+<text class="st9" v:langid="1033" x="8.88" y="457.94">M</text> </g>
+</g>
+<g id="shape86-126" transform="translate(192.523,-355.376)" v:groupcontext="shape" v:layermember="2" v:mid="86">
+<title>Connector Arrow.86</title>
+<path class="st14" d="M0 459.14 L34.02 458.91"></path>
+</g>
+<g id="shape87-131" transform="translate(396.563,-373.397)" v:groupcontext="shape" v:layermember="2" v:mid="87">
+<title>Connector Arrow.87</title>
+<path class="st16" d="M6.68 476.96 L7.04 476.96 L13.5 476.96 L13.5 477.04 L38.25 477.04"></path>
+</g>
+<g id="shape88-136" transform="translate(575.642,-355.356)" v:groupcontext="shape" v:layermember="2" v:mid="88">
+<title>Connector Arrow.88</title>
+<path class="st14" d="M0 459 L-32.54 459"></path>
+</g>
+<g id="shape89-141" transform="translate(294.975,-355.438)" v:groupcontext="shape" v:layermember="2" v:mid="89">
+<title>Connector Arrow.89</title>
+<path class="st14" d="M0 459 L-26.49 459"></path>
+</g>
+<g id="shape90-146" transform="translate(201.627,-282.436)" v:groupcontext="shape" v:layermember="2" v:mid="90">
+<title>Connector Line.90</title>
+<path class="st13" d="M-8.9 468 L-8.9 386.2 L-9.1 386.2"></path>
+</g>
+<g id="shape91-149" transform="translate(86.625,-306.962)" v:groupcontext="shape" v:layermember="2" v:mid="91">
+<title>Connector Arrow.91</title>
+<path class="st14" d="M0 468 L0 590.57 L43.59 590.57"></path>
+</g>
+<g id="shape92-154" transform="translate(535.5,-206.897)" v:groupcontext="shape" v:layermember="2" v:mid="92">
+<title>Connector Arrow.92</title>
+<path class="st14" d="M0 459 L33.46 459"></path>
+</g>
+<g id="shape95-159" transform="translate(535.5,-182.633)" v:groupcontext="shape" v:layermember="2" v:mid="95">
+<title>Connector Arrow.95</title>
+<path class="st14" d="M0 459 L33.46 459"></path>
+</g>
+<g id="shape96-164" transform="translate(190.125,-321.124)" v:groupcontext="shape" v:mid="96">
+<title>Connector 1</title>
+<ellipse class="st18" cx="2.77275" cy="465.227" rx="2.77275" ry="2.77275"></ellipse>
+</g>
+<g id="shape97-166" transform="translate(142.391,-323.897)" v:groupcontext="shape" v:mid="97">
+<title>12V AC</title>
+<desc>12V AC</desc>
+<rect class="st1" height="20.0036" width="44.3593" x="0" y="447.996"></rect>
+<text class="st2" v:langid="1033" x="4.95" y="461">12V AC</text> </g>
+<g id="shape98-169" transform="translate(90,-184.397)" v:groupcontext="shape" v:mid="98">
+<title>5V DC</title>
+<desc>5V DC</desc>
+<rect class="st1" height="20.0036" width="41.4685" x="0" y="447.996"></rect>
+<text class="st2" v:langid="1033" x="6.01" y="461">5V DC</text> </g>
+<g id="shape99-172" transform="translate(391.95,-175.397)" v:groupcontext="shape" v:layermember="2" v:mid="99">
+<title>Connected signals line</title>
+<path class="st19" d="M-2.28 459 L-2.64 459 L-153.45 459"></path>
+</g>
+<g id="shape100-178" transform="translate(238.5,-184.397)" v:groupcontext="shape" v:mid="100">
+<title>3.3V</title>
+<desc>3.3V</desc>
+<rect class="st1" height="20.0036" width="39.2185" x="0" y="447.996"></rect>
+<text class="st2" v:langid="1033" x="9.32" y="461">3.3V</text> </g>
+<g id="shape101-181" transform="translate(268.797,-184.397)" v:groupcontext="shape" v:layermember="2" v:mid="101">
+<title>Connector Line.101</title>
+<path class="st14" d="M8.92 468 L9.07 548.71"></path>
+</g>
+<g id="shape104-186" transform="translate(535.5,-215.897)" v:groupcontext="shape" v:layermember="2" v:mid="104">
+<title>Connector Arrow.104</title>
+<path class="st14" d="M0 468 L-143.44 468 L-143.44 528.46"></path>
+</g>
+<g id="shape105-191" transform="translate(442.5,-122.522)" v:groupcontext="shape" v:layermember="2" v:mid="105">
+<title>Connector Arrow.105</title>
+<path class="st14" d="M0 459 L126.46 459"></path>
+</g>
+<g id="shape106-196" transform="translate(535.5,-132.647)" v:groupcontext="shape" v:layermember="2" v:mid="106">
+<title>Connector Line.106</title>
+<path class="st13" d="M0 459 L40.5 459"></path>
+</g>
+<g id="shape107-199" transform="translate(544.5,-141.647)" v:groupcontext="shape" v:layermember="2" v:mid="107">
+<title>Connector Line.107</title>
+<path class="st13" d="M-9 468 L-9 418.01"></path>
+</g>
+<g id="shape108-202" transform="translate(210.429,-378.143)" v:groupcontext="shape" v:mid="108">
+<title>Teller Counter</title>
+<desc>Teller Counter</desc>
+<rect class="st1" height="20.0036" width="74.1416" x="0" y="447.996"></rect>
+<text class="st2" v:langid="1033" x="5.39" y="461">Teller Counter</text> </g>
+<g id="shape111-205" transform="translate(211.5,-296.897)" v:groupcontext="shape" v:mid="111">
+<title>Cash Blocker</title>
+<desc>Cash Blocker</desc>
+<rect class="st1" height="20.0036" width="72" x="0" y="447.996"></rect>
+<text class="st2" v:langid="1033" x="6.27" y="461">Cash Blocker</text> </g>
+<g id="shape112-208" transform="translate(688.5,-26.6908)" v:groupcontext="shape" v:mid="112">
+<title>Button</title>
+<desc>Button</desc>
+<rect class="st1" height="20.0036" width="56.25" x="0" y="447.996"></rect>
+<text class="st2" v:langid="1033" x="13.67" y="461">Button</text> </g>
+<g id="shape118-211" transform="translate(860.063,-381.758)" v:groupcontext="shape" v:mid="118">
+<title>OLED</title>
+<desc>OLED (128x64)</desc>
+<rect class="st3" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st4" v:langid="1033" x="35.65" y="447.82">OLED<tspan class="st20" dy="1.32em" x="30.89">(128x64)</tspan></text> </g>
+<g id="shape120-215" transform="translate(962.438,-265.033)" v:groupcontext="shape" v:mid="120">
+<title>Backup for Manual Operation</title>
+<desc>Backup for Manual Operation</desc>
+<rect class="st1" height="33.0037" width="90.2747" x="0" y="434.996"></rect>
+<text class="st2" v:langid="1033" x="4" y="448">Backup for<tspan class="st21" dy="1.3em" x="4">Manual Operation</tspan></text> </g>
+<g id="shape103-219" transform="translate(341.438,-114.647)" v:groupcontext="shape" v:mid="103">
+<title>TMR Sensor</title>
+<desc>TMR Sensor</desc>
+<rect class="st3" height="33.75" width="101.25" x="0" y="434.25"></rect>
+<text class="st4" v:langid="1033" x="19.76" y="454.43">TMR Sensor</text> </g>
+<g id="shape67-222" transform="translate(810,-389.633)" v:groupcontext="shape" v:layermember="2" v:mid="67">
+<title>Connector Arrow.67</title>
+<path class="st17" d="M6.68 459 L7.04 459 L42.84 459"></path>
+</g>
+<a data-link-id="#mcu" xlink:href="#mcu">
+<g id="group122-229" transform="translate(576,-112.397)" v:groupcontext="group" v:mid="122">
+<title>MCU</title>
+<g id="shape40-230" v:groupcontext="shape" v:mid="40">
+<title>MCU</title>
+<desc>MCU</desc>
+<rect class="st5" height="319.912" width="234" x="0" y="148.088"></rect>
+<text class="st6" v:langid="1033" x="104.47" y="165.99">MCU</text> </g>
+<g id="shape41-233" transform="translate(12.148,-121.912)" v:groupcontext="shape" v:mid="41">
+<title>GPIO 1</title>
+<desc>GPIO</desc>
+<rect class="st22" height="175.648" width="61.204" x="0" y="292.352"></rect>
+<text class="st23" v:langid="1033" x="18.1" y="383.18">GPIO</text> </g>
+<g id="shape42-236" transform="translate(70.0414,835.535) rotate(180)" v:groupcontext="shape" v:mid="42">
+<title>16-BIT ADC</title>
+<desc>16-BIT ADC</desc>
+<path class="st24" d="M0 425.54 L34.76 425.54 L54.58 446.73 L34.76 467.78 L0 468 L0 425.54 Z"></path>
+<text class="st23" transform="rotate(180)" v:langid="1033" x="-37.8" y="-449.77">16-BIT<tspan class="st21" dy="1.2em" x="-33.35">ADC</tspan></text> </g>
+<g id="shape43-240" transform="translate(12.148,-8.71983)" v:groupcontext="shape" v:mid="43">
+<title>SPI</title>
+<desc>SPI</desc>
+<rect class="st22" height="27.5603" width="61.204" x="0" y="440.44"></rect>
+<text class="st23" v:langid="1033" x="22.54" y="457.22">SPI</text> </g>
+<g id="shape44-243" transform="translate(109.796,-8.71983)" v:groupcontext="shape" v:mid="44">
+<title>GPIO 5</title>
+<desc>GPIO</desc>
+<rect class="st22" height="27.5603" width="61.204" x="0" y="440.44"></rect>
+<text class="st23" v:langid="1033" x="18.1" y="457.22">GPIO</text> </g>
+<g id="shape45-246" transform="translate(160.648,-274.912)" v:groupcontext="shape" v:mid="45">
+<title>I2C</title>
+<desc>I2C</desc>
+<rect class="st22" height="22.648" width="61.204" x="0" y="445.352"></rect>
+<text class="st23" v:langid="1033" x="23.79" y="459.68">I<tspan class="st25" dy="-0.235em" v:basefontsize="10">2</tspan><tspan class="st21" dy="0.153em">C</tspan></text> </g>
+<g id="shape46-251" transform="translate(160.648,-216.363)" v:groupcontext="shape" v:mid="46">
+<title>GPIO 2</title>
+<desc>GPIO</desc>
+<rect class="st22" height="22.648" width="61.204" x="0" y="445.352"></rect>
+<text class="st23" v:langid="1033" x="18.1" y="459.68">GPIO</text> </g>
+<g id="shape47-254" transform="translate(160.648,-157.814)" v:groupcontext="shape" v:mid="47">
+<title>GPIO 3</title>
+<desc>GPIO</desc>
+<rect class="st22" height="22.648" width="61.204" x="0" y="445.352"></rect>
+<text class="st23" v:langid="1033" x="18.1" y="459.68">GPIO</text> </g>
+<g id="shape48-257" transform="translate(160.648,-99.2643)" v:groupcontext="shape" v:mid="48">
+<title>GPIO 4</title>
+<desc>GPIO</desc>
+<rect class="st22" height="22.648" width="61.204" x="0" y="445.352"></rect>
+<text class="st23" v:langid="1033" x="18.1" y="459.68">GPIO</text> </g>
+</g>
+</a>
+</g>
+</svg>

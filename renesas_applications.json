@@ -1,0 +1,2566 @@
+{
+  "Automotive": {
+    "subcategories": {
+      "Advanced Driver Assistance Systems (ADAS)": {
+        "link": "https://www.renesas.com/en/applications/automotive/adas",
+        "applications": [
+          {
+            "group": "Automotive Parking & Surround View Systems",
+            "title": "Comprehensive ADAS & Autonomous Driving Hardware-Software System",
+            "link": "https://www.renesas.com/en/applications/automotive/adas/comprehensive-adas-autonomous-driving-hardware-software-system",
+            "nid": "1498661",
+            "uuid": "62065419-ba48-4edf-a685-0500f7e0a7a5"
+          },
+          {
+            "group": "Automotive Parking & Surround View Systems",
+            "title": "Parking Assistance System with AHL Camera",
+            "link": "https://www.renesas.com/en/applications/automotive/adas/parking-assistance-system-ahl-camera",
+            "nid": "1498666",
+            "uuid": "e37afc8a-3429-4d80-841d-541533b1d6a5"
+          },
+          {
+            "group": "Automotive Parking & Surround View Systems",
+            "title": "Video Output Expansion for Surround View & AR-HUD",
+            "link": "https://www.renesas.com/en/applications/automotive/adas/video-output-expansion-surround-view-ar-hud",
+            "nid": "1545326",
+            "uuid": "fce5bfef-f648-404b-b0a0-526979eda5a2"
+          },
+          {
+            "group": "",
+            "title": "ADAS Front Camera Solution",
+            "link": "https://www.renesas.com/en/applications/automotive/adas/adas-front-camera-solution",
+            "nid": "1498656",
+            "uuid": "8817db4c-4443-4928-91f0-e30fd43c87f3"
+          },
+          {
+            "group": "",
+            "title": "Automotive Camera Solution with AHL Control Channel",
+            "link": "https://www.renesas.com/en/applications/automotive/adas/automotive-camera-solution-ahl-control-channel",
+            "nid": "1545331",
+            "uuid": "c781ba6a-f48c-495b-b84f-d3cbdf748676"
+          },
+          {
+            "group": "",
+            "title": "Intelligent Camera Solution",
+            "link": "https://www.renesas.com/en/applications/automotive/adas/intelligent-camera-solution",
+            "nid": "1523546",
+            "uuid": "52b6a297-1540-44ea-9054-e86102015b5b"
+          }
+        ]
+      },
+      "Electric & Hybrid Vehicles (EV)": {
+        "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles",
+        "applications": [
+          {
+            "group": "Bidirectional DC/DC Converters",
+            "title": "Bi-directional DC/DC Converter for 12V/48V EV/HEV Systems",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/bi-directional-dcdc-converter-12v-48v-ev-hev-systems",
+            "nid": "1514306",
+            "uuid": "5c5aded1-27c5-43bf-a231-1cdb3f6daf24"
+          },
+          {
+            "group": "Bidirectional DC/DC Converters",
+            "title": "Bi-directional GaN DC/DC Converter for 12V/48V EV/HEV Systems",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/bi-directional-gan-dcdc-converter-12v48v-evhev-systems",
+            "nid": "1649456",
+            "uuid": "cf751849-dadd-40b2-95d7-af0c7e710ff6"
+          },
+          {
+            "group": "",
+            "title": "3-in-1 Electric Vehicle Unit: 48V Inverter, Onboard Charger, DC/DC Converter",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/3-1-electric-vehicle-unit-48v-inverter-onboard-charger-dcdc-converter",
+            "nid": "25556081",
+            "uuid": "c510994b-3d42-4dbd-a519-a6ffb0c437b5"
+          },
+          {
+            "group": "",
+            "title": "Level 2 EV Charger",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/level-2-ev-charger",
+            "nid": "25569198",
+            "uuid": "f802301f-f22e-4e59-9c65-21453e83cbdf"
+          },
+          {
+            "group": "",
+            "title": "Standard EV Battery Management System",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/standard-ev-battery-management-system",
+            "nid": "1164766",
+            "uuid": "7f012243-6f22-441e-b650-1d456eaac94c"
+          },
+          {
+            "group": "",
+            "title": "Wireless EV Battery Management System",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/wireless-ev-battery-management-system",
+            "nid": "1523551",
+            "uuid": "5f9131ad-492f-4059-a0e7-817a51814a1d"
+          },
+          {
+            "group": "",
+            "title": "48V/3kW Motor Control for 2/3 Wheelers",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/48v-3kw-motor-control-2-3-wheelers",
+            "nid": "25568855",
+            "uuid": "e5f48593-f099-4a59-8e0f-b52805c47a18"
+          },
+          {
+            "group": "",
+            "title": "Low Voltage Inverter for 2/3 Wheeler Traction Motor Control",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/low-voltage-inverter-2-3-wheeler-traction-motor-control",
+            "nid": "1285131",
+            "uuid": "086be2bf-b8aa-4fae-970c-a0a47d07aaf7"
+          },
+          {
+            "group": "",
+            "title": "Motor Generator System",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/motor-generator-system",
+            "nid": "1514316",
+            "uuid": "bbb67c93-04ea-424c-9abd-7ed62249d431"
+          },
+          {
+            "group": "",
+            "title": "xEV Inverter",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/xev-inverter",
+            "nid": "1164776",
+            "uuid": "5b1c2641-700a-42bb-ad74-afa990acf626"
+          },
+          {
+            "group": "",
+            "title": "xEV Inverter with Inductive Position Sensor (IPS)",
+            "link": "https://www.renesas.com/en/applications/automotive/ev-hev-vehicles/xev-inverter-inductive-position-sensor-ips",
+            "nid": "1545336",
+            "uuid": "4a082cc7-65b2-4344-8b87-11110bb9584b"
+          }
+        ]
+      },
+      "Infotainment Systems": {
+        "link": "https://www.renesas.com/en/applications/automotive/infotainment",
+        "applications": [
+          {
+            "group": "Cockpit",
+            "title": "Automotive Cockpit Solution with Haptics",
+            "link": "https://www.renesas.com/en/applications/automotive/infotainment/automotive-cockpit-solution-haptics",
+            "nid": "1523566",
+            "uuid": "834cde0b-8b4a-42fc-9bdc-ae4a8b8ad06d"
+          },
+          {
+            "group": "Cockpit",
+            "title": "Cost-Effective Automotive Haptic Touch Key Module for Enhanced Driver Safety",
+            "link": "https://www.renesas.com/en/applications/automotive/infotainment/cost-effective-automotive-haptic-touch-key-module-enhanced-driver-safety",
+            "nid": "25445531",
+            "uuid": "f4c4ce55-9606-4db1-8ea3-fe28b0ede994"
+          },
+          {
+            "group": "",
+            "title": "Connected Android-Based Vehicle Instrument Cluster",
+            "link": "https://www.renesas.com/en/applications/automotive/infotainment/connected-android-based-vehicle-instrument-cluster",
+            "nid": "24540451",
+            "uuid": "859ec704-e760-4b4d-b916-b232c6364020"
+          },
+          {
+            "group": "",
+            "title": "Cost-Effective Digital Cluster with 4-channel AHL and Surround View",
+            "link": "https://www.renesas.com/en/applications/automotive/infotainment/cost-effective-digital-cluster-4-channel-ahl-and-surround-view",
+            "nid": "1534366",
+            "uuid": "3eadf9f2-3f75-4892-ba66-30c5aefaaed4"
+          },
+          {
+            "group": "",
+            "title": "Full Graphics Cluster & Cockpit Solution",
+            "link": "https://www.renesas.com/en/applications/automotive/infotainment/full-graphics-cluster-cockpit-solution",
+            "nid": "1467841",
+            "uuid": "d070d531-d3c5-423a-86b2-09ffa38f1884"
+          },
+          {
+            "group": "",
+            "title": "High-End Cockpit & Infotainment Solution",
+            "link": "https://www.renesas.com/en/applications/automotive/infotainment/high-end-cockpit-infotainment-solution",
+            "nid": "1467836",
+            "uuid": "e4bfd6e9-8150-4484-8dbf-e9f51ece08d1"
+          },
+          {
+            "group": "",
+            "title": "Infotainment & Automated Driving Systems with Fewer Components",
+            "link": "https://www.renesas.com/en/applications/automotive/infotainment/infotainment-automated-driving-systems-fewer-components",
+            "nid": "1523581",
+            "uuid": "e58fc5b9-fe45-4047-b72e-1f31200860bb"
+          },
+          {
+            "group": "",
+            "title": "Low-Cost Digital Instrument Cluster",
+            "link": "https://www.renesas.com/en/applications/automotive/infotainment/low-cost-digital-instrument-cluster",
+            "nid": "1285136",
+            "uuid": "3ade9c32-ab3d-4b9c-b207-53fac401f2f9"
+          },
+          {
+            "group": "",
+            "title": "Low-Cost TFT Instrument Cluster with Telematics",
+            "link": "https://www.renesas.com/en/applications/automotive/infotainment/low-cost-tft-instrument-cluster-telematics",
+            "nid": "1652611",
+            "uuid": "aebd4dc8-9507-444b-937c-f08564394e7c"
+          }
+        ]
+      },
+      "Vehicle Control Systems": {
+        "link": "https://www.renesas.com/en/applications/automotive/vehicle-control",
+        "applications": [
+          {
+            "group": "Body Control & Lighting",
+            "title": "12V Motor Controller",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/12v-motor-controller",
+            "nid": "1649756",
+            "uuid": "76099b4b-a517-4ffb-b7c0-a3707e9cd9be"
+          },
+          {
+            "group": "Body Control & Lighting",
+            "title": "Advanced Automotive Domain Controller (AADC)",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/advanced-automotive-domain-controller-aadc",
+            "nid": "25568819",
+            "uuid": "e90f5f31-8430-4cb1-b686-3874e3f5e6c5"
+          },
+          {
+            "group": "Body Control & Lighting",
+            "title": "High-Performance EV Cooling System",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/high-performance-ev-cooling-system",
+            "nid": "25418016",
+            "uuid": "914ed259-478c-48b6-96cd-ac6d4d64fc61"
+          },
+          {
+            "group": "Body Control & Lighting",
+            "title": "Smart Bicycle Tail Light & Alarm System",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/smart-bicycle-tail-light-alarm-system",
+            "nid": "4226381",
+            "uuid": "248fa453-0099-4c96-b2f1-282fece51490"
+          },
+          {
+            "group": "Body Control & Lighting",
+            "title": "Solid State Automotive Power Distribution Module",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/solid-state-automotive-power-distribution-module",
+            "nid": "1467861",
+            "uuid": "e8849eb0-eaea-4d28-bdc7-25f5de0940f8"
+          },
+          {
+            "group": "Body Control & Lighting",
+            "title": "Solid State Automotive Power Distribution Module with eFuse",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/solid-state-automotive-power-distribution-module-efuse",
+            "nid": "1498651",
+            "uuid": "03f99491-41a5-4b20-9def-d633f87637be"
+          },
+          {
+            "group": "Body Control & Lighting",
+            "title": "Sunroof Controller",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/sunroof-controller",
+            "nid": "25569803",
+            "uuid": "271f0069-b8a9-46c4-8833-0d75faef0e58"
+          },
+          {
+            "group": "Body Control & Lighting",
+            "title": "Vehicle Control Unit",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/vehicle-control-unit",
+            "nid": "24614611",
+            "uuid": "d6098ca5-7680-4288-8fc8-21395bae8a95"
+          },
+          {
+            "group": "Body Control & Lighting",
+            "title": "Vehicle Window Control with Anti-Pinch Safety",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/vehicle-window-control-anti-pinch-safety",
+            "nid": "25445556",
+            "uuid": "df556b0f-d91f-4490-8e1c-e6dddb86b4ec"
+          },
+          {
+            "group": "Body Control & Lighting",
+            "title": "Zone-ECU Virtualization Solution Platform",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/zone-ecu-virtualization-solution-platform",
+            "nid": "1602066",
+            "uuid": "32bb3da7-3be9-4d09-b3ff-b27938cdcf9b"
+          },
+          {
+            "group": "",
+            "title": "Automotive Communication Gateway Platform",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/automotive-communication-gateway-platform",
+            "nid": "1534471",
+            "uuid": "fa3ef6ea-478c-4a8e-a1ba-9d2166651a5f"
+          },
+          {
+            "group": "",
+            "title": "Automotive Monitoring Function Extension",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/automotive-monitoring-function-extension",
+            "nid": "1523571",
+            "uuid": "cf8b8d1d-0798-4fd5-a145-a4993ffd7d34"
+          },
+          {
+            "group": "",
+            "title": "Automotive Sensor with CAN/LIN Interface",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/automotive-sensor-canlin-interface",
+            "nid": "1467846",
+            "uuid": "8b6fe5be-4af7-4d87-a47e-6722891973db"
+          },
+          {
+            "group": "",
+            "title": "Car Telematics Box Module",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/car-telematics-box-module",
+            "nid": "24655111",
+            "uuid": "d14275a9-ac44-4e39-a647-af8ccbbe6751"
+          },
+          {
+            "group": "",
+            "title": "Communication Gateway & Integrated DVR/DMS System Solution",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/communication-gateway-integrated-dvrdms-system-solution",
+            "nid": "1649531",
+            "uuid": "47d38aba-abf5-4e4b-a7c3-8bcf7069b2ba"
+          },
+          {
+            "group": "",
+            "title": "Connected Gateway for Future E/E Architecture",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/connected-gateway-future-ee-architecture",
+            "nid": "1514311",
+            "uuid": "520b638f-43a3-48dd-ba05-2c883ac94715"
+          },
+          {
+            "group": "",
+            "title": "Instrument Panel for Light Electric Vehicles",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/instrument-panel-light-electric-vehicles",
+            "nid": "1616031",
+            "uuid": "6ae2f5e2-f101-4097-8f3c-bca465fe09f2"
+          },
+          {
+            "group": "",
+            "title": "Tire Pressure Monitoring System",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/tire-pressure-monitoring-system",
+            "nid": "1523556",
+            "uuid": "d269325c-8f93-4817-ab33-596580fd2dc2"
+          },
+          {
+            "group": "",
+            "title": "Vehicle Computer for Future E/E Architecture",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/vehicle-computer-future-ee-architecture",
+            "nid": "1545346",
+            "uuid": "2b142325-11b5-4843-8d8c-4f73adcb5432"
+          },
+          {
+            "group": "",
+            "title": "Wireless Telematic Unit for Vehicle Connectivity",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/wireless-telematic-unit-vehicle-connectivity",
+            "nid": "25435571",
+            "uuid": "9f3e897c-732b-446e-a32b-e363bc073bdb"
+          },
+          {
+            "group": "",
+            "title": "48V Mobility Platform",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/48v-mobility-platform",
+            "nid": "1305451",
+            "uuid": "53d20489-2638-4f34-8be1-db218cf5507c"
+          },
+          {
+            "group": "",
+            "title": "Remote Sensing with Inductive Position Sensor & CAN/LIN",
+            "link": "https://www.renesas.com/en/applications/automotive/vehicle-control/remote-sensing-inductive-position-sensor-can-lin",
+            "nid": "1498636",
+            "uuid": "eeecec77-3dc0-4290-8aaa-b360d2f9ebf7"
+          }
+        ]
+      }
+    }
+  },
+  "Consumer Electronics": {
+    "subcategories": {
+      "Computing": {
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/computing",
+        "applications": [
+          {
+            "group": "Desktop",
+            "title": "DDR5 Gaming DIMM",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/computing/ddr5-gaming-dimm",
+            "nid": "1537506",
+            "uuid": "f4033adf-1225-4504-b7fb-ed5d1f42f745"
+          },
+          {
+            "group": "Desktop",
+            "title": "PC Water Cooling System with Wireless Control",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/computing/pc-water-cooling-system-wireless-control",
+            "nid": "1522446",
+            "uuid": "2f1d8225-455c-4534-bd2f-8ce6745af94a"
+          },
+          {
+            "group": "",
+            "title": "Smart Pen",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/computing/smart-pen",
+            "nid": "464706",
+            "uuid": "dd52b36c-66b7-4929-857b-8e8dd32cb22e"
+          }
+        ]
+      },
+      "Home Theater & Entertainment": {
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/home-theater-entertainment",
+        "applications": [
+          {
+            "group": "Home Audio",
+            "title": "Soundbar with Bluetooth Streaming",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/home-theater-entertainment/soundbar-bluetooth-streaming",
+            "nid": "467876",
+            "uuid": "21512ecb-c185-4911-902d-870ac1330705"
+          },
+          {
+            "group": "Home Audio",
+            "title": "Video IP Phone",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/home-theater-entertainment/video-ip-phone",
+            "nid": "83805",
+            "uuid": "a9998657-1691-47af-9276-2d4b88aae65c"
+          },
+          {
+            "group": "",
+            "title": "Edge Voice User Interface (VUI)",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/home-theater-entertainment/edge-voice-user-interface-vui",
+            "nid": "1571661",
+            "uuid": "5a5f308f-3fa6-49ed-8033-16656e8214e7"
+          },
+          {
+            "group": "",
+            "title": "High Efficiency Digital Power Supply",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/home-theater-entertainment/high-efficiency-digital-power-supply",
+            "nid": "25469921",
+            "uuid": "e25c3aa3-63f2-426d-acc5-cef8357a900e"
+          },
+          {
+            "group": "",
+            "title": "Mini-LED TV Backlight Unit - Large Matrix",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/home-theater-entertainment/mini-led-tv-backlight-unit-large-matrix",
+            "nid": "1539321",
+            "uuid": "1a128663-51e3-469c-adfb-8745200348b0"
+          }
+        ]
+      },
+      "Power Adapters & Chargers": {
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers",
+        "applications": [
+          {
+            "group": "Battery Backup Systems",
+            "title": "100W USB Type-C DC Input Module",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/100w-usb-type-c-dc-input-module",
+            "nid": "25568828",
+            "uuid": "4741d778-b374-4991-b3e4-93c18b7368d6"
+          },
+          {
+            "group": "Battery Backup Systems",
+            "title": "High-Efficiency Online Uninterruptible Power Supply (UPS) with Real-Time Monitoring",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/high-efficiency-online-uninterruptible-power-supply-ups-real-time-monitoring",
+            "nid": "1624341",
+            "uuid": "12173419-bc31-4010-8188-902b568093bf"
+          },
+          {
+            "group": "Battery Backup Systems",
+            "title": "Portable Power System",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/portable-power-system",
+            "nid": "25568100",
+            "uuid": "24f69011-987f-4b18-ae99-bb55b7c32ce9"
+          },
+          {
+            "group": "Battery Backup Systems",
+            "title": "Pure Sine Wave Home Inverter with BMS",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/pure-sine-wave-home-inverter-bms",
+            "nid": "1624266",
+            "uuid": "fc012a2f-3c74-4ea6-81b3-0db7d036efe1"
+          },
+          {
+            "group": "Battery Backup Systems",
+            "title": "Simple Network Management Protocol Card for Remote UPS Monitoring",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/simple-network-management-protocol-card-remote-ups-monitoring",
+            "nid": "1333841",
+            "uuid": "d74ed22e-afa0-4af3-a29b-51837af77075"
+          },
+          {
+            "group": "Battery Backup Systems",
+            "title": "Universal USB PD Lab Power Supply & Monitor",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/universal-usb-pd-lab-power-supply-monitor",
+            "nid": "25567662",
+            "uuid": "41ef825c-f9c3-4ba3-a58b-33b8a42082be"
+          },
+          {
+            "group": "",
+            "title": "100W Adjustable Power Supply with USB PD Input",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/100w-adjustable-power-supply-usb-pd-input",
+            "nid": "4224081",
+            "uuid": "54401f83-13aa-4ec9-882b-6cb9d7fbc5f4"
+          },
+          {
+            "group": "",
+            "title": "100W Multi-Output USB Power Delivery Adapter",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/100w-multi-output-usb-power-delivery-adapter",
+            "nid": "1522426",
+            "uuid": "4914ecc9-d0e1-4441-b273-8899a1552653"
+          },
+          {
+            "group": "",
+            "title": "100W USB PD Battery Charger",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/100w-usb-pd-battery-charger",
+            "nid": "25546821",
+            "uuid": "64fb8dae-a4a9-40ed-9062-4749ed85e69d"
+          },
+          {
+            "group": "",
+            "title": "100W/140W USB-C & USB PD Power Supply",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/low-cost-usb-c-usb-pd-100w-140w-power-supply-multiple-outputs",
+            "nid": "25555931",
+            "uuid": "6776eff0-81b7-413e-babf-2ff7ea4b5fc0"
+          },
+          {
+            "group": "",
+            "title": "240W USB PD AC/DC Adapter",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/240w-usb-pd-acdc-adapter",
+            "nid": "25555776",
+            "uuid": "3ef2b4e3-6a41-4798-bdd1-f0c4acfd0d49"
+          },
+          {
+            "group": "",
+            "title": "65W USB-C Adapter with Zero Standby Power with Single and Dual Output Options",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/65w-usb-c-adapter-zero-standby-power-single-and-dual-output-options",
+            "nid": "25555736",
+            "uuid": "029da897-c22c-45d5-8b59-c016adef05bf"
+          },
+          {
+            "group": "",
+            "title": "High Efficiency ZVS 140W USB-C Power Supply",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/high-efficiency-zvs-140w-usb-c-power-supply",
+            "nid": "25555781",
+            "uuid": "141d2d13-632a-4f62-a57e-c12de4b3cdc7"
+          },
+          {
+            "group": "",
+            "title": "High Wattage AC/DC Power Adapter",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/high-wattage-acdc-power-adapter",
+            "nid": "4225231",
+            "uuid": "a3844cb4-df25-4403-9b61-99d4745bafaa"
+          },
+          {
+            "group": "",
+            "title": "Multi-Cell USB PD Power Bank with Quick Charge 2.0/3.0",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/multi-cell-usb-pd-power-bank-quick-charge-2-0-3-0",
+            "nid": "1570091",
+            "uuid": "b19e35bc-a2d8-456f-a388-87aac1918b1d"
+          },
+          {
+            "group": "",
+            "title": "USB PD Adapter with Turbo Boost",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/usb-pd-adapter-turbo-boost",
+            "nid": "1333806",
+            "uuid": "3cbc302d-3ac2-4bcb-a19e-2ffb4c956bc3"
+          },
+          {
+            "group": "",
+            "title": "USB Type-C Charger",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/usb-type-c-charger",
+            "nid": "464391",
+            "uuid": "3834c417-40cd-450c-9df5-b28885280448"
+          },
+          {
+            "group": "",
+            "title": "Universal NFC Wireless Charger",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/power-adapters-chargers/universal-nfc-wireless-charger",
+            "nid": "25445561",
+            "uuid": "7cd43b6d-ddd6-40b6-b497-db071bc9b0a9"
+          }
+        ]
+      },
+      "Wearables": {
+        "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables",
+        "applications": [
+          {
+            "group": "Cameras",
+            "title": "Battery-Powered Camera with AI Object Detection & Motion Sensing",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/battery-powered-camera-ai-object-detection-motion-sensing",
+            "nid": "25438001",
+            "uuid": "b2b2d749-7538-46c7-98a4-889e5163f468"
+          },
+          {
+            "group": "",
+            "title": "Smart Earbuds Case Charger",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/smart-earbuds-case-charger",
+            "nid": "468846",
+            "uuid": "41b09bb1-9539-47e4-949a-69caf0945631"
+          },
+          {
+            "group": "",
+            "title": "True Wireless Stereo (TWS) Earbud Charger Cradle",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/true-wireless-stereo-tws-earbud-charger-cradle",
+            "nid": "1466811",
+            "uuid": "4191ef89-34c6-44e3-9419-d277f755e44c"
+          },
+          {
+            "group": "",
+            "title": "Bluetooth Wireless Headphones with Extended Battery Life",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/bluetooth-wireless-headphones-extended-battery-life",
+            "nid": "466496",
+            "uuid": "8be30066-39de-4491-85cf-3a3b650c35a8"
+          },
+          {
+            "group": "",
+            "title": "Smart Glasses",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/smart-glasses",
+            "nid": "25449576",
+            "uuid": "4068b8bc-7c85-4c34-9b7d-f3ffc128a6e7"
+          },
+          {
+            "group": "",
+            "title": "Health Monitor Band",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/health-monitor-band",
+            "nid": "25564268",
+            "uuid": "0ddc94ef-0271-4563-b258-06eacb86f6e4"
+          },
+          {
+            "group": "",
+            "title": "Personal Safety Tracker with GPS, NFC, Air Quality Sensor",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/personal-safety-tracker-gps-nfc-air-quality-sensor",
+            "nid": "1517391",
+            "uuid": "eaf8de28-b268-435b-9354-78b469c9face"
+          },
+          {
+            "group": "",
+            "title": "Ultra Low Power Pet Tracker with Wi-Fi, GPS, BLE, LTE",
+            "link": "https://www.renesas.com/en/applications/consumer-electronics/wearables/ultra-low-power-pet-tracker-wi-fi-gps-ble-lte",
+            "nid": "1572591",
+            "uuid": "92c05cb1-75e1-4e75-89fb-87bec6ce6826"
+          }
+        ]
+      }
+    }
+  },
+  "Industrial": {
+    "subcategories": {
+      "Appliances": {
+        "link": "https://www.renesas.com/en/applications/industrial/appliances",
+        "applications": [
+          {
+            "group": "Garden & Power Tools",
+            "title": "Chainsaw System",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/chainsaw-system",
+            "nid": "25569759",
+            "uuid": "e6913366-33a4-4a13-9cae-3110d47e8088"
+          },
+          {
+            "group": "Garden & Power Tools",
+            "title": "Cordless Leaf Blower",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/cordless-leaf-blower",
+            "nid": "1050746",
+            "uuid": "3b04c410-6ddb-4b07-b5fe-d2a4852c76d7"
+          },
+          {
+            "group": "Garden & Power Tools",
+            "title": "Multi-Functional Cordless Drill with Wire Detection",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/multi-functional-cordless-drill-wire-detection",
+            "nid": "1521446",
+            "uuid": "edb730bc-d07a-4413-a1d3-826a202a53fb"
+          },
+          {
+            "group": "Garden & Power Tools",
+            "title": "Versatile Motor Control for Power Tools",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/versatile-motor-control-power-tools",
+            "nid": "488516",
+            "uuid": "3801cb5a-67a0-4aa4-a0f3-ca4ccf165ad6"
+          },
+          {
+            "group": "",
+            "title": "Air Quality Monitor (PM2.5) with Secure Cloud Connection",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/air-quality-monitor-pm25-secure-cloud-connection",
+            "nid": "465286",
+            "uuid": "de33ba9d-ee02-492c-a759-224151e70d61"
+          },
+          {
+            "group": "",
+            "title": "Automatic Wine Bottle Opener",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/automatic-wine-bottle-opener",
+            "nid": "25429706",
+            "uuid": "ea6e135c-1d4b-45cd-ad0c-47505891d805"
+          },
+          {
+            "group": "",
+            "title": "Cordless Single-Phase BLDC Hand Blender",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/cordless-single-phase-bldc-hand-blender",
+            "nid": "1547751",
+            "uuid": "eb765c43-81b9-4e4c-993d-60287c477b78"
+          },
+          {
+            "group": "",
+            "title": "Drive Circuit for a Heating or Inductive Coil",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/drive-circuit-heating-or-inductive-coil",
+            "nid": "1522011",
+            "uuid": "abf3c8bf-3723-4b37-ad34-b41cddb51062"
+          },
+          {
+            "group": "",
+            "title": "High-Efficiency Induction Heaters ",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/high-efficiency-induction-heaters",
+            "nid": "1569991",
+            "uuid": "58e19538-86ad-4c2d-a40a-dbdc33eb83cf"
+          },
+          {
+            "group": "",
+            "title": "High-End Electric Fan with BLDC Control",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/high-end-electric-fan-bldc-control",
+            "nid": "467911",
+            "uuid": "0b00b783-83fd-4adf-8bed-bfea2d9d2fb8"
+          },
+          {
+            "group": "",
+            "title": "Household Water Pump",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/household-water-pump",
+            "nid": "488466",
+            "uuid": "08e7621f-59f9-4ad0-9470-0d3c03dd8604"
+          },
+          {
+            "group": "",
+            "title": "In-Home Air Quality Monitoring System",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/home-air-quality-monitoring-system",
+            "nid": "488461",
+            "uuid": "1edc9091-e758-406e-875d-4a3bf15e39f8"
+          },
+          {
+            "group": "",
+            "title": "Induction Heating Cooker",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/induction-heating-cooker",
+            "nid": "465291",
+            "uuid": "b538321c-516b-4758-8d52-1315e543b4e4"
+          },
+          {
+            "group": "",
+            "title": "Induction Heating Rice Cooker",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/induction-heating-rice-cooker",
+            "nid": "1522416",
+            "uuid": "58b06dad-1591-4ce0-9d2d-7e0565bcc4e0"
+          },
+          {
+            "group": "",
+            "title": "Kitchen Range Hood with 2D Touch Sensor",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/kitchen-range-hood-2d-touch-sensor",
+            "nid": "466536",
+            "uuid": "aa1eeb3e-891b-46b9-a047-82200b9392a3"
+          },
+          {
+            "group": "",
+            "title": "Refrigerator Odor Detector",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/refrigerator-odor-detector",
+            "nid": "467891",
+            "uuid": "800d4328-8efd-4d4e-8db8-c7cf2c0146f6"
+          },
+          {
+            "group": "",
+            "title": "Smart All-in-One Pressure Cooking Pot",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-all-one-pressure-cooking-pot",
+            "nid": "1615991",
+            "uuid": "0d945046-327e-44f8-aa62-5b8e598f4a52"
+          },
+          {
+            "group": "",
+            "title": "Smart Range Hood",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-range-hood",
+            "nid": "1489281",
+            "uuid": "ef8d65d9-5215-4b77-859c-bc6147e98f71"
+          },
+          {
+            "group": "",
+            "title": "Bathroom Odor Detector",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/bathroom-odor-detector",
+            "nid": "1050656",
+            "uuid": "b1e392a8-09d9-4a3b-b476-5605051c188d"
+          },
+          {
+            "group": "",
+            "title": "Bathroom Odor Detector with Bluetooth Low Energy",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/bathroom-odor-detector-bluetooth-low-energy",
+            "nid": "1199276",
+            "uuid": "20ad88bf-6d62-4309-aa1d-97e5e4705dc5"
+          },
+          {
+            "group": "",
+            "title": "Central Vacuum Cleaner",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/central-vacuum-cleaner",
+            "nid": "1547901",
+            "uuid": "fcc59d94-d274-4f8b-aa9f-41c9f187a81e"
+          },
+          {
+            "group": "",
+            "title": "Cordless Vacuum Cleaner",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/cordless-vacuum-cleaner",
+            "nid": "464386",
+            "uuid": "95ae2a38-454f-4e23-a131-8a6cdc43bcd8"
+          },
+          {
+            "group": "",
+            "title": "Human Machine Interface (HMI) for Appliances",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/human-machine-interface-hmi-appliances",
+            "nid": "1305416",
+            "uuid": "68761375-1a60-47c1-903a-ebb2434fcf2c"
+          },
+          {
+            "group": "",
+            "title": "Smart Air Purifier",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-air-purifier",
+            "nid": "466551",
+            "uuid": "13c31a33-9fe3-4781-b4fb-1d28dfed5173"
+          },
+          {
+            "group": "",
+            "title": "Smart HMI System with Voice & Display Interfaces",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-hmi-system-voice-display-interfaces",
+            "nid": "1547906",
+            "uuid": "628735ca-7b52-4311-b2c3-6708a21a7e86"
+          },
+          {
+            "group": "",
+            "title": "Smart Pet Feeder",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-pet-feeder",
+            "nid": "25417971",
+            "uuid": "2eaa073a-8b6a-4b7e-a6f9-c7db549ccac2"
+          },
+          {
+            "group": "",
+            "title": "Smart Robot Vacuum Cleaner",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-robot-vacuum-cleaner",
+            "nid": "25449571",
+            "uuid": "05042a2c-74a3-437f-82e2-8a6f16804d64"
+          },
+          {
+            "group": "",
+            "title": "Smart Toilet",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-toilet",
+            "nid": "479826",
+            "uuid": "dadb698e-4645-4713-b396-7093940564b1"
+          },
+          {
+            "group": "",
+            "title": "Smart Travel Bag",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-travel-bag",
+            "nid": "25417966",
+            "uuid": "0498339b-cf2c-4c84-8030-e240c92646ad"
+          },
+          {
+            "group": "",
+            "title": "Smart Voice-Controlled Clotheshorse with Connectivity",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-voice-controlled-clotheshorse-connectivity",
+            "nid": "1199271",
+            "uuid": "32d5b613-946b-4fd1-b37f-adb90541c1c5"
+          },
+          {
+            "group": "",
+            "title": "Smart Waste Bin",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-waste-bin",
+            "nid": "1510056",
+            "uuid": "cf15ff0f-66e1-4d6f-975e-dbea0c6ee4ee"
+          },
+          {
+            "group": "",
+            "title": "Smart Water Purifier System",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-water-purifier-system",
+            "nid": "1624301",
+            "uuid": "60fc2200-e682-492d-ae6f-5ab36b2f2b36"
+          },
+          {
+            "group": "",
+            "title": "Smart Wireless Wall Clock",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/smart-wireless-wall-clock",
+            "nid": "25558766",
+            "uuid": "d9de15d9-7bdf-428e-8f7c-02c1da13dea8"
+          },
+          {
+            "group": "",
+            "title": "Tankless Gas Water Heater with Remote Control",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/tankless-gas-water-heater-remote-control",
+            "nid": "467881",
+            "uuid": "5adf309f-579f-4e7b-93a4-783e4a5af7c3"
+          },
+          {
+            "group": "",
+            "title": "Unified Speed Control Platform for BLDC Ceiling Fans",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/unified-speed-control-platform-bldc-ceiling-fans",
+            "nid": "25415141",
+            "uuid": "5d834f98-4cb1-4e50-b7aa-f6751a2b7033"
+          },
+          {
+            "group": "",
+            "title": "Waterproof Shower Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/appliances/waterproof-shower-controller",
+            "nid": "1532581",
+            "uuid": "abd16941-5863-42fe-9038-c01b8a11822f"
+          }
+        ]
+      },
+      "Building Automation": {
+        "link": "https://www.renesas.com/en/applications/industrial/building-automation",
+        "applications": [
+          {
+            "group": "Access Control",
+            "title": "Entry-Level Apple HomeKit-Ready Smart Lock",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/entry-level-apple-homekit-ready-smart-lock",
+            "nid": "25568284",
+            "uuid": "f15f0fee-f652-4c4c-8890-4e8cc98e8ad9"
+          },
+          {
+            "group": "Access Control",
+            "title": "Mid-Range CSA Aliro-Ready Smart Lock",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/mid-range-csa-aliro-ready-smart-lock",
+            "nid": "25568288",
+            "uuid": "8923160f-beef-4aa7-bb77-ace9eb6206ba"
+          },
+          {
+            "group": "",
+            "title": "Air Duct System",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/air-duct-system",
+            "nid": "1050741",
+            "uuid": "a2c7d039-5b48-460a-b473-be808029d710"
+          },
+          {
+            "group": "",
+            "title": "Air Purifier Sensor Module",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/air-purifier-sensor-module",
+            "nid": "1392201",
+            "uuid": "6e55bbd0-cdb8-4473-b0a9-2ef15fbb7059"
+          },
+          {
+            "group": "",
+            "title": "Bluetooth LE HVAC Sensor Network",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/bluetooth-le-hvac-sensor-network",
+            "nid": "1510076",
+            "uuid": "a525bb1a-94f5-4ebb-bd27-da9b2e91751c"
+          },
+          {
+            "group": "",
+            "title": "Commercial & Residential Smart Heat Pump (7kW+)",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/commercial-residential-smart-heat-pump-7kw",
+            "nid": "25460331",
+            "uuid": "8aa80b7d-a847-4f1b-87a5-2b6d2e13ade0"
+          },
+          {
+            "group": "",
+            "title": "Furnace Controller with Wi-Fi",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/furnace-controller-wi-fi",
+            "nid": "1199616",
+            "uuid": "58840eda-fc51-4d92-8e9f-eed0babc676f"
+          },
+          {
+            "group": "",
+            "title": "Heat Pump Control System",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/heat-pump-control-system",
+            "nid": "25411951",
+            "uuid": "db6da28a-afc0-422f-b99b-6198f8971762"
+          },
+          {
+            "group": "",
+            "title": "HVAC Air Quality Sensor",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/hvac-air-quality-sensor",
+            "nid": "460516",
+            "uuid": "d6bc84bf-2a26-40d3-bd08-88afc272de97"
+          },
+          {
+            "group": "",
+            "title": "HVAC Environment Monitor Module for Public Buildings",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/hvac-environment-monitor-module-public-buildings",
+            "nid": "1636626",
+            "uuid": "1ac15491-1d7c-4347-85a7-b80084ed840a"
+          },
+          {
+            "group": "",
+            "title": "IP Gateway for Automatic Home or Building HVAC System",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/ip-gateway-automatic-home-or-building-hvac-system",
+            "nid": "1333831",
+            "uuid": "3bc1676c-dc84-4b22-a90d-64e7ec2dde4b"
+          },
+          {
+            "group": "",
+            "title": "Multi-Purpose Air Quality Sensor",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/multi-purpose-air-quality-sensor",
+            "nid": "1496736",
+            "uuid": "49478e76-c92b-4a0e-bfad-42cebbca30cd"
+          },
+          {
+            "group": "",
+            "title": "Programmable Radiator Thermostat",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/programmable-radiator-thermostat",
+            "nid": "4325961",
+            "uuid": "5d85792e-6557-425a-9ced-e57b9df2475e"
+          },
+          {
+            "group": "",
+            "title": "Smart BLDC Ceiling Fan with PFC",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-bldc-ceiling-fan-pfc",
+            "nid": "1539316",
+            "uuid": "065cca9c-5c70-491f-801e-a498ddf3c0c9"
+          },
+          {
+            "group": "",
+            "title": "Smart BLDC Ventilation Fan with IAQ & Humidity Sensors",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-bldc-ventilation-fan-iaq-humidity-sensors",
+            "nid": "468816",
+            "uuid": "010c4aa8-d707-4720-ade5-25636827ddf3"
+          },
+          {
+            "group": "",
+            "title": "Smart Heat Pump",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-heat-pump",
+            "nid": "25411946",
+            "uuid": "7b975a38-91e3-4d00-bb89-1e1da1ab2933"
+          },
+          {
+            "group": "",
+            "title": "Smart Heat Pump Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-heat-pump-controller",
+            "nid": "25411906",
+            "uuid": "7c003877-decf-41a9-9cec-23094e9c4572"
+          },
+          {
+            "group": "",
+            "title": "Smart HVAC Control with Integrated Slave Actuator",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-hvac-control-integrated-slave-actuator",
+            "nid": "1333826",
+            "uuid": "d75a53b1-9dc9-41a2-9bf0-04256fdac973"
+          },
+          {
+            "group": "",
+            "title": "Smart HVAC Damper System with Environment Sensing",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-hvac-damper-system-environment-sensing",
+            "nid": "25565014",
+            "uuid": "724947dc-ee0e-4760-b8db-e3eebac2b078"
+          },
+          {
+            "group": "",
+            "title": "Smart HVAC Master Actuator",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-hvac-master-actuator",
+            "nid": "1333821",
+            "uuid": "2570201e-cb6b-4cbf-bd32-c55115bd00f8"
+          },
+          {
+            "group": "",
+            "title": "Temperature and Humidity Sensor Module with Arduino Nicla Form Factor",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/temperature-and-humidity-sensor-module-arduino-nicla-form-factor",
+            "nid": "25411896",
+            "uuid": "19009d30-32de-4f8b-b2c5-68339e944ac6"
+          },
+          {
+            "group": "",
+            "title": "Thermostat with Color Touchscreen & Cloud Connection",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/thermostat-color-touchscreen-cloud-connection",
+            "nid": "465271",
+            "uuid": "34ca8de6-fa08-4edd-a7f9-567c0fa9aa60"
+          },
+          {
+            "group": "",
+            "title": "Triac-Based Motor Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/triac-based-motor-controller",
+            "nid": "1522006",
+            "uuid": "80894779-6c70-45d7-83f4-c70065104236"
+          },
+          {
+            "group": "",
+            "title": "Cloud Gateway Module",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/cloud-gateway-module",
+            "nid": "468801",
+            "uuid": "a9bc22c2-944d-4c1c-b704-db83e30fb9d9"
+          },
+          {
+            "group": "",
+            "title": "Multi-Protocol Network System for Building Automation",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/multi-protocol-network-system-building-automation",
+            "nid": "25469951",
+            "uuid": "ea69fc71-1b40-454d-988f-006c3acc0cd2"
+          },
+          {
+            "group": "",
+            "title": "Network Gateway for Bluetooth® Low Energy Mesh",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/network-gateway-bluetooth-low-energy-mesh",
+            "nid": "1637116",
+            "uuid": "d354cd47-a913-4635-af8c-a6ad59657302"
+          },
+          {
+            "group": "",
+            "title": "AC/DC Non-Isolated Capacitive Touch Wall Switch",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/acdc-non-isolated-capacitive-touch-wall-switch",
+            "nid": "1503766",
+            "uuid": "cf3d3cc4-34fc-4084-baa8-a1d00826c000"
+          },
+          {
+            "group": "",
+            "title": "DALI RGBWW LED Driver",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/dali-rgbww-led-driver",
+            "nid": "1255226",
+            "uuid": "54e1bdf1-9eb8-473e-bfd5-2c3b0f90d3e3"
+          },
+          {
+            "group": "",
+            "title": "Dimming System for Monitors",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/dimming-system-monitors",
+            "nid": "1548066",
+            "uuid": "e088e241-c3ec-40ce-95eb-8a3ad0c20923"
+          },
+          {
+            "group": "",
+            "title": "Lighting with Air Quality Sensors",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/lighting-air-quality-sensors",
+            "nid": "1489286",
+            "uuid": "9fa61480-dea5-430d-9cce-a731a89b50ee"
+          },
+          {
+            "group": "",
+            "title": "LoRaWAN Street Light Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/lorawan-street-light-controller",
+            "nid": "25441631",
+            "uuid": "09a2ef43-0bb7-4513-ab62-8363d9cbaafb"
+          },
+          {
+            "group": "",
+            "title": "MIDI Linked Illumination Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/midi-linked-illumination-controller",
+            "nid": "25568069",
+            "uuid": "f2315efe-d473-48ab-955f-5c632cf1fb59"
+          },
+          {
+            "group": "",
+            "title": "Portable Wi-Fi Controlled RGBW Lighting",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/portable-wi-fi-controlled-rgbw-lighting",
+            "nid": "1521871",
+            "uuid": "dd0a1842-33d8-47a7-a69c-07c7e7eed2af"
+          },
+          {
+            "group": "",
+            "title": "Smart Lighting Control with RGB Light Sensor",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-lighting-control-rgb-light-sensor",
+            "nid": "470871",
+            "uuid": "656e7166-3ab3-4712-883b-e7752c270ff2"
+          },
+          {
+            "group": "",
+            "title": "Smart Voice-Controlled Room Automation",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-voice-controlled-room-automation",
+            "nid": "1466806",
+            "uuid": "02e1ccaa-e387-487a-a5b5-7781134a47e0"
+          },
+          {
+            "group": "",
+            "title": "Voice Activated DALI Lighting Controls",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/voice-activated-dali-lighting-controls",
+            "nid": "1050621",
+            "uuid": "25e25667-b8ce-41f9-a136-79e848755496"
+          },
+          {
+            "group": "",
+            "title": "Cloud-Connected Video Doorbell",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/cloud-connected-video-doorbell",
+            "nid": "1572621",
+            "uuid": "d7106087-6566-45c9-b3a5-dca14ae722fd"
+          },
+          {
+            "group": "",
+            "title": "Critical Power Monitoring System",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/critical-power-monitoring-system",
+            "nid": "1050751",
+            "uuid": "d548b232-6bc2-4872-939c-1d9c27252fc7"
+          },
+          {
+            "group": "",
+            "title": "Full-Function HMI with 4K Video Support",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/full-function-hmi-4k-video-support",
+            "nid": "466076",
+            "uuid": "87a535ed-1e83-41ff-8e47-f03540468ea1"
+          },
+          {
+            "group": "",
+            "title": "Full-function HMI with FHD Video Support",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/full-function-hmi-fhd-video-support",
+            "nid": "466071",
+            "uuid": "86275337-9177-4523-9b3d-b3c26b372340"
+          },
+          {
+            "group": "",
+            "title": "Secure Cloud & Sensor Platform",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/secure-cloud-sensor-platform",
+            "nid": "1489276",
+            "uuid": "6a7e10d2-53a0-4253-a268-c71b451c4cbb"
+          },
+          {
+            "group": "",
+            "title": "Single Board Computer Gateway",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/single-board-computer-gateway",
+            "nid": "25465301",
+            "uuid": "84c9b66d-d2dd-4236-915d-cfc45a81f67a"
+          },
+          {
+            "group": "",
+            "title": "Smart Home Controller with Multiple PHY",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-home-controller-multiple-phy",
+            "nid": "1539311",
+            "uuid": "cc8ee651-68b5-4ed3-b0db-a17e887a5e9b"
+          },
+          {
+            "group": "",
+            "title": "Smart Room Controller with DAB Audio System",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-room-controller-dab-audio-system",
+            "nid": "1522441",
+            "uuid": "9a03d934-dd58-4101-95b4-57aa2c635c90"
+          },
+          {
+            "group": "",
+            "title": "Smart Water Leak Sensor",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-water-leak-sensor",
+            "nid": "1636646",
+            "uuid": "427ab310-8d90-4090-aec8-121581db6de4"
+          },
+          {
+            "group": "",
+            "title": "Smart Water Shutdown Valve",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-water-shutdown-valve",
+            "nid": "1636641",
+            "uuid": "091cc11c-175e-43ce-b87b-a3bb676b1de5"
+          },
+          {
+            "group": "",
+            "title": "Wi-Fi Connected Garage Door Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/wi-fi-connected-garage-door-controller",
+            "nid": "25470001",
+            "uuid": "554dd5cb-dfe2-44fd-b0da-1db8b4b2f6d3"
+          },
+          {
+            "group": "",
+            "title": "Wireless Sensor Hub",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/wireless-sensor-hub",
+            "nid": "466471",
+            "uuid": "116a4550-5f3f-464c-be30-da3c4ae5ac5b"
+          },
+          {
+            "group": "",
+            "title": "Access Control System with NFC, Camera, and Capacitive Touch Authentication",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/access-control-system-nfc-camera-and-capacitive-touch-authentication",
+            "nid": "25426571",
+            "uuid": "3a40562a-2f47-4f77-983c-af9f225f278a"
+          },
+          {
+            "group": "",
+            "title": "Access Control with Body Temperature Measurement",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/access-control-body-temperature-measurement",
+            "nid": "1255206",
+            "uuid": "53240b8a-d372-4d41-aba5-7176359fbbc8"
+          },
+          {
+            "group": "",
+            "title": "Edge Computing for Security Systems",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/edge-computing-security-systems",
+            "nid": "466056",
+            "uuid": "b83e4aa1-d201-4c6c-b0fa-ec29f0422305"
+          },
+          {
+            "group": "",
+            "title": "Electronic Lock with Fingerprint Identification",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/electronic-lock-fingerprint-identification",
+            "nid": "465266",
+            "uuid": "9a0d10fd-12d4-4656-9180-00142e7ab6da"
+          },
+          {
+            "group": "",
+            "title": "Flammable Gas Leakage Detector",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/flammable-gas-leakage-detector",
+            "nid": "1522486",
+            "uuid": "9f9742e0-5b30-48f8-8a8d-a1c21a50670c"
+          },
+          {
+            "group": "",
+            "title": "Household Smoke Detector",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/household-smoke-detector",
+            "nid": "1510066",
+            "uuid": "228146ad-d701-4ada-ad47-62dccc31a795"
+          },
+          {
+            "group": "",
+            "title": "Iris Scanning Security System",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/iris-scanning-security-system",
+            "nid": "1396886",
+            "uuid": "28ea8e48-c347-4c28-8ce4-ae5cbc82bfe0"
+          },
+          {
+            "group": "",
+            "title": "Motion Sensor Module",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/motion-sensor-module",
+            "nid": "25419071",
+            "uuid": "bae469e4-ed7f-48a2-a3c3-1f776d845a8b"
+          },
+          {
+            "group": "",
+            "title": "Residential AFCI Circuit Breaker",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/residential-afci-circuit-breaker",
+            "nid": "25546831",
+            "uuid": "faa28e5a-58d6-43ec-ac46-7699dc0cbdfb"
+          },
+          {
+            "group": "",
+            "title": "Smart Home LPG Cylinder Monitor",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-home-lpg-cylinder-monitor",
+            "nid": "1510016",
+            "uuid": "30b2c7ea-931c-4674-8f90-6f1410f0f8eb"
+          },
+          {
+            "group": "",
+            "title": "Smart Industrial Gas Alarm",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-industrial-gas-alarm",
+            "nid": "1510021",
+            "uuid": "f6d9436d-76b2-4d7e-b05b-cea7f923fb3f"
+          },
+          {
+            "group": "",
+            "title": "Smart Lock with Super Low Power Wi-Fi & Bluetooth Low Energy",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-lock-super-low-power-wi-fi-bluetooth-low-energy",
+            "nid": "1521426",
+            "uuid": "5ac348b1-168f-4675-9bc7-1857baf0bcdb"
+          },
+          {
+            "group": "",
+            "title": "Smart Wireless Door Lock",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smart-wireless-door-lock",
+            "nid": "25445566",
+            "uuid": "c21189b9-4376-45c6-9644-2a98845b1b9b"
+          },
+          {
+            "group": "",
+            "title": "Smoke Detector for Commercial Buildings",
+            "link": "https://www.renesas.com/en/applications/industrial/building-automation/smoke-detector-commercial-buildings",
+            "nid": "25469956",
+            "uuid": "eb2fffad-62c3-48bb-a3bb-9aeedb8bd72b"
+          }
+        ]
+      },
+      "Industrial Automation": {
+        "link": "https://www.renesas.com/en/applications/industrial/industrial-automation",
+        "applications": [
+          {
+            "group": "Asset Tracking",
+            "title": "Active Tracking Module",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/active-tracking-module",
+            "nid": "25435561",
+            "uuid": "06df455c-dfa5-48bd-ba7e-8d997e2eb534"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Bluetooth Low Energy Tags for Crowdsourced Location Tracking",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/bluetooth-low-energy-tags-crowdsourced-location-tracking",
+            "nid": "25566664",
+            "uuid": "f48dc307-5cee-4e26-89d2-e14cd80ee87b"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Fleet Tracking",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/fleet-tracking",
+            "nid": "466476",
+            "uuid": "46f51632-4144-41b7-b749-7b8dae224148"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Industrial Barcode Scanner",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-barcode-scanner",
+            "nid": "466046",
+            "uuid": "1faedc19-d519-4b1f-a491-24b2a661bdc2"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "IoT Cold Chain Monitoring",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/iot-cold-chain-monitoring",
+            "nid": "1573381",
+            "uuid": "3200c3c6-b172-4d07-bf47-82b456a62f77"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Off-road GPS Guidance System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/road-gps-guidance-system",
+            "nid": "25460346",
+            "uuid": "4db1f58e-57cf-4a7c-88e6-f80c34b37749"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Portable Thermal Printer​",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/portable-thermal-printer",
+            "nid": "25566615",
+            "uuid": "11f014ab-7da4-42de-adc4-d70d2228f1ea"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Remote Predictive Maintenance System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/remote-predictive-maintenance-system",
+            "nid": "25419056",
+            "uuid": "b509fcea-76a2-4dcd-abe5-2fc5acaae60a"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Smart Asset Tracking Label",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/smart-asset-tracking-label",
+            "nid": "1521451",
+            "uuid": "c1f961b4-3b15-4fce-9732-2ea161e4bab6"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Smart Collar for Livestock Tracking and Monitoring",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/smart-collar-livestock-tracking-and-monitoring",
+            "nid": "25411661",
+            "uuid": "e9d6683e-8f8d-4e7c-8d5d-77a60e2ab632"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Trackable Cold Chain Management",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/trackable-cold-chain-management",
+            "nid": "25469961",
+            "uuid": "6eca215b-d897-43c4-a7ee-5743a22b35c4"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Universal Bluetooth Low Energy Angle of Arrival Locator for Asset Tracking",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/universal-bluetooth-low-energy-angle-arrival-locator-asset-tracking",
+            "nid": "25565636",
+            "uuid": "9e03b7c8-2426-4ffd-8461-2eb85c746fdc"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Waste Collection Fleet Management System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/waste-collection-fleet-management-system",
+            "nid": "25435566",
+            "uuid": "f9e01bd4-54e9-4ba0-a0bb-519a8c646219"
+          },
+          {
+            "group": "Asset Tracking",
+            "title": "Watercraft Emergency Broadcast System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/watercraft-emergency-broadcast-system",
+            "nid": "466556",
+            "uuid": "e92420d1-890c-43b0-8387-bfa80e605a2d"
+          },
+          {
+            "group": "",
+            "title": "HMI SoM with AI Accelerator",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/hmi-som-ai-accelerator",
+            "nid": "1510686",
+            "uuid": "eea5f135-a773-497c-aed9-284e5ef1177d"
+          },
+          {
+            "group": "",
+            "title": "Multi-Display HMI SoM",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/multi-display-hmi-som",
+            "nid": "467061",
+            "uuid": "439bfca5-1593-4b81-a4f3-dfb6d86052b0"
+          },
+          {
+            "group": "",
+            "title": "Printer Control Panel with NFC Authentication",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/printer-control-panel-nfc-authentication",
+            "nid": "25427266",
+            "uuid": "bb5b368e-26f0-4e4b-8e3b-3ad29eda1a62"
+          },
+          {
+            "group": "",
+            "title": "RTOS-Based RZ/A3UL HMI SMARC SoM",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/rtos-based-rza3ul-hmi-smarc-som",
+            "nid": "1624351",
+            "uuid": "259b45a1-b709-42c6-8762-05f600a12e51"
+          },
+          {
+            "group": "",
+            "title": "Scalable HMI SMARC SoM with AI",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/scalable-hmi-smarc-som-ai",
+            "nid": "1396961",
+            "uuid": "c0c6c68c-870f-49b1-8e3b-760bf9f84f02"
+          },
+          {
+            "group": "",
+            "title": "Touchless Button",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/touchless-button",
+            "nid": "1489266",
+            "uuid": "b975aab4-25b4-4830-8c69-a936bc77ceda"
+          },
+          {
+            "group": "",
+            "title": "Ultra-Small USB Fingerprint Authentication Module",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/ultra-small-usb-fingerprint-authentication-module",
+            "nid": "1521996",
+            "uuid": "764b7fe8-0ac4-47d0-8375-f4c49c0d77f5"
+          },
+          {
+            "group": "",
+            "title": "4-20mA Current Loop Receiver",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/4-20ma-current-loop-receiver",
+            "nid": "470516",
+            "uuid": "9dcc2939-621e-4e56-8d96-dc57b6e53de7"
+          },
+          {
+            "group": "",
+            "title": "4-20mA Current Loop Transmitter",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/4-20ma-current-loop-transmitter",
+            "nid": "468866",
+            "uuid": "b7831b07-3395-48f9-b8c3-797b8faf1d8d"
+          },
+          {
+            "group": "",
+            "title": "CC-Link IE TSN",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/cc-link-ie-tsn",
+            "nid": "1255232",
+            "uuid": "631ee148-5e85-4146-82ad-4a99b1203ca3"
+          },
+          {
+            "group": "",
+            "title": "Industrial Automation System with Industrial Ethernet Module",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-automation-system-industrial-ethernet-module",
+            "nid": "1607926",
+            "uuid": "1aea165c-48b4-4c8c-bc35-291d5020ad2e"
+          },
+          {
+            "group": "",
+            "title": "Industrial CAN Sensor Network",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-can-sensor-network",
+            "nid": "1466821",
+            "uuid": "0e041ec7-5b5a-40ff-b7f6-8f7cbeaa46e0"
+          },
+          {
+            "group": "",
+            "title": "Industrial Ethernet Multi-Sensor Module",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-ethernet-multi-sensor-module",
+            "nid": "470886",
+            "uuid": "f58ead1f-719e-4cdb-a2ca-380095fa2515"
+          },
+          {
+            "group": "",
+            "title": "IO-Link Master",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/io-link-master",
+            "nid": "1522476",
+            "uuid": "5ec99702-42a5-4aba-8b70-b393805bdb4c"
+          },
+          {
+            "group": "",
+            "title": "Low-Cost Real-Time Industrial Ethernet Switch",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/low-cost-real-time-industrial-ethernet-switch",
+            "nid": "466086",
+            "uuid": "b1160a98-d651-4e86-9968-5d7fd184a17d"
+          },
+          {
+            "group": "",
+            "title": "Modbus ASCII/RTU Slave Board",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/modbus-asciirtu-slave-board",
+            "nid": "1050731",
+            "uuid": "e61caf45-3fb8-442e-a9f3-614fc5ed5eef"
+          },
+          {
+            "group": "",
+            "title": "Multi-Protocol Industrial Ethernet Switch",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/multi-protocol-industrial-ethernet-switch",
+            "nid": "466081",
+            "uuid": "f63f2ba8-824b-4a9a-a32a-39f19f3e5153"
+          },
+          {
+            "group": "",
+            "title": "Multi-Sensor Platform for ASi-5",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/multi-sensor-platform-asi-5",
+            "nid": "467921",
+            "uuid": "4122a3a0-b011-4cc3-b3e9-16a0584720b3"
+          },
+          {
+            "group": "",
+            "title": "Over-The-Air Update Module for PLC Applications",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/over-air-update-module-plc-applications",
+            "nid": "466571",
+            "uuid": "eb18c650-4f19-4c5c-98ee-ec890a50da8e"
+          },
+          {
+            "group": "",
+            "title": "Scalable SMARC 2.1 Gateway SoM with RISC-V MPU",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/scalable-smarc-21-gateway-som-risc-v-mpu",
+            "nid": "1582311",
+            "uuid": "5b739611-935b-4923-bf4d-3b6702850762"
+          },
+          {
+            "group": "",
+            "title": "SMARC System for Single-Core Cortex®-A55 MPU",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/smarc-system-single-core-cortex-a55-mpu",
+            "nid": "1544641",
+            "uuid": "bf0ebf79-4777-4d42-be0e-3e7ab6595f6a"
+          },
+          {
+            "group": "",
+            "title": "Tiny Flexible System-on-Module (SoM)",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/tiny-flexible-system-module-som",
+            "nid": "1630866",
+            "uuid": "2657a297-c779-411b-a142-d9d1b5c185ac"
+          },
+          {
+            "group": "",
+            "title": "USB IO-Link Master",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/usb-io-link-master",
+            "nid": "25445571",
+            "uuid": "76084016-a057-4d6d-8c45-a215f365e21b"
+          },
+          {
+            "group": "",
+            "title": "Wi-SUN FAN-Based High Output Sub-GHz Wireless Communication",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/wi-sun-fan-based-high-output-sub-ghz-wireless-communication",
+            "nid": "1496731",
+            "uuid": "3d16d9f1-6706-4f21-8904-73c024478e50"
+          },
+          {
+            "group": "",
+            "title": "Elevator Control System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/elevator-control-system",
+            "nid": "1607911",
+            "uuid": "e599109a-ed1b-4012-97f4-6d471410b950"
+          },
+          {
+            "group": "",
+            "title": "Embedded Programmable Logic Controller (PLC) for Industrial Use",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/embedded-programmable-logic-controller-plc-industrial-use",
+            "nid": "1532556",
+            "uuid": "26e0d8fa-e7b2-4704-8d7b-8d9f5c2d3777"
+          },
+          {
+            "group": "",
+            "title": "Functional Safety Network with Safety Drive System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/functional-safety-network-safety-drive-system",
+            "nid": "1305441",
+            "uuid": "3ceb64c1-9af7-4bf6-b6e8-f22126f1f0a9"
+          },
+          {
+            "group": "",
+            "title": "High-Precision Peltier Cooler System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/high-precision-peltier-cooler-system",
+            "nid": "1469966",
+            "uuid": "09a2dd20-f170-44aa-8089-e6b639d25212"
+          },
+          {
+            "group": "",
+            "title": "Industrial Automation Platform with Arm Cortex-A53",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-automation-platform-arm-cortex-a53",
+            "nid": "1523901",
+            "uuid": "23271432-8d6c-402f-b9d7-ae5ad84d7b66"
+          },
+          {
+            "group": "",
+            "title": "Industrial Gateway with Wi-Fi 6",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-gateway-wi-fi-6",
+            "nid": "1595156",
+            "uuid": "efdf83e3-88a3-4ec0-bec1-a688e37c2d58"
+          },
+          {
+            "group": "",
+            "title": "Industrial Pressure Control System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-pressure-control-system",
+            "nid": "25456501",
+            "uuid": "53baae81-4ff4-4aaa-9db7-2f01ce56ca28"
+          },
+          {
+            "group": "",
+            "title": "Mass Flow Controller with EtherCAT & CAN Connectivity",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/mass-flow-controller-ethercat-can-connectivity",
+            "nid": "1199281",
+            "uuid": "12c54b4e-a574-4ad7-8096-2c5a7c7e9d6e"
+          },
+          {
+            "group": "",
+            "title": "MCU-Based 6-Channel Power Sequencer",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/mcu-based-6-channel-power-sequencer",
+            "nid": "1517401",
+            "uuid": "db4304c3-4e63-4b5b-9c0c-e0316b3e848a"
+          },
+          {
+            "group": "",
+            "title": "Peltier Cooling and Heating Vests",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/peltier-cooling-and-heating-vests",
+            "nid": "25458396",
+            "uuid": "d2062484-6212-4fa7-b2da-325b88b942cd"
+          },
+          {
+            "group": "",
+            "title": "Power Sequencer & I/O Expander for Printers (PPC/MFP)",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/smart-io-expander-printer-ppc-mfp",
+            "nid": "25564143",
+            "uuid": "9c58a320-6825-409e-8bd2-db941f911fa4"
+          },
+          {
+            "group": "",
+            "title": "Precision TIG Welding Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/precision-tig-welding-controller",
+            "nid": "1521886",
+            "uuid": "2459bd35-2e40-463e-b6bc-f53205847c02"
+          },
+          {
+            "group": "",
+            "title": "Smart Terminal Backup Power System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/smart-terminal-backup-power-system",
+            "nid": "1396941",
+            "uuid": "04427286-6d29-41fd-ab28-d693cda9853d"
+          },
+          {
+            "group": "",
+            "title": "Smart Water Actuator",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/smart-water-actuator",
+            "nid": "25458156",
+            "uuid": "c1367a1f-f5c9-4b5f-bfea-58611feec217"
+          },
+          {
+            "group": "",
+            "title": "Torque Control System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/torque-control-system",
+            "nid": "25429701",
+            "uuid": "9f3d5ad4-8800-4c05-90a1-0fd72b06ef89"
+          },
+          {
+            "group": "",
+            "title": "Automated Optical Inspection (AOI)",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/automated-optical-inspection-aoi",
+            "nid": "1595191",
+            "uuid": "98d8684f-d306-4362-990f-a3073572b4d4"
+          },
+          {
+            "group": "",
+            "title": "Current Loop Communication with AnalogPAK",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/current-loop-communication-analogpak",
+            "nid": "25567529",
+            "uuid": "a7260c7d-690d-45db-b9c2-04251ebf5804"
+          },
+          {
+            "group": "",
+            "title": "Digital Illuminometer",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/digital-illuminometer",
+            "nid": "467036",
+            "uuid": "e64fdd7c-e66d-4cd1-8dfe-f5313ac75d59"
+          },
+          {
+            "group": "",
+            "title": "Force Sensor Solution",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/force-sensor-solution",
+            "nid": "25429696",
+            "uuid": "fffec87d-bfb5-4009-b715-90b52b9e724c"
+          },
+          {
+            "group": "",
+            "title": "Handheld High Accuracy Time-of-Flight (ToF) Distance Detector",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/handheld-high-accuracy-time-flight-tof-distance-detector",
+            "nid": "466531",
+            "uuid": "0bd31385-7c0b-4505-bd86-fedf4b5efcd4"
+          },
+          {
+            "group": "",
+            "title": "High-Speed Image Processing Module with DRP",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/high-speed-image-processing-module-drp",
+            "nid": "479836",
+            "uuid": "c5a88f0c-43a3-4470-9af0-bbda89f05731"
+          },
+          {
+            "group": "",
+            "title": "Industrial Ether Connectable IoT Sensor Hub",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-ether-connectable-iot-sensor-hub",
+            "nid": "1305401",
+            "uuid": "c9f6e323-cb8e-449f-ae00-aec6f384ab63"
+          },
+          {
+            "group": "",
+            "title": "Industrial Ethernet Connected Sensor",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-ethernet-connected-sensor",
+            "nid": "1517406",
+            "uuid": "df2de40a-d31e-498a-b730-8feb1c7d0d28"
+          },
+          {
+            "group": "",
+            "title": "Industrial IoT Gateway with Multiple PHY",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-iot-gateway-multiple-phy",
+            "nid": "25547641",
+            "uuid": "7c9e20be-bfd4-4885-a903-32423847e1a9"
+          },
+          {
+            "group": "",
+            "title": "Industrial Precision Temperature Control",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-precision-temperature-control",
+            "nid": "1199641",
+            "uuid": "96be8aa2-09ed-4a2f-827b-1e6bc748cc49"
+          },
+          {
+            "group": "",
+            "title": "Industrial Sensing with IO-Link Interface",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-sensing-io-link-interface",
+            "nid": "460501",
+            "uuid": "3f06c1e1-462e-41ea-8426-1d28f4cf35da"
+          },
+          {
+            "group": "",
+            "title": "Industrial Sensor Network",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/industrial-sensor-network",
+            "nid": "1255236",
+            "uuid": "caaed2d6-f7cd-4a3f-abd5-ba8cb0ad8f69"
+          },
+          {
+            "group": "",
+            "title": "IO-Link Enabled Sensor System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/io-link-enabled-sensor-system",
+            "nid": "465256",
+            "uuid": "35f2f863-babf-432c-93dc-58f85540da51"
+          },
+          {
+            "group": "",
+            "title": "IO-Link Sensors",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/io-link-sensors",
+            "nid": "1544601",
+            "uuid": "ea11363a-3ad0-462a-b309-9b68aa204e70"
+          },
+          {
+            "group": "",
+            "title": "IoT Remote Sensing System",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/iot-remote-sensing-system",
+            "nid": "464726",
+            "uuid": "01643997-6c24-4af1-94ac-cbfeaf6d19c8"
+          },
+          {
+            "group": "",
+            "title": "IoT Sensor Board with Machine Learning & Bluetooth Low Energy",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/iot-sensor-board-machine-learning-bluetooth-low-energy",
+            "nid": "1305446",
+            "uuid": "94d4fd6b-0aa7-48a5-9758-fa415b28c946"
+          },
+          {
+            "group": "",
+            "title": "Precision Weight Scale (Scale-IT)",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/precision-weight-scale-scale-it",
+            "nid": "1496726",
+            "uuid": "4f8f4038-184a-4be4-8294-ebaf6d31401e"
+          },
+          {
+            "group": "",
+            "title": "Smart Industrial Weight Scale",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/smart-industrial-weight-scale",
+            "nid": "466526",
+            "uuid": "f36ae229-5f21-4953-97f3-6e163e033873"
+          },
+          {
+            "group": "",
+            "title": "Smart ToF-Based Rangefinder with Mobile App",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/smart-tof-based-rangefinder-mobile-app",
+            "nid": "467906",
+            "uuid": "619a3f96-b1d0-4383-b03c-2b55bc7f500e"
+          },
+          {
+            "group": "",
+            "title": "Smart Water Sensor",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/smart-water-sensor",
+            "nid": "25458161",
+            "uuid": "ac2cc41f-2b5e-483e-a214-1518dba526c0"
+          },
+          {
+            "group": "",
+            "title": "Time of Flight (ToF) Sensor Module",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/time-flight-tof-sensor-module",
+            "nid": "479941",
+            "uuid": "12650bc3-8504-41d9-bee9-fd3bc6361808"
+          },
+          {
+            "group": "",
+            "title": "Universal USB Converter for USB-UART, USB-I2C, USB-I3C",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/universal-usb-converter-usb-uart-usb-i2c-usb-i3c",
+            "nid": "25543676",
+            "uuid": "757df6bf-0241-41f1-9177-894b295da4ce"
+          },
+          {
+            "group": "",
+            "title": "Wireless Multi-Channel Isolated Data Logger",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/wireless-multi-channel-isolated-data-logger",
+            "nid": "1631036",
+            "uuid": "c5b79486-7c43-4686-b1ed-d0b78e9fcf03"
+          },
+          {
+            "group": "",
+            "title": "Wireless Pressure Sensor",
+            "link": "https://www.renesas.com/en/applications/industrial/industrial-automation/wireless-pressure-sensor",
+            "nid": "25415161",
+            "uuid": "a4911abd-2479-4c69-9644-8a72502258e2"
+          }
+        ]
+      },
+      "Medical & Healthcare": {
+        "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare",
+        "applications": [
+          {
+            "group": "Home Healthcare",
+            "title": "Blood Glucose Meter",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/blood-glucose-meter",
+            "nid": "465251",
+            "uuid": "4886277d-d249-4b21-99c8-ac9f8beed25a"
+          },
+          {
+            "group": "Home Healthcare",
+            "title": "Contactless IR Thermometer",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/contactless-ir-thermometer",
+            "nid": "1255227",
+            "uuid": "c5e04a68-f256-4a80-98d6-722a55cb1d44"
+          },
+          {
+            "group": "Home Healthcare",
+            "title": "Continuous Glucose Monitor (CGM) for Closed-Loop Operation with Insulin Pump",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/continuous-glucose-monitor-cgm-closed-loop-operation-insulin-pump",
+            "nid": "25547631",
+            "uuid": "117bf590-50f8-49d4-89e3-682ef01f8e41"
+          },
+          {
+            "group": "Home Healthcare",
+            "title": "Insulin Pump with Closed Loop Operation for Continuous Glucose Monitoring (CGM)",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/insulin-pump-closed-loop-operation-continuous-glucose-monitoring-cgm",
+            "nid": "25547636",
+            "uuid": "1af9b73c-9fe1-4616-a0be-b3da1e38b953"
+          },
+          {
+            "group": "Home Healthcare",
+            "title": "Oxygen Concentrator Controller with Smart Connectivity",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/oxygen-concentrator-controller-smart-connectivity",
+            "nid": "1521876",
+            "uuid": "0f9e706a-915f-4faf-9c72-2215e61ea890"
+          },
+          {
+            "group": "Home Healthcare",
+            "title": "Personal Blood Glucose Monitor",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/personal-blood-glucose-monitor",
+            "nid": "466541",
+            "uuid": "800dfe78-40aa-4824-bf46-0b928ffbc550"
+          },
+          {
+            "group": "Home Healthcare",
+            "title": "Portable Health Monitoring Device",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/portable-health-monitoring-device",
+            "nid": "4226386",
+            "uuid": "bb84ec42-99a4-4261-b8aa-3682feec5e80"
+          },
+          {
+            "group": "Home Healthcare",
+            "title": "Portable Ultraviolet Disinfector",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/portable-ultraviolet-disinfector",
+            "nid": "1532576",
+            "uuid": "522774ad-214e-4836-a102-871679846615"
+          },
+          {
+            "group": "Home Healthcare",
+            "title": "Smart Cradle",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/smart-cradle",
+            "nid": "25570324",
+            "uuid": "5130861c-230e-4fac-bc44-5c9cf9e220ca"
+          },
+          {
+            "group": "Home Healthcare",
+            "title": "Wireless Bathroom Weighing Scale",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/wireless-bathroom-weighing-scale",
+            "nid": "1548051",
+            "uuid": "a7d4aad9-52cb-4826-97f4-7ed54231c69c"
+          },
+          {
+            "group": "",
+            "title": "Highly Secure Drug Delivery System with NFC Authentication and Rich Connectivity",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/highly-secure-drug-delivery-system-nfc-authentication-and-rich-connectivity",
+            "nid": "25554686",
+            "uuid": "a3e364aa-07c2-4f92-aa29-8f33a1515fa8"
+          },
+          {
+            "group": "",
+            "title": "IoT Communications Gateway Hub",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/iot-communications-gateway-hub",
+            "nid": "1539336",
+            "uuid": "003bfede-7a44-4fb3-a0c2-e35767c5d664"
+          },
+          {
+            "group": "",
+            "title": "Medical Patch",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/medical-patch",
+            "nid": "1469971",
+            "uuid": "874aa2d1-c96d-4eaa-ba20-5421d92f3c85"
+          },
+          {
+            "group": "",
+            "title": "Smart Diaper Odor Detector",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/smart-diaper-odor-detector",
+            "nid": "467041",
+            "uuid": "0474f448-a4d8-44dc-92dd-669fa59e112c"
+          },
+          {
+            "group": "",
+            "title": "Drug Delivery with ISO 12207 Software",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/drug-delivery-iso-12207-software",
+            "nid": "488451",
+            "uuid": "0add4f4d-d49b-413c-90cf-d8ffcf529199"
+          },
+          {
+            "group": "",
+            "title": "Electronic Drug Delivery System",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/electronic-drug-delivery-system",
+            "nid": "467916",
+            "uuid": "c5532572-7d92-4b79-acf5-6c37880b2535"
+          },
+          {
+            "group": "",
+            "title": "Infusion Level Monitor Using Capacitive Touch Sensing",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/infusion-level-monitor-using-capacitive-touch-sensing",
+            "nid": "1615026",
+            "uuid": "7c078509-7679-456e-8aed-532d67888c9e"
+          },
+          {
+            "group": "",
+            "title": "Infusion Pump",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/infusion-pump",
+            "nid": "1601021",
+            "uuid": "428adf14-7fe0-4784-852b-63bae468e0b5"
+          },
+          {
+            "group": "",
+            "title": "IR Contactless Thermometer",
+            "link": "https://www.renesas.com/en/applications/industrial/medical-healthcare/ir-contactless-thermometer",
+            "nid": "479831",
+            "uuid": "b1caebb8-16b8-4cf9-aba4-49b5c48964ba"
+          }
+        ]
+      },
+      "Metering": {
+        "link": "https://www.renesas.com/en/applications/industrial/metering",
+        "applications": [
+          {
+            "group": "Electricity Meter",
+            "title": "1-Phase Power Meter",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/1-phase-power-meter",
+            "nid": "1570011",
+            "uuid": "d8725e68-79f4-4fc0-a790-8670a83155bd"
+          },
+          {
+            "group": "Electricity Meter",
+            "title": "1-Phase Static Meter",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/1-phase-static-meter",
+            "nid": "1392181",
+            "uuid": "3904f325-713e-4bce-8237-694c7c0ce47b"
+          },
+          {
+            "group": "Electricity Meter",
+            "title": "Power System for Smart Power Meter with 4G Module",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/power-system-smart-power-meter-4g-module",
+            "nid": "1305396",
+            "uuid": "4b44a51a-dd88-4a7d-bf94-8a7eec30a2fd"
+          },
+          {
+            "group": "Electricity Meter",
+            "title": "Smart 1-Ph E-Meter",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/smart-1-ph-e-meter",
+            "nid": "1050676",
+            "uuid": "efa0efc8-a146-4a81-9de0-ebccdce4b3e3"
+          },
+          {
+            "group": "Electricity Meter",
+            "title": "Smart 3-Ph E-Meter",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/smart-3-ph-e-meter",
+            "nid": "1050686",
+            "uuid": "c7e76cf6-24d2-432e-a563-4560c65f6d54"
+          },
+          {
+            "group": "Electricity Meter",
+            "title": "Sub-GHz Radio for Meter AMR Applications",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/sub-ghz-radio-meter-amr-applications",
+            "nid": "464736",
+            "uuid": "a37295ca-7132-4b01-bdd2-5ae1e9fd421c"
+          },
+          {
+            "group": "",
+            "title": "Automated Meter Reader (AMR) Retrofit Module",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/automated-meter-reader-amr-retrofit-module",
+            "nid": "467901",
+            "uuid": "afa39df8-78d3-4fce-8092-a67b32949c98"
+          },
+          {
+            "group": "",
+            "title": "Electronic Valve with Flow Meter",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/electronic-valve-flow-meter",
+            "nid": "464701",
+            "uuid": "82009ac0-ebdf-414a-ae1d-a34927879886"
+          },
+          {
+            "group": "",
+            "title": "LoRaWAN Gas Meter",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/lorawan-gas-meter",
+            "nid": "1466816",
+            "uuid": "7268a242-c7d9-451d-864c-43314318430e"
+          },
+          {
+            "group": "",
+            "title": "Magnetic Flow Meter",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/magnetic-flow-meter",
+            "nid": "25542056",
+            "uuid": "bde92643-e38a-4917-882a-fd3545d20d59"
+          },
+          {
+            "group": "",
+            "title": "TMR Sensor-Based Flow Meter",
+            "link": "https://www.renesas.com/en/applications/industrial/metering/tmr-sensor-based-flow-meter",
+            "nid": "470881",
+            "uuid": "1e7339ee-07a7-4583-8372-66e5d7e1fec0"
+          }
+        ]
+      },
+      "Motor Drives & Robotics": {
+        "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics",
+        "applications": [
+          {
+            "group": "AC Drive",
+            "title": "1.2kW High-Voltage GaN Inverter",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/1-2kw-high-voltage-inverter-gan-based-power-factor-correction-pfc",
+            "nid": "25556086",
+            "uuid": "c792b31a-5955-4556-b90a-d1ad75b787f2"
+          },
+          {
+            "group": "AC Drive",
+            "title": "240V AC-Input BLDC Motor Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/240v-ac-input-bldc-motor-controller",
+            "nid": "1631031",
+            "uuid": "5a8958e6-dce3-48db-b7cc-10d4ef133bf7"
+          },
+          {
+            "group": "AC Drive",
+            "title": "3-Phase RISC-V Motor Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/3-phase-risc-v-motor-controller",
+            "nid": "1630236",
+            "uuid": "ff9d2d74-2f59-4a17-9219-7202b0d0b914"
+          },
+          {
+            "group": "AC Drive",
+            "title": "36V/144W BLDC Motor Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/36v-144w-field-oriented-control-foc-controller-bldc-motors",
+            "nid": "1469961",
+            "uuid": "ac1b8ac1-cda2-4ba2-87ae-cb494fcb4605"
+          },
+          {
+            "group": "AC Drive",
+            "title": "400V/2kW Synchronous Motor Controller with HMI Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/400v2kw-synchronous-motor-controller-hmi-controller",
+            "nid": "5530181",
+            "uuid": "2baebc4a-e35f-471a-b85a-d3477b8964fb"
+          },
+          {
+            "group": "AC Drive",
+            "title": "48V BLDC Motor Position Control",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/48v-bldc-motor-position-control",
+            "nid": "464371",
+            "uuid": "a5f68b45-494a-44cf-b247-4fd41eb76bd7"
+          },
+          {
+            "group": "AC Drive",
+            "title": "Absolute Inductive Position Sensor",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/absolute-inductive-position-sensor",
+            "nid": "1607916",
+            "uuid": "7053129d-e975-4eee-a81b-59233704ec35"
+          },
+          {
+            "group": "AC Drive",
+            "title": "AC Drive & General Purpose Inverter System",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/ac-drive-general-purpose-inverter-system",
+            "nid": "1392186",
+            "uuid": "e73ce170-35b3-4283-94af-8c03a15f44e0"
+          },
+          {
+            "group": "AC Drive",
+            "title": "BLDC Traction Motor Drive",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/bldc-traction-motor-drive",
+            "nid": "1548036",
+            "uuid": "787f58ee-777e-49dc-8f1a-bebb3fcf4c84"
+          },
+          {
+            "group": "AC Drive",
+            "title": "High-Power 10.5kW Motor Control",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/high-power-105kw-motor-control",
+            "nid": "25469926",
+            "uuid": "215ad708-3685-4cb4-8227-a594859c64bb"
+          },
+          {
+            "group": "",
+            "title": "9-Axis Industrial Motor Control with Ethernet",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/9-axis-industrial-motor-control-ethernet",
+            "nid": "25567974",
+            "uuid": "e9d7c6be-e45a-4636-b7dd-41cce925e9b1"
+          },
+          {
+            "group": "",
+            "title": "High-Performance Vision AI System",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/high-performance-vision-ai-system",
+            "nid": "25546826",
+            "uuid": "8d7571b1-b347-4a3d-9169-5d9aac11d80c"
+          },
+          {
+            "group": "",
+            "title": "Resolver Motor Control for Small Industrial Robots",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/resolver-motor-control-small-industrial-robots",
+            "nid": "1392191",
+            "uuid": "5ce124c1-8d21-41ac-a27d-7894669cb926"
+          },
+          {
+            "group": "",
+            "title": "Robot Controller with Image Processing RTOS MPU",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/robot-controller-image-processing-rtos-mpu",
+            "nid": "467926",
+            "uuid": "5c048a5a-bde7-4100-a0d1-6a1a21dae8d0"
+          },
+          {
+            "group": "",
+            "title": "ROS Body Controller for Robotic Systems",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/ros-body-controller-robotic-systems",
+            "nid": "1522001",
+            "uuid": "6c0f93df-12a7-4bb0-8850-7ab2879c9785"
+          },
+          {
+            "group": "",
+            "title": "AC Servo",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/ac-servo",
+            "nid": "466041",
+            "uuid": "ec61249c-f638-4128-b84f-401199547472"
+          },
+          {
+            "group": "",
+            "title": "High-Performance Power Platform for MPUs",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/high-performance-power-platform-mpus",
+            "nid": "4322401",
+            "uuid": "95944a61-9bb9-4cfa-ae8a-af2919ac593c"
+          },
+          {
+            "group": "",
+            "title": "Motor Control System with Industrial Network and Functional Safety",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/motor-control-system-industrial-network-and-functional-safety",
+            "nid": "1595041",
+            "uuid": "7274f5f0-5f2d-41d2-93b6-f2a4317a084d"
+          },
+          {
+            "group": "",
+            "title": "Motor Control with Resolver",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/motor-control-resolver",
+            "nid": "1602396",
+            "uuid": "2ce6e5d4-1fd0-4489-873d-68d6a6ce4752"
+          },
+          {
+            "group": "",
+            "title": "Servo Motor Control for Robot Limbs",
+            "link": "https://www.renesas.com/en/applications/industrial/motor-drives-robotics/servo-motor-control-robot-limbs",
+            "nid": "4329526",
+            "uuid": "5ce99518-59ff-48d9-821d-e97c3f198be5"
+          }
+        ]
+      },
+      "Renewable Energy & Grid": {
+        "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid",
+        "applications": [
+          {
+            "group": "Battery Management Systems",
+            "title": "20-28 Cell Battery Pack (Up to 118V)",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/20-28-cell-battery-pack-118v",
+            "nid": "1533076",
+            "uuid": "83aa2e63-771e-4930-be20-515cadafa3fa"
+          },
+          {
+            "group": "Battery Management Systems",
+            "title": "Active Cell Balancing Module for Low Voltage Battery Packs",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/active-cell-balancing-module-low-voltage-battery-packs",
+            "nid": "25435576",
+            "uuid": "8992f266-78d4-42ff-ab82-6e8899aa698d"
+          },
+          {
+            "group": "Battery Management Systems",
+            "title": "Battery Management System with Life Indicator for Battery Packs",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/battery-management-system-life-indicator-battery-packs",
+            "nid": "479816",
+            "uuid": "a49199e0-ea87-4a9c-9413-02d1bac3dd6c"
+          },
+          {
+            "group": "",
+            "title": "500W Onboard Battery Charger for 2-Wheeler EV",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/500w-onboard-battery-charger-2-wheeler-ev",
+            "nid": "25556076",
+            "uuid": "88cbd61f-d636-40fa-bf46-979768f73e58"
+          },
+          {
+            "group": "",
+            "title": "Bi-directional Digital Power System",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/bi-directional-digital-power-system",
+            "nid": "1636946",
+            "uuid": "c4da08a9-50a8-4bc4-9e9e-64a2fac1d5bf"
+          },
+          {
+            "group": "",
+            "title": "DC Fast Charging Station for Electric Vehicles",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/dc-fast-charging-station-electric-vehicles",
+            "nid": "25431011",
+            "uuid": "fe9401df-aa85-430d-85f3-1ac63f17796d"
+          },
+          {
+            "group": "",
+            "title": "EV Charger Wall Box with High-End HMI",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/ev-charger-wall-box-high-end-hmi",
+            "nid": "24679271",
+            "uuid": "e335251d-cde5-4247-9267-38c46881735f"
+          },
+          {
+            "group": "",
+            "title": "Level 2 EV Charger Wall Box",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/level-2-ev-charger-wall-box",
+            "nid": "1607921",
+            "uuid": "bdaa988e-f2a4-4f76-b13b-c411f7930459"
+          },
+          {
+            "group": "",
+            "title": "OCPP Interface Card (OIC) for Smart EV Chargers",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/ocpp-interface-card-oic-smart-ev-chargers",
+            "nid": "24594381",
+            "uuid": "b911d35e-bac3-4316-a0b1-556ac2ccd130"
+          },
+          {
+            "group": "",
+            "title": "Portable EV Charger ",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/portable-ev-charger",
+            "nid": "24533701",
+            "uuid": "175219f9-8030-4940-9348-ff3440b2da11"
+          },
+          {
+            "group": "",
+            "title": "Swappable Battery Charging Kiosk",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/swappable-battery-charging-kiosk",
+            "nid": "1601016",
+            "uuid": "1bc58dd6-af58-4333-9309-0fd429a20e62"
+          },
+          {
+            "group": "",
+            "title": "Digital Power Conversion with Totem Pole Interleaved PFC",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/digital-power-conversion-totem-pole-interleaved-pfc",
+            "nid": "25422516",
+            "uuid": "5b4f2f2e-1838-4112-b41b-96c6eafbdcb5"
+          },
+          {
+            "group": "",
+            "title": "Power Line Feeder Terminal Unit",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/power-line-feeder-terminal-unit",
+            "nid": "467886",
+            "uuid": "47368b0a-66a4-49d1-86f6-2be734f04f2a"
+          },
+          {
+            "group": "",
+            "title": "Smart Grid Fault Indicator Unit",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/smart-grid-fault-indicator-unit",
+            "nid": "466581",
+            "uuid": "55c6d9a6-679a-4fef-9031-d395f0cd014c"
+          },
+          {
+            "group": "",
+            "title": "Long-Distance AC & DC Power Line Communication (PLC)",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/long-distance-ac-dc-power-line-communication-plc",
+            "nid": "1532561",
+            "uuid": "8aa813e3-83dc-4e2a-867c-63e59a3110fd"
+          },
+          {
+            "group": "",
+            "title": "Low-Cost DC Power Line Communication (PLC)",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/low-cost-dc-power-line-communication-plc",
+            "nid": "25435586",
+            "uuid": "593d7891-f6e7-4310-b21e-a28854521e32"
+          },
+          {
+            "group": "",
+            "title": "Power Line Communication (PLC) Node",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/power-line-communication-plc-node",
+            "nid": "464731",
+            "uuid": "4397b7c0-585e-4fa1-aab9-6f0495a3925a"
+          },
+          {
+            "group": "",
+            "title": "Grid-connected Solar Micro Inverter",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/grid-connected-solar-micro-inverter",
+            "nid": "25411891",
+            "uuid": "831f0b71-dd34-44af-b381-66a01f2dd7ab"
+          },
+          {
+            "group": "",
+            "title": "Smart Solar Battery Charger",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/smart-solar-battery-charger",
+            "nid": "464691",
+            "uuid": "3d493480-822e-4d86-af20-d41532279f30"
+          },
+          {
+            "group": "",
+            "title": "Smart Solar Irrigation Pump Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/smart-solar-irrigation-pump-controller",
+            "nid": "1496706",
+            "uuid": "849c453f-c8bb-4574-a570-98aae39504aa"
+          },
+          {
+            "group": "",
+            "title": "Smart Solar Tracking and Cleaning System",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/smart-solar-tracking-and-cleaning-system",
+            "nid": "25429691",
+            "uuid": "bbda325b-2b9e-4d54-986d-22fcf1e77f05"
+          },
+          {
+            "group": "",
+            "title": "Solar-Powered Location Tracker",
+            "link": "https://www.renesas.com/en/applications/industrial/renewable-energy-grid/solar-powered-location-tracker",
+            "nid": "2061396",
+            "uuid": "ea04a333-eb52-45c7-8e40-9dfeaa1d7a19"
+          }
+        ]
+      },
+      "Retail, Automation & Payment": {
+        "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment",
+        "applications": [
+          {
+            "group": "Payment",
+            "title": "Currency Counter With Counterfeit Detection",
+            "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment/currency-counter-counterfeit-detection",
+            "nid": "467031",
+            "uuid": "b1e85ce2-a7de-44a2-b4bf-3824103d542a"
+          },
+          {
+            "group": "Payment",
+            "title": "Mobile Point of Sale (mPoS) Terminal",
+            "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment/mobile-point-sale-mpos-terminal",
+            "nid": "25415156",
+            "uuid": "4b9b9a63-fc4f-4972-b0a5-2625b8e98c1e"
+          },
+          {
+            "group": "",
+            "title": "Barcode Scanner System",
+            "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment/barcode-scanner-system",
+            "nid": "1539326",
+            "uuid": "cbf04b5b-4e6c-49fc-8040-279549527b19"
+          },
+          {
+            "group": "",
+            "title": "Point-of-Sale Printer Controller",
+            "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment/point-sale-printer-controller",
+            "nid": "466576",
+            "uuid": "1126eed2-e0b5-4299-ae47-1d0d6808b06b"
+          },
+          {
+            "group": "",
+            "title": "Sensor Signal Conditioner to Linearize Results",
+            "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment/sensor-signal-conditioner-linearize-results",
+            "nid": "1521866",
+            "uuid": "7dd85e69-5a16-4719-afec-89f2e33be51e"
+          },
+          {
+            "group": "",
+            "title": "Vending Machine with Secure Cloud Connection",
+            "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment/vending-machine-secure-cloud-connection",
+            "nid": "465276",
+            "uuid": "a7d788be-c99a-43c5-9618-da7182d5ef48"
+          },
+          {
+            "group": "",
+            "title": "Wi-Fi Connected Retail Scale",
+            "link": "https://www.renesas.com/en/applications/industrial/retail-automation-payment/wi-fi-connected-retail-scale",
+            "nid": "1595211",
+            "uuid": "641de211-4992-4a1e-9176-e114673451c4"
+          }
+        ]
+      }
+    }
+  },
+  "Communications Infrastructure": {
+    "subcategories": {
+      "Cloud & Enterprise": {
+        "link": "https://www.renesas.com/en/applications/communications-infrastructure/cloud-enterprise",
+        "applications": []
+      },
+      "Memory": {
+        "link": "https://www.renesas.com/en/applications/communications-infrastructure/memory",
+        "applications": []
+      },
+      "Networking & Fixed Access": {
+        "link": "https://www.renesas.com/en/applications/communications-infrastructure/networking-fixed-access",
+        "applications": [
+          {
+            "group": "Network Switches",
+            "title": "1600G Fixed Form Factor Switch",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/networking-fixed-access/1600g-fixed-form-factor-switch",
+            "nid": "1544006",
+            "uuid": "f497dfd8-faa5-44b2-a0ae-814b5de6f326"
+          },
+          {
+            "group": "",
+            "title": "400ZR Optical Module",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/networking-fixed-access/400zr-optical-module",
+            "nid": "1636636",
+            "uuid": "bbafe7e4-4cca-439d-af55-17ae2f4ac7b0"
+          },
+          {
+            "group": "",
+            "title": "High Throughput Wi-Fi 6 Router",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/networking-fixed-access/high-throughput-wi-fi-6-router",
+            "nid": "1595171",
+            "uuid": "db2c8150-7fd5-49d7-9a19-36f0e20a821c"
+          }
+        ]
+      },
+      "Wireless Infrastructure": {
+        "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure",
+        "applications": [
+          {
+            "group": "5G Network Equipment",
+            "title": "5G MIMO Radio: RF & Timing",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/5g-mimo-radio-rf-timing",
+            "nid": "1496716",
+            "uuid": "bc289778-0a7e-4288-8ecc-1412a872c41c"
+          },
+          {
+            "group": "5G Network Equipment",
+            "title": "AMD FPGA RFSoC Power Tree",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/amd-fpga-rfsoc-power-tree",
+            "nid": "1631051",
+            "uuid": "f44a8746-b655-4e04-88ee-b6d92ceda4ac"
+          },
+          {
+            "group": "5G Network Equipment",
+            "title": "eCPRI Mass MIMO for RRU",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/ecpri-mass-mimo-rru",
+            "nid": "1544561",
+            "uuid": "9a168225-2357-476e-98b0-9c98717dda13"
+          },
+          {
+            "group": "5G Network Equipment",
+            "title": "High-Speed 5G to Wi-Fi Converter for CPE",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/high-speed-5g-wi-fi-converter-cpe",
+            "nid": "25435581",
+            "uuid": "f95d0145-1316-40e6-a8ff-31540a5e47cd"
+          },
+          {
+            "group": "5G Network Equipment",
+            "title": "Power Supply for 5G Infrastructure",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/power-supply-5g-infrastructure",
+            "nid": "1544611",
+            "uuid": "1895804c-15ce-4c0c-af4d-6ac13187cc53"
+          },
+          {
+            "group": "5G Network Equipment",
+            "title": "Small Cell Radio: RF + Timing",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/small-cell-radio-rf-timing",
+            "nid": "1496721",
+            "uuid": "3f40baaf-82cb-4d41-80ae-b249d2cfbfc5"
+          },
+          {
+            "group": "",
+            "title": "Ku-Band Radar with Beamformer Array",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/ku-band-radar-beamformer-array",
+            "nid": "1572741",
+            "uuid": "84949046-b48e-417e-9e55-54f1d13dd687"
+          },
+          {
+            "group": "",
+            "title": "Ku-Band Satellite Communications System",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/ku-band-satellite-communications-system",
+            "nid": "1529261",
+            "uuid": "fa4ffe25-a3a1-4171-ac82-bcdbd0a00831"
+          },
+          {
+            "group": "",
+            "title": "Radiation Hardened Versal Power Tree",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/radiation-hardened-versal-power-tree",
+            "nid": "25564741",
+            "uuid": "48081592-bdfd-47dd-a4b5-3da404005fb7"
+          },
+          {
+            "group": "",
+            "title": "Ultra-Low Power Battery Sub-GHz Radio (IEEE 802.15.4g)",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/ultra-low-power-battery-sub-ghz-radio-ieee-802154g",
+            "nid": "1496741",
+            "uuid": "84bda88f-defd-496f-900b-007b852246d8"
+          },
+          {
+            "group": "",
+            "title": "Wi-SUN FAN 1.1 Based High Speed Sub-GHz Wireless Communication",
+            "link": "https://www.renesas.com/en/applications/communications-infrastructure/wireless-infrastructure/wi-sun-fan-11-based-high-speed-sub-ghz-wireless-communication",
+            "nid": "25415151",
+            "uuid": "1632563e-adc9-4a32-b44f-1a549b1dffdb"
+          }
+        ]
+      }
+    }
+  }
+}

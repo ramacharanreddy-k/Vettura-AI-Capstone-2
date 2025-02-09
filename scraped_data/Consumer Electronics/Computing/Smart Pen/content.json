@@ -1,0 +1,183 @@
+{
+  "overview": {
+    "description": {
+      "main_text": [
+        "This smart pen system is used to record human handwriting and store a copy in a digital format. The pen uses one IR LED to emit light onto the paper and an LED sensor to detect the reflection. The sensor will allow the movement of the pen’s pattern to be detected and record what is written."
+      ],
+      "benefits": [
+        "The LED and detector record’s the pen’s movement",
+        "The IR LED is invisible, so the user will not be distracted by any light while writing",
+        "Bluetooth®Low Energy (LE) on the pen would transfer the digital data from the pen to a computer or tablet",
+        "An EEPROM on board will store the writing in memory for transfer to a notebook",
+        "Buttons for audio recording to start and to power on/off the pen"
+      ]
+    },
+    "applications": [
+      "Smart pen"
+    ],
+    "images": [],
+    "comparison": null
+  },
+  "block_diagram": {
+    "svg": "<svg class=\"st19\" color-interpolation-filters=\"sRGB\" height=\"5.90278in\" viewbox=\"0 0 600 425\" width=\"8.33333in\" xml:space=\"preserve\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:ev=\"http://www.w3.org/2001/xml-events\" xmlns:v=\"http://schemas.microsoft.com/visio/2003/SVGExtensions/\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<style type=\"text/css\">\n\t\n\t\t.st1 {marker-end:url(#mrkr4-6);stroke:#000000;stroke-width:1}\n\t\t.st2 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}\n\t\t.st3 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}\n\t\t.st4 {fill:#000000;font-family:Arial;font-size:0.833336em}\n\t\t.st5 {fill:#0071b9;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}\n\t\t.st6 {fill:#ffffff;font-family:Arial;font-size:0.916672em}\n\t\t.st7 {fill:#ffffff;font-family:Arial;font-size:0.833336em}\n\t\t.st8 {baseline-shift:32.4947%;font-size:0.649894em}\n\t\t.st9 {font-size:1em}\n\t\t.st10 {baseline-shift:-32.4947%;font-size:0.649894em}\n\t\t.st11 {fill:#ffffff;stroke:#000000;stroke-width:1}\n\t\t.st12 {fill:#000000;font-family:Arial;font-size:0.916672em}\n\t\t.st13 {stroke:#000000;stroke-width:1}\n\t\t.st14 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st15 {marker-end:url(#mrkr4-6);marker-start:url(#mrkr4-127);stroke:#000000;stroke-width:1}\n\t\t.st16 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}\n\t\t.st17 {fill:#000000;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:6.375}\n\t\t.st18 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}\n\t\t.st19 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}\n\t\n\t</style>\n<defs id=\"Markers\">\n<g id=\"lend4\">\n<path d=\"M 2 1 L 0 0 L 2 -1 L 2 1 \" style=\"stroke:none\"></path>\n</g>\n<marker class=\"st2\" id=\"mrkr4-6\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"-7.04\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"7.04\">\n<use transform=\"scale(-3.52,-3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n<marker class=\"st2\" id=\"mrkr4-127\" markerunits=\"strokeWidth\" orient=\"auto\" overflow=\"visible\" refx=\"6.68\" v:arrowsize=\"2\" v:arrowtype=\"4\" v:setback=\"6.68\">\n<use transform=\"scale(3.52) \" xlink:href=\"#lend4\"></use>\n</marker>\n</defs>\n<g v:groupcontext=\"foregroundPage\" v:index=\"1\" v:mid=\"8\">\n<title>Template 1</title>\n<g id=\"shape436-1\" transform=\"translate(400.75,-236.498)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"436\">\n<title>Connector Arrow.436</title>\n<path class=\"st1\" d=\"M0 437.5 L60.96 437.5\"></path>\n</g>\n<g id=\"shape418-7\" transform=\"translate(78.125,-324.063)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"418\">\n<title>Connector Arrow.418</title>\n<path class=\"st1\" d=\"M12.5 425 L12.5 460.27\"></path>\n</g>\n<g id=\"shape312-12\" transform=\"translate(488,0)\" v:groupcontext=\"shape\" v:mid=\"312\">\n<title>US015</title>\n<desc>US015</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"37.42\" y=\"418\">US015</text> </g>\n<a data-link-id=\"#mcu\" xlink:href=\"#mcu\">\n<g id=\"group384-15\" transform=\"translate(270,-120.75)\" v:groupcontext=\"group\" v:mid=\"384\">\n<title>Sheet.384</title>\n<a data-link-id=\"#mcu\" xlink:href=\"#mcu\">\n<g id=\"shape320-16\" transform=\"translate(-6.39488E-14,20.75)\" v:groupcontext=\"shape\" v:mid=\"320\">\n<title>MCU</title>\n<desc>MCU</desc>\n<rect class=\"st5\" height=\"202.75\" width=\"130.75\" x=\"0\" y=\"222.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"52.85\" y=\"326.93\">MCU</text> </g>\n</a>\n<g id=\"shape333-19\" transform=\"translate(98.4532,-39.25)\" v:groupcontext=\"shape\" v:mid=\"333\">\n<title>I2C</title>\n<desc>I2C</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"32.2968\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"14.68\" y=\"418\">I<tspan class=\"st8\" dy=\"-0.235em\" v:basefontsize=\"10\">2</tspan><tspan class=\"st9\" dy=\"0.153em\">C</tspan></text> </g>\n<g id=\"shape334-24\" transform=\"translate(0.750029,-161.996)\" v:groupcontext=\"shape\" v:mid=\"334\">\n<title>UART</title>\n<desc>UART</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"42.2968\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"4\" y=\"418\">UART</text> </g>\n<g id=\"shape378-27\" transform=\"translate(35,-161.996)\" v:groupcontext=\"shape\" v:mid=\"378\">\n<title>GPIO</title>\n<desc>GPIO</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"60\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"17.5\" y=\"418\">GPIO</text> </g>\n<g id=\"shape379-30\" transform=\"translate(88.8516,-161.996)\" v:groupcontext=\"shape\" v:mid=\"379\">\n<title>UART </title>\n<desc>UART</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"42.2968\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"11.08\" y=\"418\">UART</text> </g>\n<g id=\"shape380-33\" transform=\"translate(70.75,-134.746)\" v:groupcontext=\"shape\" v:mid=\"380\">\n<title>ADC</title>\n<desc>ADC</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"60\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"34.89\" y=\"418\">ADC</text> </g>\n<g id=\"shape381-36\" transform=\"translate(70.75,-93.2464)\" v:groupcontext=\"shape\" v:mid=\"381\">\n<title>GPIO </title>\n<desc>GPIO</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"60\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"30.99\" y=\"418\">GPIO</text> </g>\n<g id=\"shape382-39\" transform=\"translate(0.750029,-94.2464)\" v:groupcontext=\"shape\" v:mid=\"382\">\n<title>ADC.382</title>\n<desc>A/D</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"60\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"4\" y=\"418\">A/D</text> </g>\n<g id=\"shape383-42\" transform=\"translate(35.375,20.7536)\" v:groupcontext=\"shape\" v:mid=\"383\">\n<title>VDD</title>\n<desc>VDD</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"60\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st7\" v:langid=\"1033\" x=\"21.97\" y=\"418\">V<tspan class=\"st10\" dy=\"-0.287em\" v:basefontsize=\"10\">DD</tspan></text> </g>\n</g>\n</a>\n<g id=\"shape394-46\" transform=\"translate(193.25,-214.912)\" v:groupcontext=\"shape\" v:mid=\"394\">\n<title>R</title>\n<desc>R</desc>\n<rect class=\"st11\" height=\"23.6754\" width=\"23.5\" x=\"0\" y=\"401.325\"></rect>\n<text class=\"st12\" v:langid=\"1033\" x=\"7.78\" y=\"416.46\">R</text> </g>\n<g id=\"shape395-49\" transform=\"translate(216.75,-214.25)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"395\">\n<title>Connector Arrow</title>\n<path class=\"st1\" d=\"M0 412.5 L46.02 412.5\"></path>\n</g>\n<g id=\"shape396-54\" transform=\"translate(90.625,-214.25)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"396\">\n<title>Connector Line</title>\n<path class=\"st13\" d=\"M0 412.5 L102.62 412.5\"></path>\n</g>\n<g id=\"shape397-57\" transform=\"translate(103.138,-37.2)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"397\">\n<title>Connector Line.397</title>\n<path class=\"st13\" d=\"M-12.49 425 L-12.51 214.2\"></path>\n</g>\n<g id=\"shape399-60\" transform=\"translate(90.7647,-32.625)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"399\">\n<title>Connector Arrow.399</title>\n<path class=\"st1\" d=\"M0 412.5 L186.95 412.5\"></path>\n</g>\n<g id=\"shape400-65\" transform=\"translate(386,-45.125)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"400\">\n<title>Connector Arrow.400</title>\n<path class=\"st1\" d=\"M0 425 L36.22 425 L36.22 222.68 L139 222.68 L139 217.17\"></path>\n</g>\n<g id=\"shape401-70\" transform=\"translate(422.222,-75)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"401\">\n<title>Connector Arrow.401</title>\n<path class=\"st1\" d=\"M0 425 L-86.85 425 L-86.85 407.04\"></path>\n</g>\n<g id=\"shape402-75\" transform=\"translate(292,-72)\" v:groupcontext=\"shape\" v:mid=\"402\">\n<title>3.9mA</title>\n<desc>3.9mA</desc>\n<rect class=\"st3\" height=\"12\" width=\"44.7815\" x=\"0\" y=\"413\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"7.94\" y=\"422\">3.9mA</text> </g>\n<g id=\"shape403-78\" transform=\"translate(380.219,-28.25)\" v:groupcontext=\"shape\" v:mid=\"403\">\n<title>3.3V</title>\n<desc>3.3V</desc>\n<rect class=\"st3\" height=\"12\" width=\"44.7815\" x=\"0\" y=\"413\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"12.11\" y=\"422\">3.3V</text> </g>\n<g id=\"shape404-81\" transform=\"translate(419.609,-47)\" v:groupcontext=\"shape\" v:mid=\"404\">\n<title>2.5mA</title>\n<desc>2.5mA</desc>\n<rect class=\"st3\" height=\"12\" width=\"44.7815\" x=\"0\" y=\"413\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"7.94\" y=\"422\">2.5mA</text> </g>\n<g id=\"group416-84\" transform=\"translate(84.9878,-12)\" v:groupcontext=\"group\" v:mid=\"416\">\n<title>Sheet.416</title>\n<g id=\"group405-85\" transform=\"translate(425,398.874) rotate(90)\" v:groupcontext=\"group\" v:mid=\"405\">\n<title>Battery 1-Cell</title>\n<g id=\"shape406-86\" transform=\"translate(-419,425) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"406\">\n<title>Sheet.406</title>\n<path class=\"st13\" d=\"M0 425 L11.32 425\"></path>\n</g>\n<g id=\"shape407-89\" transform=\"translate(-415.2,422.769) rotate(-90)\" v:groupcontext=\"shape\" v:mid=\"407\">\n<title>Sheet.407</title>\n<path class=\"st13\" d=\"M0 425 L6.86 425\"></path>\n</g>\n<g id=\"shape408-92\" transform=\"translate(10,-5.66217)\" v:groupcontext=\"shape\" v:mid=\"408\">\n<title>Line 1pt.1552</title>\n<path class=\"st13\" d=\"M0 425 L6 425\"></path>\n</g>\n<g id=\"shape409-95\" transform=\"translate(1.28397E-13,-5.66217)\" v:groupcontext=\"shape\" v:mid=\"409\">\n<title>Line 1pt.1583</title>\n<path class=\"st13\" d=\"M0 425 L6 425\"></path>\n</g>\n</g>\n<g id=\"group410-98\" transform=\"translate(0.662161,4.12555)\" v:groupcontext=\"group\" v:mid=\"410\">\n<title>Ground - Signal</title>\n<g id=\"shape411-99\" transform=\"translate(430,406.059) rotate(90)\" v:groupcontext=\"shape\" v:mid=\"411\">\n<title>Sheet.411</title>\n<path class=\"st13\" d=\"M0 425 L10.27 425\"></path>\n</g>\n<g id=\"group412-102\" v:groupcontext=\"group\" v:mid=\"412\">\n<title>Sheet.412</title>\n<g id=\"shape413-103\" transform=\"translate(0,-8.14816)\" v:groupcontext=\"shape\" v:mid=\"413\">\n<title>Sheet.413</title>\n<path class=\"st14\" d=\"M0 425 L10 425\"></path>\n</g>\n<g id=\"shape414-106\" transform=\"translate(360.946,192.48) rotate(58.134)\" v:groupcontext=\"shape\" v:mid=\"414\">\n<title>Sheet.414</title>\n<path class=\"st14\" d=\"M0 425 L9.59 425\"></path>\n</g>\n<g id=\"shape415-109\" transform=\"translate(373.525,637.021) rotate(121.201)\" v:groupcontext=\"shape\" v:mid=\"415\">\n<title>Sheet.415</title>\n<path class=\"st14\" d=\"M0 425 L9.53 425\"></path>\n</g>\n</g>\n</g>\n</g>\n<g id=\"shape417-112\" transform=\"translate(47.75,-40.58)\" v:groupcontext=\"shape\" v:mid=\"417\">\n<title>3.6V Battery</title>\n<desc>3.6V Battery</desc>\n<rect class=\"st3\" height=\"32.0037\" width=\"46.5622\" x=\"0\" y=\"392.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"13\" y=\"406\">3.6V <tspan class=\"st9\" dy=\"1.2em\" x=\"7.44\">Battery</tspan></text> </g>\n<g id=\"shape419-116\" transform=\"translate(78.125,-382.5)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"419\">\n<title>Connector Arrow.419</title>\n<path class=\"st1\" d=\"M12.5 425.31 L12.5 442.65\"></path>\n</g>\n<g id=\"shape420-121\" transform=\"translate(248.94,-385.625)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"420\">\n<title>Bi-directional</title>\n<path class=\"st15\" d=\"M6.68 412.5 L7.04 412.5 L25.08 412.5\"></path>\n</g>\n<g id=\"shape421-129\" transform=\"translate(204.47,-381.25)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"421\">\n<title>Connector Arrow.421</title>\n<path class=\"st1\" d=\"M0 425 L0 465.31 L-56.18 465.31\"></path>\n</g>\n<g id=\"shape422-134\" transform=\"translate(204.47,-355)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"422\">\n<title>Connector Arrow.422</title>\n<path class=\"st1\" d=\"M0 425 L60.53 425 L60.53 391 L69.55 391\"></path>\n</g>\n<g id=\"shape423-139\" transform=\"translate(201.954,-352.227)\" v:groupcontext=\"shape\" v:mid=\"423\">\n<title>Connector 1.160</title>\n<ellipse class=\"st16\" cx=\"2.77275\" cy=\"422.227\" rx=\"2.77275\" ry=\"2.77275\"></ellipse>\n</g>\n<g id=\"shape424-141\" transform=\"translate(277.5,-381.25)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"424\">\n<title>Bi-directional.424</title>\n<path class=\"st15\" d=\"M12.5 431.68 L12.5 432.04 L12.5 496.46\"></path>\n</g>\n<g id=\"shape425-148\" transform=\"translate(335.375,-302.75)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"425\">\n<title>Bi-directional.425</title>\n<path class=\"st15\" d=\"M0 418.32 L0 417.96 L0 372.75 L126.33 372.75\"></path>\n</g>\n<g id=\"shape426-155\" transform=\"translate(385,-297.312)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"426\">\n<title>Bi-directional.426</title>\n<path class=\"st15\" d=\"M0 412.88 L0 412.52 L0 405.44 L76.71 405.44\"></path>\n</g>\n<g id=\"shape427-162\" transform=\"translate(360,-314.996)\" v:groupcontext=\"shape\" v:mid=\"427\">\n<title>9mA</title>\n<desc>9mA</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"25.72\" y=\"418\">9mA</text> </g>\n<g id=\"shape428-165\" transform=\"translate(180,-333.996)\" v:groupcontext=\"shape\" v:mid=\"428\">\n<title>5V</title>\n<desc>5V</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"29.88\" y=\"418\">5V</text> </g>\n<g id=\"group429-168\" transform=\"translate(480,-254.196)\" v:groupcontext=\"group\" v:mid=\"429\">\n<title>Microphone</title>\n<g id=\"shape430-169\" v:groupcontext=\"shape\" v:mid=\"430\">\n<title>Sheet.430</title>\n<path class=\"st17\" d=\"M8.13 423.24 L14.45 423.24 L14.45 425 L0 425 L0 423.24 L6.32 423.24 L6.32 419.66 C2.92 419.22 0.3 416.41         0.3 412.98 L0.3 410.05 L2.11 410.05 L2.11 412.98 C2.11 415.73 4.4 417.96 7.22 417.96 C10.05 417.96 12.34         415.73 12.34 412.98 L12.34 410.05 L14.15 410.05 L14.15 412.98 C14.15 416.41 11.53 419.22 8.13 419.66         L8.13 423.24 Z\"></path>\n</g>\n<g id=\"shape431-171\" transform=\"translate(3.31146,-8.21023)\" v:groupcontext=\"shape\" v:mid=\"431\">\n<title>Sheet.431</title>\n<path class=\"st17\" d=\"M3.91 425 C1.75 425 0 423.3 0 421.19 L0 411.22 C0 409.11 1.75 407.41 3.91 407.41 C6.08 407.41 7.83 409.11         7.83 411.22 L4.82 411.22 L4.82 412.39 L7.83 412.39 L7.83 414.15 L4.82 414.15 L4.82 415.32 L7.83 415.32         L7.83 417.08 L4.82 417.08 L4.82 418.26 L7.83 418.26 L7.83 420.02 L4.82 420.02 L4.82 421.19 L7.83 421.19         C7.83 423.3 6.08 425 3.91 425 Z\"></path>\n</g>\n</g>\n<g id=\"shape432-173\" transform=\"translate(476.852,-253.5)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"432\">\n<title>Connector Arrow.432</title>\n<path class=\"st1\" d=\"M0 412.5 L-69.06 412.5\"></path>\n</g>\n<g id=\"shape433-178\" transform=\"translate(495,-257.096)\" v:groupcontext=\"shape\" v:mid=\"433\">\n<title>Microphone.433</title>\n<desc>Microphone</desc>\n<rect class=\"st3\" height=\"20.0036\" width=\"72\" x=\"0\" y=\"404.996\"></rect>\n<text class=\"st4\" v:langid=\"1033\" x=\"9.87\" y=\"418\">Microphone</text> </g>\n<g id=\"shape437-181\" transform=\"translate(422.222,-220)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"437\">\n<title>Connector Arrow.437</title>\n<path class=\"st1\" d=\"M0 437.5 L38.99 437.5\"></path>\n</g>\n<g id=\"shape439-186\" transform=\"translate(468.75,-157.502)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"439\">\n<title>Connector Arrow.439</title>\n<path class=\"st1\" d=\"M0 412.5 L-60.96 412.5\"></path>\n</g>\n<g id=\"shape440-191\" transform=\"translate(422.5,-142.5)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"440\">\n<title>Connector Arrow.440</title>\n<path class=\"st1\" d=\"M0 412.5 L39.21 412.5\"></path>\n</g>\n<g id=\"shape441-196\" transform=\"translate(444.375,-170.002)\" v:groupcontext=\"shape\" v:layermember=\"1\" v:mid=\"441\">\n<title>Connector Arrow.441</title>\n<path class=\"st1\" d=\"M0.62 425 L0.62 489.88 L17.34 489.88\"></path>\n</g>\n<a data-link-id=\"#ble\" xlink:href=\"#ble\">\n<g id=\"shape388-201\" transform=\"translate(468.75,-300)\" v:groupcontext=\"shape\" v:mid=\"388\">\n<title>BLE</title>\n<desc>BLE</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"91.25\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"35.23\" y=\"411.43\">BLE</text> </g>\n</a>\n<a data-link-id=\"#eeprom\" xlink:href=\"#eeprom\">\n<g id=\"shape389-204\" transform=\"translate(468.75,-88.25)\" v:groupcontext=\"shape\" v:mid=\"389\">\n<title>EEPROM</title>\n<desc>EEPROM</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"91.25\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"21.79\" y=\"411.43\">EEPROM</text> </g>\n</a>\n<g id=\"shape392-207\" transform=\"translate(468.75,-338.125)\" v:groupcontext=\"shape\" v:mid=\"392\">\n<title>Button</title>\n<desc>Button</desc>\n<rect class=\"st11\" height=\"33.75\" width=\"88.94\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st12\" v:langid=\"1033\" x=\"28.57\" y=\"411.43\">Button</text> </g>\n<g id=\"shape434-210\" transform=\"translate(468.75,-200)\" v:groupcontext=\"shape\" v:mid=\"434\">\n<title>LED</title>\n<desc>LED</desc>\n<rect class=\"st11\" height=\"33.75\" width=\"88.94\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st12\" v:langid=\"1033\" x=\"33.77\" y=\"411.43\">LED</text> </g>\n<g id=\"shape438-213\" transform=\"translate(468.75,-146.25)\" v:groupcontext=\"shape\" v:mid=\"438\">\n<title>LED Sensor</title>\n<desc>LED Sensor</desc>\n<rect class=\"st11\" height=\"33.75\" width=\"88.94\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st12\" v:langid=\"1033\" x=\"14.82\" y=\"411.43\">LED Sensor</text> </g>\n<a data-link-id=\"#battery-charger\" xlink:href=\"#battery-charger\">\n<g id=\"shape385-216\" transform=\"translate(40,-248)\" v:groupcontext=\"shape\" v:mid=\"385\">\n<title>Battery Charger</title>\n<desc>Battery Charger</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"11.8\" y=\"411.43\">Battery Charger</text> </g>\n</a>\n<g id=\"shape386-219\" transform=\"translate(40,-382.187)\" v:groupcontext=\"shape\" v:mid=\"386\">\n<title>Wireless Power</title>\n<desc>Wireless Power</desc>\n<rect class=\"st18\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st12\" v:langid=\"1033\" x=\"12.42\" y=\"411.43\">Wireless Power</text> </g>\n<a data-link-id=\"#load-switch\" xlink:href=\"#load-switch\">\n<g id=\"shape387-222\" transform=\"translate(40,-324.063)\" v:groupcontext=\"shape\" v:mid=\"387\">\n<title>Load Switch</title>\n<desc>Load Switch</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"20.66\" y=\"411.43\">Load Switch</text> </g>\n</a>\n<g id=\"shape390-225\" transform=\"translate(160,-381.25)\" v:groupcontext=\"shape\" v:mid=\"390\">\n<title>USB Connector</title>\n<desc>USB Connector</desc>\n<rect class=\"st11\" height=\"33.75\" width=\"88.94\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st12\" v:langid=\"1033\" x=\"6.26\" y=\"411.43\">USB Connector</text> </g>\n<g id=\"shape391-228\" transform=\"translate(281.06,-381.25)\" v:groupcontext=\"shape\" v:mid=\"391\">\n<title>USB to UART</title>\n<desc>USB to UART</desc>\n<rect class=\"st11\" height=\"33.75\" width=\"88.94\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st12\" v:langid=\"1033\" x=\"10.55\" y=\"411.43\">USB to UART</text> </g>\n<a data-link-id=\"#ldo\" xlink:href=\"#ldo\">\n<g id=\"shape398-231\" transform=\"translate(284.75,-28.25)\" v:groupcontext=\"shape\" v:mid=\"398\">\n<title>LDO</title>\n<desc>LDO</desc>\n<rect class=\"st5\" height=\"33.75\" width=\"101.25\" x=\"0\" y=\"391.25\"></rect>\n<text class=\"st6\" v:langid=\"1033\" x=\"39.32\" y=\"411.43\">LDO</text> </g>\n</a>\n</g>\n</svg>",
+    "svg_path": "scraped_data/Consumer Electronics/Computing/Smart Pen/block_diagram.svg",
+    "blocks": {
+      "mcu": {
+        "label": "MCU",
+        "categories": [
+          {
+            "title": "RA Arm Cortex-M MCUs",
+            "products": [
+              {
+                "title": "RA2E2 - 48MHz Arm Cortex-M23 Ultra-Low Power General-Purpose Microcontroller",
+                "product_id": "RA2E2",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "RA2E2 Group Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/ra2e2-group-datasheet?r=464706",
+                    "doc_id": "1538046",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra2e2-48mhz-arm-cortex-m23-ultra-low-power-general-purpose-microcontroller#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "ble": {
+        "label": "Bluetooth Low Energy",
+        "categories": [
+          {
+            "title": "Bluetooth Low Energy",
+            "products": [
+              {
+                "title": "DA14530 - SmartBond TINY™ Low Power Bluetooth 5.1 System-on-Chip",
+                "product_id": "DA14530",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "DA14530 datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/da14530-datasheet?r=464706",
+                    "doc_id": "1549211",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/wireless-connectivity/bluetooth-low-energy/da14530-smartbond-tiny-low-power-bluetooth-51-system-chip#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "eeprom": {
+        "label": "EEPROM",
+        "categories": [
+          {
+            "title": "EEPROM & PROM",
+            "products": [
+              {
+                "title": "R1EX24002A - Two-wire serial interface 2k EEPROM (256-word x 8-bit)",
+                "product_id": "R1EX24002A",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "R1EX24002ASAS0I/R1EX24002ATAS0I Datasheet (Two-wire serial interface / 2k EEPROM (256-word x 8-bit))",
+                    "url": "https://www.renesas.com/en/document/dst/r1ex24002asas0ir1ex24002atas0i-datasheet-two-wire-serial-interface-2k-eeprom-256-word-x-8-bit?r=464706",
+                    "doc_id": "902601",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/memory-logic/non-volatile-memory/eeprom-prom/r1ex24002a-two-wire-serial-interface-2k-eeprom-256-word-x-8-bit#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "ldo": {
+        "label": "LDO",
+        "categories": [
+          {
+            "title": "Linear Regulators (LDO)",
+            "products": [
+              {
+                "title": "ISL9001A - LDO with Low ISUPPLY, High PSRR",
+                "product_id": "ISL9001A",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL9001A Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl9001a-datasheet?r=464706",
+                    "doc_id": "616506",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/linear-regulators-ldo/isl9001a-ldo-low-isupply-high-psrr#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "battery-charger": {
+        "label": "Battery Charger",
+        "categories": [
+          {
+            "title": "Battery Charger ICs",
+            "products": [
+              {
+                "title": "ISL9205 - Li-ion Battery Charger",
+                "product_id": "ISL9205",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "ISL9205, ISL9205A, ISL9205B, ISL9205C, ISL9205D Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/isl9205-isl9205a-isl9205b-isl9205c-isl9205d-datasheet?r=464706",
+                    "doc_id": "913131",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/battery-management/battery-charger-ics/isl9205-li-ion-battery-charger#parametric_options"
+              }
+            ]
+          }
+        ]
+      },
+      "load-switch": {
+        "label": "Load Switch",
+        "categories": [
+          {
+            "title": "Load Switches",
+            "products": [
+              {
+                "title": "SLG59M1639V - GreenFET Dual P-Channel Reverse Blocking Load Switch",
+                "product_id": "SLG59M1639V",
+                "description": "",
+                "documentation": [
+                  {
+                    "title": "SLG59M1639V Datasheet",
+                    "url": "https://www.renesas.com/en/document/dst/slg59m1639v-datasheet?r=464706",
+                    "doc_id": "1550131",
+                    "language": "en",
+                    "external": false
+                  }
+                ],
+                "images": [],
+                "buy_sample_link": "/en/products/power-management/power-supply-support/load-switches/slg59m1639v-greenfet-dual-p-channel-reverse-blocking-load-switch#parametric_options"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
